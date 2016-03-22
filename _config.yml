@@ -1,0 +1,8 @@
+title: We CodeSign Podcast
+email: wecodesignpodcast@gmail.com
+description: "El Podcast de Diseño y Desarrollo Web en castellano"
+baseurl: ""
+url: "http://wecodesignpodcast.com"
+
+# Build settings
+markdown: kramdown

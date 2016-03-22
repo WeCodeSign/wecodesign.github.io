@@ -1,0 +1,22 @@
+///////////////////////////////////////////
+// FOOTER
+///////////////////////////////////////////
+footer {
+	font-size: 85%;
+	margin-bottom: 10px !important;
+	padding: 0 15px;
+	border-top: 1px solid $tertiaryColor;
+
+	& p {
+		color: white;
+		text-align: center;
+	}
+
+	& a {
+		color: white;
+	}
+
+		&:visited {
+			color: white;
+		}
+}

@@ -1,0 +1,163 @@
+///////////////////////////////////////////
+// POST CARD
+///////////////////////////////////////////
+.blog-card {
+	@include transition(0.3s, height);
+
+	background: $secondaryColor;
+	margin: 0 auto 3%;
+	overflow: hidden;
+	position: relative;
+	border: 5px solid $mainColor;
+	font-size: 14px;
+	line-height: 1.45em;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+
+	.photo {
+		position: relative;
+		height: 200px;
+		background: url('../img/portrait.jpg');
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+
+		//&.photo1 {
+		//	@include bgImg("../img/portrait.png");
+		//
+		//}
+	}
+
+	.details {
+		@include transition(0.3s);
+
+		color: white;
+		font-family: $secondaryFont;
+		list-style: none;
+		margin: 0;
+		padding: 10px 15px;
+		height: 200px;
+
+		/*POSITION*/
+		position: absolute;
+		top: 0;
+		left: -100%;
+	}
+
+	.description {
+		padding: 10px;
+		position: relative;
+
+		h2 {
+			font-family: $secondaryFont;
+			font-weight: normal;
+			color: white;
+			line-height: 1em;
+			margin: 0 0 10px 0;
+		}
+
+		h3 {
+			color: white;
+			font-family: $secondaryFont;
+			line-height: 1.2em;
+			font-size: 1em;
+			font-weight: 400;
+			margin: 1.2% 0;
+		}
+
+		p {
+			position: relative;
+			margin: 0;
+			padding-top: 20px;
+			color: white;
+
+			&:after {
+				content: "";
+				background: $mainColor;
+				height: 6px;
+				width: 69px;
+
+				/*POSITION*/
+				position: absolute;
+				top: 6px;
+				left: 0;
+			}
+		}
+
+		a {
+			padding: 0 10px;
+			float: right;
+			color: white;
+			font-family: $secondaryFont;
+			font-size: 10px;
+			text-transform: uppercase;
+			text-decoration: none;
+			margin: 10px 0;
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+}	
+
+@media screen and (min-width: 37.5em) {
+	.blog-card {
+		height: 200px;
+		max-width: $maxWidth;
+
+		&.alt {
+			.details {
+				padding-left: 30px;
+			}
+
+			.description {
+				float: right;
+
+				&:before {
+					transform: skewX(5deg);
+					right: -15px;
+					left: inherit;
+				}
+			}
+
+			.photo {
+				float: right;
+			}
+		}
+
+		.photo {
+			@include transition(0.5s);
+
+			float: left;
+			height: 100%;
+			width: 40%;
+		}
+
+		.details {
+			width: 40%;
+		}
+
+		.description {
+			float: left;
+			width: 60%;
+			z-index: 0;
+
+			&:before {
+				transform: skewX(-5deg);
+				content: "";
+				background: $secondaryColor;
+				width: 100%;
+				z-index: -1;
+
+				/*POSITION*/
+				position: absolute;
+				left: -15px;
+				top: 0;
+				bottom: 0;
+				/*FIXED HEIGHT*/
+				height: 200px;
+			}
+		}
+	}
+}

@@ -1,0 +1,9 @@
+@mixin transition($dur, $prop: all) {
+	transition: $prop $dur ease;
+	-webkit-transition: $prop $dur ease;
+}
+
+@mixin bgImg($url) {
+	background: url($url) center no-repeat;
+	background-size: cover;
+}
