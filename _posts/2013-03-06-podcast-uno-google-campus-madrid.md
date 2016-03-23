@@ -5,7 +5,7 @@ excerpt: "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mu
 podcast_number: "WCD 1x01"
 podcast_date: "Marzo 6, 2016"
 podcast_duration: "1:02:03"
-podcast_img: ../img/jarley.jpg
+podcast_img: /img/fondoDos.jpg
 tags: 
   - Web Design
   - Web Development

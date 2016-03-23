@@ -3,11 +3,10 @@ layout: default
 ---
 
 <div class="post-list">
-    
+   
     {% for post in site.posts %}
     <article class="blog-card">
         <div class="photo photo1"></div>
-        <!-- <img class="photo" src="" alt=""}> -->
         <div class="description">
             <h2>{{ post.title }}</h2>
             <h3>{{ post.podcast_number }}</h3>
@@ -15,6 +14,11 @@ layout: default
             <a href="{{ post.url }}"><div class="icono-more"></div>Ver más</a>
         </div>
     </article>
+    <style type="text/css">
+       .photo {
+            background-image: url({{ post.podcast_img }});
+        }
+    </style>
     {% endfor %}
     
 </div>
