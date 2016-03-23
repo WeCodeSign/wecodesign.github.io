@@ -14,20 +14,6 @@
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 
-	.photo {
-		position: relative;
-		height: 200px;
-		// background: url('../img/portrait.jpg');
-		background-position: center;
-		background-size: cover;
-		background-repeat: no-repeat;
-
-		//&.photo1 {
-		//	@include bgImg("../img/portrait.png");
-		//
-		//}
-	}
-
 	.details {
 		@include transition(0.3s);
 
@@ -120,18 +106,6 @@
 					left: inherit;
 				}
 			}
-
-			.photo {
-				float: right;
-			}
-		}
-
-		.photo {
-			@include transition(0.5s);
-
-			float: left;
-			height: 100%;
-			width: 40%;
 		}
 
 		.details {

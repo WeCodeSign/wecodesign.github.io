@@ -1,0 +1,20 @@
+- title: "Podcast 3"
+  excerpt: "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza"
+  podcast_number: "WCD 1x03"
+  podcast_date: "Marzo 7, 2016"
+  podcast_duration: "0:59:17"
+  image_url: ../img/fondoTres.jpg
+
+- title: "Podcast 3"
+  excerpt: "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza"
+  podcast_number: "WCD 1x02"
+  podcast_date: "Marzo 7, 2016"
+  podcast_duration: "0:59:17"
+  image_url: ../img/fondoDos.jpg
+
+- title: "Podcast 3"
+  excerpt: "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza"
+  podcast_number: "WCD 1x01"
+  podcast_date: "Marzo 6, 2016"
+  podcast_duration: "1:02:03"
+  image_url: ../img/fondoUno.jpg

@@ -4,19 +4,41 @@ layout: default
 
 <div class="post-list">
    
-    {% for post in site.posts %}
+    {% for podcast in site.data.podcasts %}
     <article class="blog-card">
-        <div class="photo photo1"></div>
+        <div class="photo{{forloop.index}}"></div>
         <div class="description">
-            <h2>{{ post.title }}</h2>
-            <h3>{{ post.podcast_number }}</h3>
-            <p class="summary">{{ post.excerpt }}</p>
-            <a href="{{ post.url }}"><div class="icono-more"></div>Ver más</a>
+            <h2>{{ podcast.title }}</h2>
+            <h3>{{ podcast.podcast_number }}</h3>
+            <p class="summary">{{ podcast.excerpt }}</p>
+            <a href="{{ podcast.url }}"><div class="icono-more"></div>Ver más</a>
         </div>
     </article>
     <style type="text/css">
-       .photo {
-            background-image: url({{ post.podcast_img }});
+       .photo{{forloop.index}} {
+            position: relative;
+            height: 200px;
+            background-image: url({{ podcast.image_url }});
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+
+        @media screen and (min-width: 37.5em) {
+            .blog-card.alt .photo{{forloop.index}} {
+                float: right;
+              }
+
+            .blog-card .photo{{forloop.index}} {
+                -webkit-transition: all 0.5s ease;
+                   -moz-transition: all 0.5s ease;
+                     -o-transition: all 0.5s ease;
+                    -ms-transition: all 0.5s ease;
+                        transition: all 0.5s ease;
+                float: left;
+                height: 100%;
+                width: 40%;
+            }
         }
     </style>
     {% endfor %}
