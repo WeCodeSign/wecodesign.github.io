@@ -3,6 +3,16 @@ email: wecodesignpodcast@gmail.com
 description: "El Podcast de Diseño y Desarrollo Web en castellano"
 baseurl: ""
 url: "http://wecodesignpodcast.com"
+twitter_username: WeCodeSignPD
 
 # Build settings
 markdown: kramdown
+paginate_path: /blog/page:num
+paginate: 10
+permalink: pretty
+sass:
+  style: :compressed
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
