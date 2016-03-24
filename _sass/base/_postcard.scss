@@ -3,52 +3,36 @@
 ///////////////////////////////////////////
 .blog-card {
 	@include transition(0.3s, height);
-
-	background: $secondaryColor;
-	margin: 0 auto 3%;
-	overflow: hidden;
+	
 	position: relative;
+	margin: 0 auto 3%;
 	border: 5px solid $mainColor;
+	background: $secondaryColor;
 	font-size: 14px;
 	line-height: 1.45em;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-
-	.details {
-		@include transition(0.3s);
-
-		color: white;
-		font-family: $secondaryFont;
-		list-style: none;
-		margin: 0;
-		padding: 10px 15px;
-		height: 200px;
-
-		/*POSITION*/
-		position: absolute;
-		top: 0;
-		left: -100%;
-	}
+	overflow: hidden;
 
 	.description {
-		padding: 10px;
 		position: relative;
+		padding: 10px;
 
 		h2 {
-			font-family: $secondaryFont;
-			font-weight: normal;
+			margin: 0 0 10px 0;
 			color: white;
 			line-height: 1em;
-			margin: 0 0 10px 0;
+			font-family: $secondaryFont;
+			font-weight: normal;
 		}
 
 		h3 {
+			margin: 1.2% 0;
 			color: white;
-			font-family: $secondaryFont;
 			line-height: 1.2em;
+			font-family: $secondaryFont;
 			font-size: 1em;
 			font-weight: 400;
-			margin: 1.2% 0;
 		}
 
 		p {
@@ -59,9 +43,9 @@
 
 			&:after {
 				content: "";
-				background: $mainColor;
 				height: 6px;
 				width: 69px;
+				background: $mainColor;
 
 				/*POSITION*/
 				position: absolute;
@@ -71,14 +55,14 @@
 		}
 
 		a {
+			margin: 10px 0;
 			padding: 0 10px;
 			float: right;
 			color: white;
 			font-family: $secondaryFont;
 			font-size: 10px;
-			text-transform: uppercase;
 			text-decoration: none;
-			margin: 10px 0;
+			text-transform: uppercase;
 
 			&:hover {
 				text-decoration: underline;
@@ -92,36 +76,29 @@
 		height: 200px;
 		max-width: $maxWidth;
 
-		&.alt {
-			.details {
-				padding-left: 30px;
-			}
+		& {
 
 			.description {
 				float: right;
 
 				&:before {
-					transform: skewX(5deg);
 					right: -15px;
 					left: inherit;
+					transform: skewX(5deg);
 				}
 			}
 		}
 
-		.details {
-			width: 40%;
-		}
-
 		.description {
-			float: left;
 			width: 60%;
+			float: left;
 			z-index: 0;
 
 			&:before {
-				transform: skewX(-5deg);
 				content: "";
-				background: $secondaryColor;
 				width: 100%;
+				background: $secondaryColor;
+				transform: skewX(-5deg);
 				z-index: -1;
 
 				/*POSITION*/

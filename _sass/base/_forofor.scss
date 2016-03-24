@@ -1,0 +1,33 @@
+.forofor {
+	margin: 0 auto;
+	max-width: 800px;
+
+	& img {
+		display: block;
+		max-width: 200px;
+		margin: 0 auto;
+	}
+
+	& p {
+		color: white;
+		text-align: center;
+
+		& strong {
+			font-size: 3em;
+		}
+
+		& a {
+			display: block;
+			color: $mainColor;
+			text-decoration: none;
+
+			&:hover {
+				text-decoration: underline;
+			}
+
+			&:visited {
+				color: $mainColor;
+			}
+		}
+	}
+}
