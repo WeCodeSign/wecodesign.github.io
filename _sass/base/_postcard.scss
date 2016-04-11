@@ -7,7 +7,7 @@
 	position: relative;
 	margin: 0 auto 3%;
 	border: 5px solid $mainColor;
-	background: $secondaryColor;
+	background: white;
 	font-size: 14px;
 	line-height: 1.45em;
 	-webkit-font-smoothing: antialiased;
@@ -20,7 +20,7 @@
 
 		h2 {
 			margin: 0 0 10px 0;
-			color: white;
+			color: $secondaryColor;
 			line-height: 1em;
 			font-family: $secondaryFont;
 			font-weight: normal;
@@ -28,7 +28,7 @@
 
 		h3 {
 			margin: 1.2% 0;
-			color: white;
+			color: $secondaryColor;
 			line-height: 1.2em;
 			font-family: $secondaryFont;
 			font-size: 1em;
@@ -39,7 +39,7 @@
 			position: relative;
 			margin: 0;
 			padding-top: 20px;
-			color: white;
+			color: $secondaryColor;
 
 			&:after {
 				content: "";
@@ -58,7 +58,7 @@
 			margin: 10px 0;
 			padding: 0 10px;
 			float: right;
-			color: white;
+			color: $secondaryColor;
 			font-family: $secondaryFont;
 			font-size: 10px;
 			text-decoration: none;
@@ -97,7 +97,7 @@
 			&:before {
 				content: "";
 				width: 100%;
-				background: $secondaryColor;
+				background: white;
 				transform: skewX(-5deg);
 				z-index: -1;
 

@@ -3,20 +3,28 @@
 ///////////////////////////////////////////
 footer {
 	font-size: 85%;
-	margin-bottom: 10px !important;
-	padding: 0 15px;
+	padding: 10px 15px;
 	border-top: 1px solid $tertiaryColor;
+	background-color: white;
 
 	& p {
-		color: white;
+		color: $secondaryColor;
 		text-align: center;
+		
+		&:first-child {
+			margin-top: 0;
+		}
+
+		&:last-child {
+			margin-bottom: 0;
+		}
 	}
 
 	& a {
-		color: white;
+		color: $secondaryColor;
 	}
 
 		&:visited {
-			color: white;
+			color: $secondaryColor;
 		}
 }

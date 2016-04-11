@@ -1,24 +1,25 @@
 ---
+title: "Home"
 layout: default
 ---
 
 <div class="post-list">
-   
-    {% for podcast in site.data.podcasts %}
+
+    {% for post in site.posts %}
     <article class="blog-card">
         <div class="photo{{forloop.index}}"></div>
         <div class="description">
-            <h2>{{ podcast.title }}</h2>
-            <h3>{{ podcast.podcast_number }}</h3>
-            <p class="summary">{{ podcast.excerpt }}</p>
-            <a href="{{ podcast.url }}"><div class="icono-more"></div>Ver más</a>
+            <h2>{{ post.title }}</h2>
+            <h3>{{ post.podcast_number }}</h3>
+            <p class="summary">{{ post.excerpt }}</p>
+            <a href="{{ post.url }}"><div class="icono-more"></div>Ver más</a>
         </div>
     </article>
     <style type="text/css">
        .photo{{forloop.index}} {
             position: relative;
             height: 200px;
-            background-image:    url({{ podcast.image_url }});
+            background-image:    url({{ post.image_url }});
             background-position: center;
             background-repeat:   no-repeat;
             background-size:     cover;

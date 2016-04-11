@@ -1,0 +1,13 @@
+---
+---
+[
+  {% for post in site.posts %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "tags"     : "{{ post.podcast_number | escape }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "date"     : "{{ post.date|date: '%B %d, %Y' }}",
+      "excerpt"  : "{{ post.excerpt }}",
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
