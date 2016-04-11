@@ -47,7 +47,7 @@ title: "Acerca de nosotros"
 	    </label>
 	    <textarea name="escribealgo" cols="30" rows="10" placeholder="Escríbenos algo"></textarea>
 
-	    <input type="hidden" name="_next" value="//wecodesignpodcast.com/thanks.html" />
+	    <input type="hidden" name="_next" value="//wecodesignpodcast.com/gracias.html" />
 	    <input type="submit" value="Enviar">
 	</form>
 </div>
