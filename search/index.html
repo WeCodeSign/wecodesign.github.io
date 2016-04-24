@@ -1,5 +1,5 @@
 ---
-layout: acerca
+layout: search
 title: "Buscar"
 excerpt: "Busca sobre algún tema para saber si hemos grabado un episodio de nuestro podcast sobre el mismo."
 ---
@@ -21,14 +21,12 @@ document.addEventListener('DOMContentLoaded', function() {
     resultsContainer: document.getElementById('results-container'),
     json: 'data.json',
     searchResultTemplate: 
-        '<article class="blog-card">\
-            <div class="photo{{forloop.index}}"></div>\
-            <div class="description">\
-                <h2>{{ post.title }}</h2>\
-                <h3>{{ post.podcast_number }}</h3>\
-                <a href="{{ post.url }}"><div class="icono-more"></div>Ver más</a>\
-            </div>\
-        </article>',
+        '<div class="description  description--search">\
+            <h2>{title}</h2>\
+            <h3>{number}</h3>\
+            <p class="summary">{excerpt}</p>\
+            <a href="{url}"><div class="icono-more"></div>Ver más</a>\
+        </div>',
     noResultsText: 'Lo lamentamos, no hemos podido encontrar lo que buscabas. Posiblemente aún no hemos grabado ningún episodio sobre dicho tema.'
   });
 });

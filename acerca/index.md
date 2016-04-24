@@ -4,7 +4,7 @@ title: "Acerca de nosotros"
 ---
 
 <div class="acerca__unit  clearfix">
-	<img class="acerca__portrait" src="/img/portrait-ignacio.svg" alt="Ilustración de Ignacio">
+	<img class="acerca__portrait" src="/img/portrait-nacho.svg" alt="Ilustración de Ignacio">
 	<div class="acerca__wrapper">
 		<h3 class="acerca__name">Ignacio Villanueva</h3>
 		<div class="rule"></div>
@@ -14,7 +14,7 @@ title: "Acerca de nosotros"
 </div>
 
 <div class="acerca__unit  clearfix">
-	<img class="acerca__portrait" src="/img/portrait-gabi.svg" alt="Ilustración de Gabriel">
+	<img class="acerca__portrait" src="/img/portrait-gabriel.svg" alt="Ilustración de Gabriel">
 	<div class="acerca__wrapper">
 		<h3 class="acerca__name">Gabi Ferrer</h3>
 		<div class="rule"></div>
@@ -24,6 +24,17 @@ title: "Acerca de nosotros"
 </div>
 
 <h2 class="post-title">Contacta con nosotros</h2>
+
+### Escúchanos
+
++ [iTunes](http://itunes.apple.com)
++ [iVoox](http://www.ivoox.com)
+
+### Redes Sociales
+
++ [Twitter](https://twitter.com/wecodesign)
++ [Facebook](https://www.facebook.com/wecodesignpodcast)
+
 
 ### Hagamos algo chulo juntos
 
@@ -51,3 +62,5 @@ title: "Acerca de nosotros"
 	    <input type="submit" value="Enviar">
 	</form>
 </div>
+
+O escríbenos a [{{ site.email }}](mailto:{{ site.email }})

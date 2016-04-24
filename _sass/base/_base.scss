@@ -2,10 +2,7 @@
 // Box Model
 //
 html {
-    -webkit-box-sizing: border-box;
-       -moz-box-sizing: border-box;
-            box-sizing: border-box;
-
+    box-sizing: border-box;
 	background: url(../img/bg.jpg) no-repeat center center fixed;
 }
 
@@ -21,32 +18,22 @@ body {
 // See: https://css-tricks.com/box-sizing/
 //
 *, *::before, *::after {
-  -webkit-box-sizing: inherit;
-     -moz-box-sizing: inherit;
-          box-sizing: inherit;
+  box-sizing: inherit;
 }
 
+
+.page-content {
+	padding-right: 7px;
+	padding-left: 7px;
+}
 
 .post-list {
 	width: 100%;
     max-width: 800px;
-    padding-right: 7px;
-    padding-left:  7px;
     margin-top:    3%;
 	margin-bottom: 3%;
     margin-right:  auto;
     margin-left:   auto;
-
-    // &::after {
-    // 	  content: "";
-    // 	  background: url(../img/trama_24.png) repeat;
-    // 	  top: 0;
-    // 	  left: 0;
-    // 	  bottom: 0;
-    // 	  right: 0;
-    // 	  position: absolute;
-    // 	  z-index: -1;  
-    // 	}
 }
 
 ///////////////////////////////////////////
@@ -59,9 +46,9 @@ body {
 
 
 // Logo
-.site-logo {
+.site-logo img {
 	display: block;
-	max-width: 190px;
+	max-width: 150px;
 	margin: 0 auto;
 }
 
@@ -73,27 +60,60 @@ body {
 	font-weight: bold;
 }
 
+
+
+//
+// Flexbox Starts Here
+//
 // Nav
 .site-nav {
-	padding-top: 10px;
 	border-top: 1px solid $tertiaryColor;
 	border-bottom: 1px solid $tertiaryColor;
-    padding-right: 7px;
-    padding-left: 7px;
 
-    & ul {
-		display: flex;
+	& .wrapper {
 		max-width: 800px;
 		margin: 0 auto;
-		padding-left: 0;
+		// padding-right: 7px;
+	 	// padding-left: 7px;
+	}
+    
+    & ul {
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		list-style: none;
 	}
 
 	& li {
-		flex: 1 1 100%;
-		flex-wrap: wrap;
-		margin-bottom: 3px;
-		list-style-type: none;
+
+		-webkit-flex: 3;
+
+		    -ms-flex: 3;
+
+		        flex: 3;
+		height: 38px;
+		margin-bottom: 0;
+		line-height: 38px;
 		text-align: center;
+		transition: all 0.2s ease-in;
+
+		&:hover {
+			background-color: $mainColor;
+		}
+
+		&:hover a {
+			color: $secondaryColor;
+		}
+
+		&:hover path {
+			fill: $secondaryColor;
+		}
+	}
+
+	& .social {
+		-webkit-flex: 1;
+		    -ms-flex: 1;
+		        flex: 1;
 	}
 
 	& a {
@@ -104,46 +124,49 @@ body {
 		font-weight: bold;
 		text-decoration: none;
 		text-transform: uppercase;
+	}
 
-		&:hover {
-			color: $mainColor;
-		}
-
-		&:hover path {
-			fill: $mainColor;
-		}
+	& svg {
+		margin-top: 6px;
 	}
 }
 
-[href="/suscribirse"],
-[href="/acerca"],
-[href="/buscar"] {
-	-webkit-box-shadow: 0px 10px 0px white, 0px 15px 0px white;
-	   -moz-box-shadow: 0px 10px 0px white, 0px 15px 0px white;
-			box-shadow: 0px 10px 0px white, 0px 15px 0px white;
-	transition: all 0.2s linear;
+@media screen and (max-width:50em) {
+  
+  .site-nav ul {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+  }
 
-	&:hover {
-		-webkit-box-shadow: 0px 10px 0px white, 0px 15px 0px $tertiaryColor;
-	   	   -moz-box-shadow: 0px 10px 0px white, 0px 15px 0px $tertiaryColor;
-				box-shadow: 0px 10px 0px white, 0px 15px 0px $tertiaryColor;
-	}
+  .site-nav li {
+    -webkit-flex: 1 1 50%;
+        -ms-flex: 1 1 50%;
+            flex: 1 1 50%;
+  }
+
+  .site-nav .social {
+    -webkit-flex: 1 1 33.33333%;
+        -ms-flex: 1 1 33.33333%;
+            flex: 1 1 33.33333%;
+  }
+
 }
 
-[href="https://www.facebook.com/wecodesignpodcast"],
-[href="https://twitter.com/wecodesign"],
-[href="/rss"] {
-	-webkit-box-shadow: 0px 3px 0px white, 0px 8px 0px white;
-	   -moz-box-shadow: 0px 3px 0px white, 0px 8px 0px white;
-			box-shadow: 0px 3px 0px white, 0px 8px 0px white;
-	transition: all 0.2s linear;
+@media screen and (max-width:31,25em) {
+  
+  .site-nav li {
+    -ms-flex-preferred-size: 100%;
+            -webkit-flex-basis: 100%;
+            flex-basis: 100%;
+  }
 
-	&:hover {
-		-webkit-box-shadow: 0px 3px 0px white, 0px 8px 0px $tertiaryColor;
-	   	   -moz-box-shadow: 0px 3px 0px white, 0px 8px 0px $tertiaryColor;
-				box-shadow: 0px 3px 0px white, 0px 8px 0px $tertiaryColor;
-	}
 }
+
+.is-active {
+	border-bottom: 5px solid $tertiaryColor;
+}
+
 
 ///////////////////////////////////////////
 // SVG PRITE SYSTEM
@@ -199,11 +222,11 @@ body {
   	background-color: white;
   	border: 5px solid $mainColor;
 
-  	& h2 {
+	& h2 {
   		margin-top: 0;
   		text-align: center;
   		text-transform: uppercase;
-  		transition: all 0.2s linear;
+  		transition: all 0.2s ease-in;
 
   		&:hover {
   			background-color: $mainColor;
@@ -262,7 +285,7 @@ body {
 	& a {
 		color: $mainColor;
 		text-decoration: none;
-		transition: all 0.2s linear;
+		transition: all 0.2s ease-in;
 
 		&:hover {
 			color: $secondaryColor;
@@ -282,19 +305,39 @@ body {
 
 	.acerca__portrait {
 		display: block;
-		float: left;
 		max-width: 110px;
-		margin-right: 20px;
-		margin-bottom: 20px;
+		margin: 0 auto;
+	}
+
+	@media screen and (min-width: 33.75em) {
+		.acerca__portrait {
+			float: left;
+			margin-right: 20px;
+			margin-bottom: 20px;
+		}
 	}
 
 	.acerca__wrapper {
 		float: right;
-		max-width: 630px;
+		width: 100%;
+	}
+
+	@media screen and (min-width: 33.75em) {
+		.acerca__wrapper {
+			max-width: calc(100% - 130px);
+		}
 	}
 
 	.acerca__name {
-		margin-top: 0;
+		margin-top: 10px;
+		text-align: center;
+	}
+
+	@media screen and (min-width: 33.75em) {
+		.acerca__name {
+			margin-top: 0;
+			text-align: left;
+		}
 	}
 
 	.podcastCard a,
@@ -331,14 +374,29 @@ textarea {
 	text-transform: uppercase;
 	font-size: 20px;
 	font-weight: bold;
-	transition: all 0.2s linear;
+	transition: all 0.2s ease-in;
 
 	&:hover {
-		transform: scale(1.2);
+		-webkit-transform: scale(1.2);
+		        transform: scale(1.2);
 		background-color: transparent;
 	}
 }
 
 .search-input {
 	width: 100%;
+}
+
+
+///////////////////////////////////////////
+// Search
+///////////////////////////////////////////
+#results-container {
+	padding: 0;
+}
+
+.description--search {
+	border: 5px solid $mainColor;
+	margin-bottom: 20px;
+	padding: 10px;
 }

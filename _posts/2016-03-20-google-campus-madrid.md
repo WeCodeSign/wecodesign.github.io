@@ -2,7 +2,7 @@
 layout: post
 title: "Episodio 1"
 excerpt: "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza"
-podcast_number: "WCD 1x01 Campus Madrid de Google"
+podcast_number: "WCD 1x01"
 podcast_date: "Marzo 20, 2016"
 podcast_duration: "1:02:03"
 image_url: /img/fondoUno.jpg

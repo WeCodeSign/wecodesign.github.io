@@ -4,10 +4,12 @@
   {% for post in site.posts %}
     {
       "title"    : "{{ post.title | escape }}",
-      "tags"     : "{{ post.podcast_number | escape }}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date|date: '%B %d, %Y' }}",
       "excerpt"  : "{{ post.excerpt }}",
+      "number"  : "{{ post.podcast_number }}",
+      "duration"  : "{{ post.podcast_duration }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

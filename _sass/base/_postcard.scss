@@ -84,7 +84,8 @@
 				&:before {
 					right: -15px;
 					left: inherit;
-					transform: skewX(5deg);
+					-webkit-transform: skewX(5deg);
+					        transform: skewX(5deg);
 				}
 			}
 		}
@@ -98,7 +99,8 @@
 				content: "";
 				width: 100%;
 				background: white;
-				transform: skewX(-5deg);
+				-webkit-transform: skewX(-5deg);
+				        transform: skewX(-5deg);
 				z-index: -1;
 
 				/*POSITION*/
