@@ -18,7 +18,7 @@ title: "Acerca de nosotros"
 	<div class="acerca__wrapper">
 		<h3 class="acerca__name">Gabi Ferrer</h3>
 		<div class="rule"></div>
-		<p>Director de Arte Digital, Front End y Web Designer. Illustrador vocacional y diseñador profesional, trabaja, duerme y a veces hasta sueña en Madrid.</p>
+		<p>Director de Arte Digital, Front End y Web Designer. Ilustrador vocacional y diseñador profesional, trabaja, duerme y a veces hasta sueña en Madrid.</p>
 		<p>Preguntas, dudas, ocurrencias y amenazas de muerte en <a href="mailto:gabrielferrerolmos@gmail.com">gabrielferrerolmos@gmail.com</a>.</p>
 	</div>
 </div>
@@ -41,7 +41,7 @@ title: "Acerca de nosotros"
 <div class="rule"></div>
 
 <div class="acerca__unit">
-	<p>Puedes ponerte en contacto con nosotros mediante <a class="acerca__link" href="https://twitter.com/wecodesign" target="_blank">Twitter</a>, <a class="acerca__link" href="https://www.facebook.com/wecodesignpodcast" target="_blank">Facebook</a>, o través del siguiente formulario: </p>
+	<p>Escríbenos si quieres contactar en el siguiente formulario: </p>
 	<form action="https://formspree.io/wecodesignpodcast@gmail.com" method="POST">
 	    <label for="name">
 	    	<h4>Nombre</h4>

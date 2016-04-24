@@ -6,7 +6,7 @@
 	
 	position: relative;
 	margin: 0 auto 3%;
-	border: 5px solid $mainColor;
+	border: $border;
 	background: white;
 	font-size: 14px;
 	line-height: 1.45em;
@@ -43,7 +43,7 @@
 
 			&:after {
 				content: "";
-				height: 6px;
+				height: 3px;
 				width: 69px;
 				background: $mainColor;
 

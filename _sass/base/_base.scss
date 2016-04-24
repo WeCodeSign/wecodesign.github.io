@@ -3,7 +3,7 @@
 //
 html {
     box-sizing: border-box;
-	background: url(../img/bg.jpg) no-repeat center center fixed;
+	// background: url(../img/bg.jpg) no-repeat center center fixed;
 }
 
 body {
@@ -73,8 +73,7 @@ body {
 	& .wrapper {
 		max-width: 800px;
 		margin: 0 auto;
-		// padding-right: 7px;
-	 	// padding-left: 7px;
+		padding: 0;
 	}
     
     & ul {
@@ -85,11 +84,8 @@ body {
 	}
 
 	& li {
-
 		-webkit-flex: 3;
-
 		    -ms-flex: 3;
-
 		        flex: 3;
 		height: 38px;
 		margin-bottom: 0;
@@ -102,11 +98,11 @@ body {
 		}
 
 		&:hover a {
-			color: $secondaryColor;
+			color: white;
 		}
 
 		&:hover path {
-			fill: $secondaryColor;
+			fill: white;
 		}
 	}
 
@@ -220,7 +216,7 @@ body {
 	padding: 20px 15px 0;
 	margin-bottom: 20px;
   	background-color: white;
-  	border: 5px solid $mainColor;
+  	border: $border;
 
 	& h2 {
   		margin-top: 0;
@@ -243,7 +239,7 @@ body {
 }
 
 .rule {
-	height: 6px;
+	height: 3px;
 	width: 69px;
 	background: $mainColor;
 }
@@ -369,7 +365,7 @@ textarea {
 	display: block;
 	margin: 0 auto;
 	background-color: $mainColor;
-	border: 5px solid $mainColor;
+	border: $border;
 	color: $secondaryColor;
 	text-transform: uppercase;
 	font-size: 20px;
@@ -396,7 +392,7 @@ textarea {
 }
 
 .description--search {
-	border: 5px solid $mainColor;
+	border: $border;
 	margin-bottom: 20px;
 	padding: 10px;
 }
