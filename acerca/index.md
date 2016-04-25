@@ -9,7 +9,7 @@ title: "Acerca de nosotros"
 		<h3 class="acerca__name">Ignacio Villanueva</h3>
 		<div class="rule"></div>
 		<p>Front-end Developer, centrado en CSS and Sass, arquitectura front-end, front-end performance and responsive web design.</p>
-		<p class="home-section__p">Puedes seguirme en <a href="https://twitter.com/IgnaciodeNuevo" target="_blank">Twitter</a>, en <a href="https://github.com/IgnaciodeNuevo" target="_blank">Github</a>, suscribirse via <a href="/feed.xml">RSS Feed</a> decir hola en <a href="mailto:ignaciodenuevo@gmail.com">ignaciodenuevo@gmail.com</a> o <a href="http://ignaciodenuevo.com" target="_blank">visitar mi página web</a>.</p>
+		<p class="home-section__p">Puedes seguirme en <a href="https://twitter.com/IgnaciodeNuevo" target="_blank">Twitter</a>, en <a href="https://github.com/IgnaciodeNuevo" target="_blank">Github</a>, suscribirse via <a href="/feed.xml">RSS Feed</a>, mándame un <a href="mailto:ignaciodenuevo@gmail.com">Email</a> o visitar mi <a href="http://ignaciodenuevo.com" target="_blank">página web</a>.</p>
 	</div>
 </div>
 
@@ -19,11 +19,13 @@ title: "Acerca de nosotros"
 		<h3 class="acerca__name">Gabi Ferrer</h3>
 		<div class="rule"></div>
 		<p>Director de Arte Digital, Front End y Web Designer. Ilustrador vocacional y diseñador profesional, trabaja, duerme y a veces hasta sueña en Madrid.</p>
-		<p>Preguntas, dudas, ocurrencias y amenazas de muerte en <a href="mailto:gabrielferrerolmos@gmail.com">gabrielferrerolmos@gmail.com</a>.</p>
+		<p>Preguntas, dudas, ocurrencias y amenazas de muerte envíamelas a mi <a href="mailto:gabrielferrerolmos@gmail.com">Email</a>.</p>
 	</div>
 </div>
 
-<h2 class="post-title">Contacta con nosotros</h2>
+<div class="rule"></div>
+
+<h2 class="post-title  post-heading">Contacta con nosotros</h2>
 
 ### Escúchanos
 
@@ -35,10 +37,9 @@ title: "Acerca de nosotros"
 + [Twitter](https://twitter.com/wecodesign)
 + [Facebook](https://www.facebook.com/wecodesignpodcast)
 
+<div class="rule  rule--big"></div>
 
-### Hagamos algo chulo juntos
-
-<div class="rule"></div>
+<h2 class="post-title  post-heading">Escríbenos</h2>
 
 <div class="acerca__unit">
 	<p>Escríbenos si quieres contactar en el siguiente formulario: </p>
@@ -63,4 +64,4 @@ title: "Acerca de nosotros"
 	</form>
 </div>
 
-O escríbenos a [{{ site.email }}](mailto:{{ site.email }})
+O escríbenos a nuestro [Email](mailto:{{ site.email }})

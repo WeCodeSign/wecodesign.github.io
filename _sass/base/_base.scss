@@ -2,16 +2,11 @@
 // Box Model
 //
 html {
-    box-sizing: border-box;
+  	box-sizing: border-box;
 	// background: url(../img/bg.jpg) no-repeat center center fixed;
 }
 
-body {
-	background-color: white;
-	background: url(../img/trama_24.png) repeat;
-}
 
-// html, body { height: 100%; }
 
 //
 // Make all elements from the DOM inherit from the parent box-sizing
@@ -21,6 +16,10 @@ body {
   box-sizing: inherit;
 }
 
+body {
+	background-color: white;
+	background: url(../img/trama_24.png) repeat;
+}
 
 .page-content {
 	padding-right: 7px;
@@ -40,20 +39,27 @@ body {
 // Header
 ///////////////////////////////////////////
 .site-header {
+	position: relative;
 	background-color: white;
-	padding-top: 20px;
+	padding-top: 1px; // Si se borra, la trama se ve también en el .site-header, llamémoslo apaño
 }
 
 
 // Logo
 .site-logo img {
+	position: absolute;
 	display: block;
+	width: 150px; // Pon la medida en %, em, px...
 	max-width: 150px;
-	margin: 0 auto;
+	margin-top: -90px;
+  	left: 50%;
+  	-webkit-transform: translateX(calc(-50% + 23px));
+         	transform: translateX(calc(-50% + 23px));
 }
 
 // Header > p
 .site-mainText {
+	margin-top: 125px;
 	padding: 0 20px;
 	color: $secondaryColor;
 	text-align: center;
@@ -77,6 +83,7 @@ body {
 	}
     
     & ul {
+    	display: block;
 		display: -webkit-flex;
 		display: -ms-flexbox;
 		display: flex;
@@ -84,6 +91,8 @@ body {
 	}
 
 	& li {
+		float: left;
+		width: 30%;
 		-webkit-flex: 3;
 		    -ms-flex: 3;
 		        flex: 3;
@@ -91,6 +100,7 @@ body {
 		margin-bottom: 0;
 		line-height: 38px;
 		text-align: center;
+		background-color: white;
 		transition: all 0.2s ease-in;
 
 		&:hover {
@@ -107,12 +117,14 @@ body {
 	}
 
 	& .social {
+		width: 13.33333%;
 		-webkit-flex: 1;
 		    -ms-flex: 1;
 		        flex: 1;
 	}
 
 	& a {
+		padding: 11px 32px;
 		color: $secondaryColor;
 		font-family: $secondaryFont;
 		font-size: 14px;
@@ -160,7 +172,7 @@ body {
 }
 
 .is-active {
-	border-bottom: 5px solid $tertiaryColor;
+	border-bottom: 3px solid $mainColor;
 }
 
 
@@ -218,14 +230,17 @@ body {
   	background-color: white;
   	border: $border;
 
-	& h2 {
+	& .post-heading {
+		height: 38px;
   		margin-top: 0;
   		text-align: center;
   		text-transform: uppercase;
+  		line-height: 38px;
   		transition: all 0.2s ease-in;
 
   		&:hover {
   			background-color: $mainColor;
+  			color: white;
   		}
   	}
 }
@@ -241,8 +256,13 @@ body {
 .rule {
 	height: 3px;
 	width: 69px;
+	margin-bottom: 25px;
 	background: $mainColor;
 }
+
+	.rule--big {
+		margin-top: 41px;
+	}
 
 .post__player {
 	display: block;
@@ -296,7 +316,7 @@ body {
 // ACERCA DE NOSOTROS
 ///////////////////////////////////////////
 .acerca__unit {
-	margin-bottom: 50px;
+	margin-bottom: 25px;
 }
 
 	.acerca__portrait {
@@ -316,6 +336,7 @@ body {
 	.acerca__wrapper {
 		float: right;
 		width: 100%;
+		overflow: hidden;
 	}
 
 	@media screen and (min-width: 33.75em) {
@@ -341,7 +362,6 @@ body {
 		color: $secondaryColor;
 		font-weight: bold;
 		text-decoration: none;
-		box-shadow: none !important;
 
 		&:hover {
 			text-decoration: underline;
@@ -353,6 +373,14 @@ input,
 textarea {
 	display: block;
 	padding: 10px;
+
+	& h4 {
+		margin-bottom: 16px;
+	}
+}
+
+label {
+	padding: 0;
 }
 
 textarea {
@@ -379,14 +407,16 @@ textarea {
 	}
 }
 
-.search-input {
-	width: 100%;
-}
 
 
 ///////////////////////////////////////////
 // Search
 ///////////////////////////////////////////
+.search-input {
+	width: 100%;
+}
+
+
 #results-container {
 	padding: 0;
 }
@@ -395,4 +425,32 @@ textarea {
 	border: $border;
 	margin-bottom: 20px;
 	padding: 10px;
+
+	& h2, h3 {
+		margin-top: 10px;
+		margin-bottom: 10px;
+		font-weight: normal;
+	}
+
+	& h3 {
+		font-size: 16px;
+		font-size: 1rem;
+		margin-top: 6px;
+		margin-bottom: 6px;
+	}
+
+	& a {
+		float: right;
+		color: $secondaryColor;
+		font-family: $secondaryFont;
+		font-size: 12px;
+		font-size: 0.75rem;
+		font-weight: bold;
+		text-decoration: none;
+		text-transform: uppercase;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
 }

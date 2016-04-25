@@ -2,49 +2,52 @@
 // Basic typography style for copy text
 //
 body {
-  font: 18px/1.4 $mainFont;
-  font: 1.125rem/1.4 $mainFont;
+  font: 16px/1.4 $mainFont;
+  font: 1rem/1.4 $mainFont;
 }
 
 //
 // Headings level 1
 //
 h1 {
-  font-size: 32px;
-  font-size: 2rem;
-  margin-top: 45px;
-  margin-bottom: 35px;
+  font-size: 24px;
+  font-size: 1.5rem;
+  margin-top: 33px;
+  margin-bottom: 33px;
 }
 
 //
 // Headings level 2
 //
 h2 {
-  font-size: 28px;
-  font-size: 1.75rem;
-  margin-top: 40px;
-  margin-bottom: 30px;
+  font-size: 20px;
+  font-size: 1.25rem;
+  margin-top: 28px;
+  margin-bottom: 28px;
 }
 
 //
 // Headingds level 3
 //
-h3 {
-  font-size: 22px;
-  font-size: 1.375rem;
-  margin-top: 35px;
+h3, h4, h5, h6 {
+  font-size: 18px;
+  font-size: 1.125rem;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $secondaryColor;
+  font-family: $secondaryFont;
+}
+
+p {
+  color: $darkGrey;
 }
 
 //
 // Vertical rhythm
 //
-// p, ul, ol, h2 {
-//   margin-bottom: 25px;
-// }
-
-//
-// Vertical rhythm
-//
 li {
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 }

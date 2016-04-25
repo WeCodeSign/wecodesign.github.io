@@ -8,8 +8,8 @@
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date|date: '%B %d, %Y' }}",
       "excerpt"  : "{{ post.excerpt }}",
-      "number"  : "{{ post.podcast_number }}",
-      "duration"  : "{{ post.podcast_duration }}"
+      "number"   : "{{ post.podcast_number }}",
+      "duration" : "{{ post.podcast_duration }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

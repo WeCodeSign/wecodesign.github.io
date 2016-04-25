@@ -21,9 +21,10 @@ document.addEventListener('DOMContentLoaded', function() {
     resultsContainer: document.getElementById('results-container'),
     json: 'data.json',
     searchResultTemplate: 
-        '<div class="description  description--search">\
+        '<div class="description  description--search  clearfix">\
             <h2>{title}</h2>\
             <h3>{number}</h3>\
+            <div class="rule"></div>\
             <p class="summary">{excerpt}</p>\
             <a href="{url}"><div class="icono-more"></div>Ver más</a>\
         </div>',
