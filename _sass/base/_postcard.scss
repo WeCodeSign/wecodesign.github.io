@@ -15,6 +15,10 @@
 	-moz-osx-font-smoothing: grayscale;
 	overflow: hidden;
 
+	&:first-child {
+		margin: 0 auto calc(100px + 3%);
+	}
+
 	.description {
 		position: relative;
 		padding: 10px;

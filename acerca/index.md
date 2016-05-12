@@ -41,8 +41,10 @@ title: "Acerca de nosotros"
 
 <h2 class="post-title  post-heading">Escríbenos</h2>
 
+Escríbenos a nuestro [Email](mailto:{{ site.email }})
+
 <div class="acerca__unit">
-	<p>Escríbenos si quieres contactar en el siguiente formulario: </p>
+	<p>O contacta con nosotros a través del siguiente formulario: </p>
 	<form action="https://formspree.io/wecodesignpodcast@gmail.com" method="POST">
 	    <label for="name">
 	    	<h4>Nombre</h4>
@@ -64,4 +66,3 @@ title: "Acerca de nosotros"
 	</form>
 </div>
 
-O escríbenos a nuestro [Email](mailto:{{ site.email }})

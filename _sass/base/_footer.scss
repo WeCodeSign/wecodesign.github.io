@@ -2,12 +2,17 @@
 // FOOTER
 ///////////////////////////////////////////
 footer {
-	font-size: 85%;
+	position: fixed;
+	width: 100%;
+    bottom: 0;
+	font-size: 75%;
 	padding: 10px 15px;
 	border-top: 1px solid $tertiaryColor;
 	background-color: white;
 
 	& p {
+		margin-top: 7px;
+		margin-bottom: 7px;
 		color: $secondaryColor;
 		text-align: center;
 		
