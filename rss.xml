@@ -14,7 +14,7 @@
     <itunes:subtitle>El podcast de diseño y desarrollo web</itunes:subtitle> //Subtitulo
     <itunes:author>Ignacio Villanueva y Gabriel Ferrer</itunes:author> //Autor
     <itunes:explicit>yes</itunes:explicit>
-    <itunes:image href="https://github.com/WeCodeSign/wecodesign.github.io/blob/master/img/caratula.jpg" /> 
+    <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" /> 
     <itunes:summary>El podcast de diseño y desarrollo web por Ignacio Villanueva y Gabriel Ferrer</itunes:summary>
     <itunes:category text="Arts">
         <itunes:category text="Design"/>
@@ -26,7 +26,7 @@
     <itunes:keywords>Diseño, Desarrollo, Web, Frontend, Front-end</itunes:keywords> 
     <webMaster>wecodesignpodcast@gmail.com (WeCodeSign Podcast)</webMaster>    
     <image>
-        <url>https://github.com/WeCodeSign/wecodesign.github.io/blob/master/img/caratula.jpg</url>
+        <url>http://wecodesignpodcast.com/img/caratula.jpg</url>
         <title>WeCodeSign Podcast</title>
         <link>http://wecodesignpodcast.com</link>
     </image>
@@ -84,14 +84,14 @@
         </description>
         <link>https://archive.org/details/WeCodeSignPodcastEpisodio1x01</link>
         <guid>https://archive.org/details/WeCodeSignPodcastEpisodio1x01</guid>
-        <pubDate>Tues, 10 May 2016 18:30:00 GMT</pubDate>
+        <pubDate>Tue, 10 May 2016 18:30:00 GMT</pubDate>
         <creativeCommons:license>http://creativecommons.org/licenses/by-nd/3.0/</creativeCommons:license>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcastEpisodio1x01/WeCodeSign%20Podcast%20-%20Episodio%201x01.mp3" type="audio/mpeg" length="41021035"/>
         <itunes:keywords>Educación, Universidad, Front-end, Back-end, HTML, CSS, JavaScript, Madrid</itunes:keywords> 
-        <itunes:image href="https://github.com/WeCodeSign/wecodesign.github.io/blob/master/img/caratula.jpg"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:53:24</itunes:duration>
-        <itunes:explicit>yes</itunes:explicit> //Lenguaje obsceno? ponlo aqui
-        <rawvoice:poster url="https://github.com/WeCodeSign/wecodesign.github.io/blob/master/img/caratula.jpg"/>
+        <itunes:explicit>yes</itunes:explicit>
+        <rawvoice:poster url="http://wecodesignpodcast.com/img/caratula.jpg"/>
     </item>
 	
   </channel>
