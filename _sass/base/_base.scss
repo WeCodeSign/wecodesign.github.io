@@ -161,15 +161,15 @@ body {
 
 // }
 
-@media screen and (max-width:31,25em) {
+// @media screen and (max-width:31,25em) {
   
-  .site-nav li {
-    -ms-flex-preferred-size: 100%;
-            -webkit-flex-basis: 100%;
-            flex-basis: 100%;
-  }
+//   .site-nav li {
+//     -ms-flex-preferred-size: 100%;
+//             -webkit-flex-basis: 100%;
+//             flex-basis: 100%;
+//   }
 
-}
+// }
 
 .is-active {
 	border-bottom: 3px solid $mainColor;
@@ -243,6 +243,10 @@ body {
   			color: white;
   		}
   	}
+}
+
+.post-meta {
+	text-align: center;
 }
 
 .header__img {
