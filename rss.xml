@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
   <channel>
     <atom:link href="http://wecodesignpodcast.com/rss.xml" rel="self" type="application/rss+xml" /> 
     <title>WeCodeSign Podcast</title>
@@ -11,8 +12,8 @@
         <itunes:name>![CDATA[WeCodeSign Podcast]]</itunes:name>
         <itunes:email>wecodesignpodcast@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:subtitle>El podcast de diseño y desarrollo web</itunes:subtitle> //Subtitulo
-    <itunes:author>Ignacio Villanueva y Gabriel Ferrer</itunes:author> //Autor
+    <itunes:subtitle>El podcast de diseño y desarrollo web</itunes:subtitle>
+    <itunes:author>Ignacio Villanueva y Gabriel Ferrer</itunes:author>
     <itunes:explicit>yes</itunes:explicit>
     <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" /> 
     <itunes:summary>El podcast de diseño y desarrollo web por Ignacio Villanueva y Gabriel Ferrer</itunes:summary>
