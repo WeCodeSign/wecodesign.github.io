@@ -90,7 +90,6 @@
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:53:24</itunes:duration>
         <itunes:explicit>yes</itunes:explicit>
-        <rawvoice:poster url="http://wecodesignpodcast.com/img/caratula.jpg"/>
     </item>
 	
   </channel>
