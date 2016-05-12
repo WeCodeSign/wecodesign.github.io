@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
-  <channel>
     <atom:link href="http://wecodesignpodcast.com/rss.xml" rel="self" type="application/rss+xml" /> 
     <title>WeCodeSign Podcast</title>
     <link>http://wecodesignpodcast.com</link>
@@ -86,7 +85,6 @@
         <link>https://archive.org/details/WeCodeSignPodcastEpisodio1x01</link>
         <guid>https://archive.org/details/WeCodeSignPodcastEpisodio1x01</guid>
         <pubDate>Tue, 10 May 2016 18:30:00 GMT</pubDate>
-        <creativeCommons:license>http://creativecommons.org/licenses/by-nd/3.0/</creativeCommons:license>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcastEpisodio1x01/WeCodeSign%20Podcast%20-%20Episodio%201x01.mp3" type="audio/mpeg" length="41021035"/>
         <itunes:keywords>Educación, Universidad, Front-end, Back-end, HTML, CSS, JavaScript, Madrid</itunes:keywords> 
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
