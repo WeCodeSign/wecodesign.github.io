@@ -4,7 +4,7 @@ http://ogp.me/ns/article#">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>{{ page.title }} - {{ site.title }}</title>
+<title>{{ site.title }}</title>
 
 <!-- StyleSheets & DNS Prefetch -->
   <link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -34,10 +34,10 @@ http://ogp.me/ns/article#">
 
 <!-- Twitter cards -->
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="@Wecodesignpd">
+  <meta name="twitter:site" content="@wecodesign">
   <meta name="twitter:domain" content="wecodesignpodcast.com">
-  <meta name="twitter:creator" content="@Wecodesignpd">
-  <meta name="twitter:title" content="{{ page.title }} – El Podcast de Diseño y Desarrollo Web en castellano">
+  <meta name="twitter:creator" content="@wecodesign">
+  <meta name="twitter:title" content="{{ page.title }} – El Podcast de Diseño y Desarrollo Web">
   <meta name="twitter:image:src" content="/img/favicon.png">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
@@ -73,7 +73,7 @@ http://ogp.me/ns/article#">
   <meta name="google-site-verification" content="DmTIRSQT0WIksFmz4RRkWmXnMDBXHZgiJRrUShGPIrQ" />
 
 <!-- Other -->
-  <meta name="description" content="We CodeSign Podcast - El Podcast de Diseño y Desarrollo Web en castellano">
+  <meta name="description" content="We CodeSign Podcast - El Podcast de Diseño y Desarrollo Web">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
 </head>

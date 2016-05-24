@@ -1,9 +1,9 @@
-title: We CodeSign Podcast
+title: WeCodeSign Podcast
 email: wecodesignpodcast@gmail.com
 description: "El podcast de diseño y desarrollo web"
 baseurl: ""
 url: "http://wecodesignpodcast.com"
-twitter_username: WeCodeSignPD
+twitter_username: WeCodeSign
 
 # Build settings
 markdown: kramdown

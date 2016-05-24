@@ -15,7 +15,7 @@
 	-moz-osx-font-smoothing: grayscale;
 	overflow: hidden;
 
-	&:first-child {
+	&:last-of-type {
 		margin: 0 auto calc(100px + 3%);
 	}
 

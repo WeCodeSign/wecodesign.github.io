@@ -32,12 +32,72 @@
     </image>
     
     <item>
+        <title>WeCodeSign Podcast. Episodio 2 - Bootcamps con Gonzalo Manrique</title>
+        <description>
+
+        <![CDATA[
+
+            Hoy en WeCodeSign continuamos analizando el papel de la Universidad en la formación de diseñadores y desarrolladores web y analizamos una de sus alternativas para los más valientes: los bootcamps.
+ 
+            Entrevistamos a Gonzalo Manrique, co-fundador de Ironhack, el bootcamp de programación referencia en nuestro país.
+
+            Además de todo ello, nuestras “recomendaciones” de cada programa, el espacio de sugerencias y recursos útiles para diseñadores y desarrolladores web.
+             
+            !Comenzamos!
+
+            <h3>Recomendaciones</h3>
+
+            <h4>Preguntas rápidas: Gonzalo Manrique</h4>
+
+            <ul>
+                <li><span>Quien me ha inspirado: </span><a href="https://twitter.com/ale_artacho">Alejandro Artacho</a></li>
+                <li><span>Imprescindible: </span><a href="https://www.wharton.upenn.edu/">Wharton</a></li>
+                <li>span>Que tratar: </span> Emprendedores con éxito que expongan su caso</li>
+                <li><span>Que tratar: </span>El Talento - cómo se forma y potencia</li>
+                <li><span>A quien entrevistar:</span><a href="https://www.linkedin.com/in/jorge-poyatos-1a01a428/es">Jorge Poyatos</a></li>
+            </ul>
+
+
+            <h4>Contacta con Gonzalo Manrique</h4>
+
+            <ul>
+                <li><a href="https://angel.co/ironhack">Angel List: Ironhack</a></li>
+                <li><a href="https://twitter.com/gonzumanrique">Twitter: Gonzalo Manrique</a></li>
+            </ul>
+
+            <h4>Recomendaciones de Nacho y Gabi</h4>
+
+            <ul>
+                <li><a href="https://classroom.w3devcampus.com">Classrooms W3 Dev Campus</a></li>
+                <li><a href="https://www.watsondg.com/">WDG</a></li>
+            </ul>
+
+            <h4>Contacta con WeCodeSign Podcast</h4>
+
+            <ul>
+                <li><a href="http://wecodesignpodcast.com">Web</a></li>
+                <li><a href="https://twitter.com/wecodesign">Twitter</a></li>
+                <li><a href="https://www.facebook.com/wecodesignpodcast">Facebook</a></li>
+            </ul>
+
+            ]]> 
+        </description>
+        <link>https://archive.org/details/WeCodeSignEpisodio1x02FormacionDeLaUniversidadALosBootcamps</link>
+        <guid>https://archive.org/details/WeCodeSignEpisodio1x02FormacionDeLaUniversidadALosBootcamps</guid>
+        <pubDate>Tue, 24 May 2016 18:30:00 GMT</pubDate>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignEpisodio1x02FormacionDeLaUniversidadALosBootcamps/WeCodeSign%20-%20Episodio%201x02-%20Formacio%CC%81n%20de%20la%20universidad%20a%20los%20Bootcamps.mp3" type="audio/mpeg" length="0"/>
+        <itunes:keywords>Educación, Universidad, Bootcamps, HTML, CSS, JavaScript, Ruby, Madrid</itunes:keywords> 
+        <itunes:image href="http://wecodesignpodcast.com/img/portadas/1x02-Bootcamps.png"/>
+        <itunes:duration>01:12:51</itunes:duration>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
+    <item>
         <title>WeCodeSign Podcast. Episodio 1 - Formación clásica con Edu Fierro</title>
         <description>
 
         <![CDATA[
 
-            Hoy en We CodeSign nos hacemos eco del informe europeo de la consultora Adecco por el cual existen cerca de 700.000 puestos IT en Europa que no encuentran profesionales para ser cubiertos.
+            Hoy en WeCodeSign nos hacemos eco del informe europeo de la consultora Adecco por el cual existen cerca de 700.000 puestos IT en Europa que no encuentran profesionales para ser cubiertos.
 
             Analizamos superficialmente el papel de la Universidad como único (hasta hace poco) cauce para la empleabilidad en España debido a la fiebre de la titulitis.
 
@@ -52,31 +112,31 @@
             <h4>Recomendaciones de Edu Fierro</h4>
 
             <ul>
-            <li><a class="recomendacion" href="https://www.smashingmagazine.com">SmashingMagazine</a></li>
+                <li><a class="recomendacion" href="https://www.smashingmagazine.com">SmashingMagazine</a></li>
             </ul>
 
 
             <h4>Contacta con Edu Fierro</h4>
 
             <ul>
-            <li><a class="recomendacion" href="http://eduardofierro.pro/index.php">EduardoFierro.pro</a></li>
-            <li><a class="recomendacion" href="https://www.linkedin.com/in/eduardofierrog">LinkedIn</a></li>
-            <li><a class="recomendacion" href="https://twitter.com/eduardofierrogo">Twitter</a></li>
+                <li><a class="recomendacion" href="http://eduardofierro.pro/index.php">EduardoFierro.pro</a></li>
+                <li><a class="recomendacion" href="https://www.linkedin.com/in/eduardofierrog">LinkedIn</a></li>
+                <li><a class="recomendacion" href="https://twitter.com/eduardofierrogo">Twitter</a></li>
             </ul>
 
             <h4>Recomendaciones de Nacho y Gabi</h4>
 
             <ul>
-            <li><a class="recomendacion" href="http://csswizardry.com">Harry Roberts</a></li>
-            <li><a class="recomendacion" href="http://blog.spoongraphics.co.uk/">Spoon Graphics</a></li>
+                <li><a class="recomendacion" href="http://csswizardry.com">Harry Roberts</a></li>
+                <li><a class="recomendacion" href="http://blog.spoongraphics.co.uk/">Spoon Graphics</a></li>
             </ul>
 
             <h4>Contacta con WeCodeSign Podcast</h4>
 
             <ul>
-            <li><a href="http://wecodesignpodcast.com">Web</a></li>
-            <li><a href="https://twitter.com/wecodesign">Twitter</a></li>
-            <li><a href="https://www.facebook.com/wecodesignpodcast">Facebook</a></li>
+                <li><a href="http://wecodesignpodcast.com">Web</a></li>
+                <li><a href="https://twitter.com/wecodesign">Twitter</a></li>
+                <li><a href="https://www.facebook.com/wecodesignpodcast">Facebook</a></li>
             </ul>
 
             ]]> 
@@ -94,3 +154,4 @@
 	
   </channel>
 </rss>
+
