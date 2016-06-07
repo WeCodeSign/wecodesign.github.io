@@ -30,7 +30,69 @@
         <title>WeCodeSign Podcast</title>
         <link>http://wecodesignpodcast.com</link>
     </image>
-    
+
+
+    <item>
+        <title>WeCodeSign Podcast. Episodio 3 - Formación online</title>
+        <description>
+        <![CDATA[
+        <h3>Descripcion del programa</h3>
+         
+        <p>Siguiendo con la estela de las alternativas a la educación tradicional, esta vez hablamos de las plataformas de formación online como Udacity, pionera en la formación de nuevas hornadas de desarrolladores y programadores a distancia.</p>
+         
+        <p>Además, entrevistaremos a Alvaro Sanmartín, responsable de desarrollo europeo de Udacity, el cual nos explicará cuáles son las claves y frenos para la formación hoy en día.</p>Además, entrevistaremos a Alvaro Sanmartín, responsable de desarrollo europeo de Udacity, el cual nos explicará cuáles son las claves y frenos para la formación hoy en día.
+         
+        <p>¿Te lo vas a perder?</p>
+         
+        <h3>Recomendaciones</h3>
+         
+        <h3>Preguntas rápidas: Gonzalo Manrique</h3>
+         
+        <ul>
+            <li><span>Quién me ha inspirado: </span>Mis padres</li>
+            <li><span>Imprescindible: </span>El tema que te apasione</li>
+            <li><span>A quién entrevistar: </span><a href="https://www.linkedin.com/in/felipenavio" class="recomendacion">Felipe Navío</a></li>
+            <li><span>A quién entrevistar: </span><a href="https://www.linkedin.com/in/miguelarias/es" class="recomendacion">Miguel Arias</a></li>
+            <li><span>A quién entrevistar: </span><a href="https://www.linkedin.com/in/saleiva/es" class="recomendacion">Sergio Álvarez Leiva</a></li>
+            <li><span>Temas a tratar: </span>¿Cómo encontrar el tiempo para aprender cada día?</li>
+        </ul>
+         
+        <h3>Contacta con Álvaro Sanmartín</h3>
+         
+        <ul>
+            <li><a href="http://alvarosanmartin.com">Web</a></li>
+            <li><a href="https://twitter.com/AlvaroSanmartin">Twitter</a></li>
+        </ul>
+         
+        <h3>Links del programa</h3>
+         
+        <ul>
+             <li><a href="https://www.udacity.com">Udacity</a></li>
+             <li><a href="https://www.codeschool.com">Code School</a></li>
+             <li><a href="https://www.codecademy.com">CodeAcademy</a></li>
+             <li><a href="https://egghead.io">egghead</a></li>
+             <li><a href="https://www.khanacademy.org">KHAN Academy</a></li>
+             <li><a href="https://www.pluralsight.com">Pluralsight</a></li>
+             <li><a href="https://teamtreehouse.com">treehouse</a></li>
+        </ul>
+         
+        <h3>Recomendaciones de Nacho y Gabi</h3>
+         
+        <ul>
+            <li><a href="https://www.freecodecamp.com/">FreeCodeCamp</a></li>
+            <li><a href="https://www.designcuts.com/">DESIGNCUTS</a></li>
+        </ul>
+        ]]>
+        </description>
+        <link>https://archive.org/details/WeCodeSignPodcast.Episodio1x03FormacionOnline</link>
+        <guid>https://archive.org/details/WeCodeSignPodcast.Episodio1x03FormacionOnline</guid>
+        <pubDate>Tue, 7 June 2016 18:30:00 GMT</pubDate>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x03FormacionOnline/WeCodeSign%20Podcast.%20-%20Episodio%201x03%20-%20Formacio%CC%81n%20online.mp3" type="audio/mpeg" length="0"/>
+        <itunes:keywords>Educación, Online</itunes:keywords>
+        <itunes:image href="http://wecodesignpodcast.com/img/portadas/1x03-Online-Learning.png"/>
+        <itunes:duration>00:54:26</itunes:duration>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
     <item>
         <title>WeCodeSign Podcast. Episodio 2 - Bootcamps con Gonzalo Manrique</title>
         <description>
@@ -151,7 +213,7 @@
         <itunes:duration>00:53:24</itunes:duration>
         <itunes:explicit>yes</itunes:explicit>
     </item>
-	
+
   </channel>
 </rss>
 
