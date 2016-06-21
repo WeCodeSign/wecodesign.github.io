@@ -33,7 +33,63 @@
         <link>http://wecodesignpodcast.com</link>
     </image>
 
+    <item>
+        <title>WeCodeSign Podcast. Episodio 4 - SEO y SEM</title>
+        <description>
+        <![CDATA[
+        <h3>Descripcion del programa</h3>
+         
+        <p>¿Cómo podemos darle visibilidad a nuestra página en los buscadores? ¿Funciona la estrategia de link-building? ¿Qué quiere decir Google cuando afirma que “El contenido es el rey”? ¿Qué peso tienen las RRSS en los resultados de búsqueda? ¿Qué puede hacer una pyme cuando empieza?</p>
 
+        <p>Jose Ramón Saura, consultor y analista SEO, nos desvela algunos de los secretos detrás de esta profesión tan importante como desconocida.</p>
+         
+        <p>¿Te lo vas a perder?</p>
+         
+        <h3>Recomendaciones</h3>
+
+        <h4>Preguntas rápidas: José Ramón Saura</h4>
+
+        <ul>
+            <li><span>Quién me ha inspirado: </span><a href="https://www.linkedin.com/in/akaushik">Avinash Kaushik</a></li>
+            <li><span>Quién me ha inspirado: </span><a href="https://www.mattcutts.com/blog/">Matt Cutts</a></li>
+            <li><span>Quién me ha inspirado: </span><a href="https://analytics.googleblog.com">Google Analytics</a></li>
+            <li><span>Recomiéndanos un recurso: </span><a href="http://googlewebmaster-es.blogspot.com.es/">El Blog para Webmasters</a></li>
+            <li><span>Recomiéndanos a un invitado: </span><a href="https://www.linkedin.com/in/randfishkin/es">Rand Fishkin</a></li>
+            <li><span>¿Qué tema te gustaría que tratásemos?: </span>Recogida y análisis de KPI’s a nivel analítica web.</li>
+        </ul>
+
+        <h4>Contacta con: José Ramón Saura</h4>
+
+        <ul>
+            <li><a href="http://joseramonsaura.com/">Web</a></li>
+            <li><a href="https://twitter.com/joseramonsaura">Twitter</a></li>
+        </ul>
+
+        <h4>Links del programa</h4>
+
+        <ul>
+            <li><a href="http://schema.org/">Schema.org</a></li>
+            <li><a href="http://www.aendi.es/">Asociación Nativos Digitales</a></li>
+        </ul>
+
+        <h4>Recomendaciones de Nacho y Gabi</h4>
+
+        <ul>
+            <li><a href="https://moz.com/blog">Moz Blog</a></li>
+            <li><a href="https://moz.com/tools/seo-toolbar">Moz Bar</a></li>
+            <li><a href="http://forefathersgroup.com/">FOREFATHERS</a></li>
+        </ul>
+        ]]>
+        </description>
+        <link>https://archive.org/details/WeCodeSignPodcast.Episodio1x04SEOYSEM</link>
+        <guid>https://archive.org/details/WeCodeSignPodcast.Episodio1x04SEOYSEM</guid>
+        <pubDate>Tue, 21 Jun 2016 18:30:00 GMT</pubDate>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x04SEOYSEM/We%20Code%20Sign%20Podcast.%20Episodio%201x04%20-%20SEO%20y%20SEM.mp3" type="audio/mpeg" length="0"/>
+        <itunes:keywords>SEO, SEM</itunes:keywords>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>01:22:29</itunes:duration>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
     <item>
         <title>WeCodeSign Podcast. Episodio 3 - Formación online</title>
         <description>
@@ -42,7 +98,7 @@
          
         <p>Siguiendo con la estela de las alternativas a la educación tradicional, esta vez hablamos de las plataformas de formación online como Udacity, pionera en la formación de nuevas hornadas de desarrolladores y programadores a distancia.</p>
          
-        <p>Además, entrevistaremos a Alvaro Sanmartín, responsable de desarrollo europeo de Udacity, el cual nos explicará cuáles son las claves y frenos para la formación hoy en día.</p>Además, entrevistaremos a Alvaro Sanmartín, responsable de desarrollo europeo de Udacity, el cual nos explicará cuáles son las claves y frenos para la formación hoy en día.
+        <p>Además, entrevistaremos a Alvaro Sanmartín, responsable de desarrollo europeo de Udacity, el cual nos explicará cuáles son las claves y frenos para la formación hoy en día.</p>Además, entrevistaremos a Alvaro Sanmartín, responsable de desarrollo europeo de Udacity, el cual nos explicará cuáles son las claves y frenos para la formación hoy en día.</p>
          
         <p>¿Te lo vas a perder?</p>
          
@@ -53,9 +109,9 @@
         <ul>
             <li><span>Quién me ha inspirado: </span>Mis padres</li>
             <li><span>Imprescindible: </span>El tema que te apasione</li>
-            <li><span>A quién entrevistar: </span><a href="https://www.linkedin.com/in/felipenavio" class="recomendacion">Felipe Navío</a></li>
-            <li><span>A quién entrevistar: </span><a href="https://www.linkedin.com/in/miguelarias/es" class="recomendacion">Miguel Arias</a></li>
-            <li><span>A quién entrevistar: </span><a href="https://www.linkedin.com/in/saleiva/es" class="recomendacion">Sergio Álvarez Leiva</a></li>
+            <li><span>A quién entrevistar: </span><a href="https://www.linkedin.com/in/felipenavio">Felipe Navío</a></li>
+            <li><span>A quién entrevistar: </span><a href="https://www.linkedin.com/in/miguelarias/es">Miguel Arias</a></li>
+            <li><span>A quién entrevistar: </span><a href="https://www.linkedin.com/in/saleiva/es">Sergio Álvarez Leiva</a></li>
             <li><span>Temas a tratar: </span>¿Cómo encontrar el tiempo para aprender cada día?</li>
         </ul>
          
@@ -91,7 +147,7 @@
         <pubDate>Tue, 07 Jun 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x03FormacionOnline/WeCodeSign%20Podcast.%20-%20Episodio%201x03%20-%20Formacio%CC%81n%20online.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>Educación, Online</itunes:keywords>
-        <itunes:image href="http://wecodesignpodcast.com/img/portadas/1x03-P-Online.png"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:54:26</itunes:duration>
         <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -151,7 +207,7 @@
         <pubDate>Tue, 24 May 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignEpisodio1x02FormacionDeLaUniversidadALosBootcamps/WeCodeSign%20-%20Episodio%201x02-%20Formacio%CC%81n%20de%20la%20universidad%20a%20los%20Bootcamps.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>Educación, Universidad, Bootcamps, HTML, CSS, JavaScript, Ruby, Madrid</itunes:keywords> 
-        <itunes:image href="http://wecodesignpodcast.com/img/portadas/1x02-Bootcamps.png"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:12:51</itunes:duration>
         <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -176,23 +232,23 @@
             <h4>Recomendaciones de Edu Fierro</h4>
 
             <ul>
-                <li><a class="recomendacion" href="https://www.smashingmagazine.com">SmashingMagazine</a></li>
+                <li><a href="https://www.smashingmagazine.com">SmashingMagazine</a></li>
             </ul>
 
 
             <h4>Contacta con Edu Fierro</h4>
 
             <ul>
-                <li><a class="recomendacion" href="http://eduardofierro.pro/index.php">EduardoFierro.pro</a></li>
-                <li><a class="recomendacion" href="https://www.linkedin.com/in/eduardofierrog">LinkedIn</a></li>
-                <li><a class="recomendacion" href="https://twitter.com/eduardofierrogo">Twitter</a></li>
+                <li><a href="http://eduardofierro.pro/index.php">EduardoFierro.pro</a></li>
+                <li><a href="https://www.linkedin.com/in/eduardofierrog">LinkedIn</a></li>
+                <li><a href="https://twitter.com/eduardofierrogo">Twitter</a></li>
             </ul>
 
             <h4>Recomendaciones de Nacho y Gabi</h4>
 
             <ul>
-                <li><a class="recomendacion" href="http://csswizardry.com">Harry Roberts</a></li>
-                <li><a class="recomendacion" href="http://blog.spoongraphics.co.uk/">Spoon Graphics</a></li>
+                <li><a href="http://csswizardry.com">Harry Roberts</a></li>
+                <li><a href="http://blog.spoongraphics.co.uk/">Spoon Graphics</a></li>
             </ul>
 
             <h4>Contacta con WeCodeSign Podcast</h4>
