@@ -32,6 +32,7 @@ title: "Acerca de nosotros"
 + [iTunes](https://itunes.apple.com/es/podcast/wecodesign-podcast/id1113501272?l=en)
 + [iVoox](http://www.ivoox.com/escuchar-audios-wecodesign-podcast_al_5101204_1.html)
 + [Spreaker](http://www.spreaker.com/user/8737490)
++ [Podkas](http://www.podkas.com/directorio/weckdesign-podcast-de-httpstwitter-comwecodesign)
 
 ### Redes Sociales
 

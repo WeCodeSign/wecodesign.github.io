@@ -6,7 +6,9 @@ layout: default
 
     {% for post in site.posts %}
     <article class="blog-card">
-        <div class="photo{{forloop.index}}"></div>
+        <a href="{{ post.url }}">
+            <div class="photo{{forloop.index}}"></div>
+        </a>
         <div class="description">
             <h2>{{ post.title }}</h2>
             <h3>{{ post.podcast_number }}</h3>

@@ -25,13 +25,87 @@
     <itunes:category text="Technology">
          <itunes:category text="Software How-To"/>
     </itunes:category>
-    <itunes:keywords>Diseño, Desarrollo, Web, Frontend, Front-end</itunes:keywords> 
+    <itunes:keywords>Diseño, Desarrollo, Web, Frontend, Front-end, UX, UI</itunes:keywords> 
     <webMaster>wecodesignpodcast@gmail.com (WeCodeSign Podcast)</webMaster>    
     <image>
         <url>http://wecodesignpodcast.com/img/caratula.jpg</url>
         <title>WeCodeSign Podcast</title>
         <link>http://wecodesignpodcast.com</link>
     </image>
+
+
+
+
+    <item>
+        <title>WeCodeSign Podcast. Episodio 7 - Exportando talento</title>
+        <description>
+        <![CDATA[
+            
+            <h3">Descripcion del programa</h3>
+
+            <p>Ex-ingeniero mecánico, ex-programador autodidacta, amigo de emprendedores y estrellas de Hollywood, Miguel es un Bilbaíno que se instaló en Vancouver y allí montó su empresa de animación y vídeos digitales. En este podcast, descubriremos qué hace falta para emprender en otro país, en que consiste la “ignorancia selectiva” y qué hacer para pasar de 0 a 100% conun simple email estratégico.</p>
+
+            <p>Si piensas que ser desarrollador es difícil descubre lo que implica hacerlo en otro país y llegar a ser exitoso.</p>
+
+            <p>¿Te lo vas a perder?</p>
+
+            <h3">Recomendaciones</h3>
+
+            <h4>Preguntas rápidas: Miguel Hernandez</h4>
+
+            <ul>
+                <li><span>Quién me ha inspirado: </span><a href="https://en.wikipedia.org/wiki/Elon_Musk">Elon Musk</a></li>
+                <li><span>Quién me ha inspirado: </span><a href="https://es.wikipedia.org/wiki/Salman_Khan_(profesor)">Salman Khan</a></li>
+                <li><span>Recomiéndanos un recurso: </span><a href="http://waitbutwhy.com/">Why But Why</a></li>
+                <li><span>Recomiéndanos a un invitado: </span><a href="https://viviralmaximo.net/">Ángel Alegre</a></li>
+                <li><span>Recomiéndanos a un invitado: </span><a href="https://www.lifestylealcuadrado.com/acerca-de-franck-scipion/">Franck Scipion</a></li>
+                <li><span>Recomiéndanos a un invitado: </span><a href="https://www.youtube.com/user/davidcantone">David Cantone</a></li>
+                <li><span>¿Qué tema te gustaría que tratásemos?: </span>Emprendedores españoles en el extranjero.</li>
+            </ul>
+
+
+            <h4>Contacta con: Miguel Hernandez</h4>
+
+            <ul>
+                <li><a href="http://grumomedia.com">Grumo Media</a></li>
+                <li><a href="http://grumoschool.com/">Grumo School</a></li>
+            </ul>
+
+            <h4>Links del programa</h4>
+
+            <ul>
+               <li><a href="https://itunes.apple.com/es/app/books-films-bands/id520395424">Books Films Bands</a></li>
+               <li><a href="https://mixergy.com/welcome">Mixergy.com</a></li>
+               <li><a href="http://lkrsocialmedia.com">Laura Roeder</a></li>
+               <li><a href="https://www.udemy.com">Udemy</a></li>
+               <li><a href="https://teamtreehouse.com">Treehouse</a></li>
+               <li><a href="https://es.wikipedia.org/wiki/Richard_Branson">Richard Branson</a></li>
+               <li><a href="http://www.danmartell.com">Dan Martell</a></li>
+               <li><a href="https://en.wikipedia.org/wiki/Alexis_Ohanian">Alexis Ohanian</a></li>
+               <li><a href="https://www.ycombinator.com/">Ycombinator</a></li>
+               <li><a href="https://es.wikipedia.org/wiki/Ashton_Kutcher">Ashton Kutcher</a></li>
+            </ul>
+
+            <h4>Recomendaciones de Nacho y Gabi</h4>
+
+            <ul>
+                <li><a href="https://stuffandnonsense.co.uk">Stuff & Nonsense</a></li>
+                <li><a href="https://gist.github.com/malarkey/4031110">Contract Killer</a></li>
+                <li><a href="http://www.ilovedust.com">Ilovedust</a></li>
+            </ul>
+
+
+        ]]>
+        </description>
+        <link>https://archive.org/details/WeCodeSignPodcast.Episodio1x07ExportandoTalento</link>
+        <guid>https://archive.org/details/WeCodeSignPodcast.Episodio1x07ExportandoTalento</guid>
+        <pubDate>Tue, 02 Aug 2016 18:30:00 GMT</pubDate>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x07ExportandoTalento/WeCodeSign%20Podcast.%20Episodio%201x07%20-%20Exportando%20talento.mp3" type="audio/mpeg" length="0"/>
+        <itunes:keywords>Desarrollo, Vídeo, Emprendimiento</itunes:keywords>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration></itunes:duration>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
 
 
     <item>
