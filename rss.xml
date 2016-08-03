@@ -103,7 +103,7 @@
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x07ExportandoTalento/WeCodeSign%20Podcast.%20Episodio%201x07%20-%20Exportando%20talento.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>Desarrollo, Vídeo, Emprendimiento</itunes:keywords>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
-        <itunes:duration></itunes:duration>
+        <itunes:duration>1:12:39</itunes:duration>
         <itunes:explicit>yes</itunes:explicit>
     </item>
 
