@@ -9,7 +9,7 @@ title: "Acerca de nosotros"
 		<h3 class="acerca__name">Ignacio Villanueva</h3>
 		<div class="rule"></div>
 		<p>Front-end Developer, centrado en CSS and Sass, arquitectura front-end, front-end performance and responsive web design.</p>
-		<p class="home-section__p">Puedes seguirme en <a href="https://twitter.com/IgnaciodeNuevo" target="_blank">Twitter</a>, en <a href="https://github.com/IgnaciodeNuevo" target="_blank">Github</a>, suscribirse via <a href="http://ignaciodenuevo.com/feed.xml">RSS Feed</a>, mándame un <a href="mailto:ignaciodenuevo@gmail.com">Email</a> o visitar mi <a href="http://ignaciodenuevo.com" target="_blank">página web</a>.</p>
+		<p class="home-section__p">Puedes seguirme en <a href="https://twitter.com/IgnaciodeNuevo" target="_blank">Twitter</a>, en <a href="https://github.com/IgnaciodeNuevo" target="_blank">Github</a>, suscribirse via <a href="http://ignaciodenuevo.com/feed.xml" target="_blank">RSS Feed</a>, mándame un <a href="mailto:ignaciodenuevo@gmail.com">Email</a> o visitar mi <a href="http://ignaciodenuevo.com" target="_blank">página web</a>.</p>
 	</div>
 </div>
 
