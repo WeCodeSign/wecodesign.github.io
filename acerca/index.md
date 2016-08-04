@@ -8,8 +8,8 @@ title: "Acerca de nosotros"
 	<div class="acerca__wrapper">
 		<h3 class="acerca__name">Ignacio Villanueva</h3>
 		<div class="rule"></div>
-		<p>Front-end Developer, centrado en CSS and Sass, arquitectura front-end, front-end performance and responsive web design.</p>
-		<p class="home-section__p">Puedes seguirme en <a href="https://twitter.com/IgnaciodeNuevo" target="_blank">Twitter</a>, en <a href="https://github.com/IgnaciodeNuevo" target="_blank">Github</a>, suscribirse via <a href="http://ignaciodenuevo.com/feed.xml" target="_blank">RSS Feed</a>, mándame un <a href="mailto:ignaciodenuevo@gmail.com">Email</a> o visitar mi <a href="http://ignaciodenuevo.com" target="_blank">página web</a>.</p>
+		<p>Front-end Developer centrado en arquitectura y front-end performance and responsive web design.</p>
+		<p class="home-section__p">Puedes seguirme en <a href="https://twitter.com/IgnaciodeNuevo" target="_blank">Twitter</a>, en <a href="https://github.com/IgnaciodeNuevo" target="_blank">Github</a>, suscribirte via <a href="http://ignaciodenuevo.com/feed.xml" target="_blank">RSS Feed</a>, puedes mandarme un <a href="mailto:ignaciodenuevo@gmail.com">Email</a> o visitar mi <a href="http://ignaciodenuevo.com" target="_blank">página web</a>.</p>
 	</div>
 </div>
 
@@ -18,7 +18,7 @@ title: "Acerca de nosotros"
 	<div class="acerca__wrapper">
 		<h3 class="acerca__name">Gabi Ferrer</h3>
 		<div class="rule"></div>
-		<p>Director de Arte Digital, Front End y Web Designer. Ilustrador vocacional y diseñador profesional, trabaja, duerme y a veces hasta sueña en Madrid.</p>
+		<p>Director de Arte Digital, Front-end Designer. Ilustrador vocacional y diseñador profesional, trabaja, duerme y a veces hasta sueña en Madrid.</p>
 		<p>Preguntas, dudas, ocurrencias y amenazas de muerte envíamelas a mi <a href="mailto:gabrielferrerolmos@gmail.com">Email</a>.</p>
 	</div>
 </div>
