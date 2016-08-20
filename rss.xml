@@ -15,7 +15,7 @@
     <link>http://wecodesignpodcast.com</link>
     <description>El podcast de diseño, desarrollo front-end y UX quincenal con Ignacio Villanueva y Gabriel Ferrer. En cada episodio invitamos a un reputado profesional del sector.
     </description>
-    <lastBuildDate>Tue, 16 Aug 2016 18:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2016 15:55:00 GMT</lastBuildDate>
     <language>es-ES</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -57,7 +57,6 @@
         <link>http://wecodesignpodcast.com/2016/08/16/episodio-8-trabajando-con-diferentes-CMS//link>
         <guid isPermalink="false">http://wecodesignpodcast.com/2016/08/16/episodio-8-trabajando-con-diferentes-CMS//guid>
         <pubDate>Tue, 16 Aug 2016 18:30:00 GMT</pubDate>
-        <dc:creator><![CDATA[ignaciodenuevo]]></dc:creator>
         <description>
         <![CDATA[
             
@@ -71,7 +70,9 @@
 
             <p>¿Te lo vas a perder?</p>
 
-            <h3>Recomendaciones</h3>
+            <h3>Posibles topics, entrevistados y duración del programa</h3>
+
+            <a href="https://wecodesignpodcast.typeform.com/to/keNT6k">Encuesta para pedir feedback</a>
 
             <h3>Preguntas rápidas: Luis Martín</h3>
 
@@ -115,6 +116,17 @@
                 <li><a href="https://fabrik.io/">Fabrik.io</a></li>
             </ul>
 
+            <h3>Contacta con nosotros</h3>
+
+            <ul>
+                <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+                <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+                <li><a href="https://www.facebook.com/wecodesignpodcast">Facebook de WeCodeSign</a></li>
+                <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+                <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+                <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+            </ul>
+
         ]]>
         </description>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x08TrabajandoConDiferentesCMS/WeCodeSign%201x08%20-%20Trabajando%20con%20diferentes%20CMS.mp3" type="audio/mpeg" length="0"/>
@@ -130,7 +142,7 @@
         <description>
         <![CDATA[
             
-            <h3">Descripcion del programa</h3>
+            <h3>Descripcion del programa</h3>
 
             <p>Ex-ingeniero mecánico, ex-programador autodidacta, amigo de emprendedores y estrellas de Hollywood, Miguel es un Bilbaíno que se instaló en Vancouver y allí montó su empresa de animación y vídeos digitales. En este podcast, descubriremos qué hace falta para emprender en otro país, en que consiste la “ignorancia selectiva” y qué hacer para pasar de 0 a 100% conun simple email estratégico.</p>
 
