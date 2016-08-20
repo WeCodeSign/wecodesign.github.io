@@ -1,21 +1,36 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:media="http://search.yahoo.com/mrss/"
+>
+
 <channel>
-    <atom:link href="http://wecodesignpodcast.com/rss.xml" rel="self" type="application/rss+xml" /> 
     <title>WeCodeSign Podcast</title>
+    <atom:link href="http://wecodesignpodcast.com/rss.xml" rel="self" type="application/rss+xml" /> 
     <link>http://wecodesignpodcast.com</link>
+    <description>El podcast de diseño, desarrollo front-end y UX quincenal con Ignacio Villanueva y Gabriel Ferrer. En cada episodio invitamos a un reputado profesional del sector.
+    </description>
+    <lastBuildDate>Tue, 16 Aug 2016 18:30:00 GMT</lastBuildDate>
     <language>es-ES</language>
-    <copyright>&#xA9; 2016</copyright>
-    <description>El podcast de diseño y desarrollo web por Ignacio Villanueva y Gabriel Ferrer</description>
-    <itunes:owner>
-        <itunes:name>![CDATA[WeCodeSign Podcast]]</itunes:name>
-        <itunes:email>wecodesignpodcast@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:subtitle>El podcast de diseño y desarrollo web</itunes:subtitle>
-    <itunes:author>Ignacio Villanueva y Gabriel Ferrer</itunes:author>
-    <itunes:explicit>yes</itunes:explicit>
-    <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" /> 
-    <itunes:summary>El podcast de diseño y desarrollo web por Ignacio Villanueva y Gabriel Ferrer</itunes:summary>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <copyright>Copyright © WeCodeSign Podcast 2016-2016 </copyright>
+    <managingEditor>ignaciodenuevo@gmail.com (WeCodeSign)</managingEditor>
+    <webMaster>wecodesignpodcast@gmail.com (WeCodeSign Podcast)</webMaster> 
+    <category>Web, Design, Development, UX</category>
+    <image>
+        <url>http://wecodesignpodcast.com/img/caratula.jpg</url>
+        <title>WeCodeSign</title>
+        <link>http://wecodesignpodcast.com</link>
+    </image>
+    <itunes:subtitle>El podcast de diseño, desarrollo front-end y UX quincenal con Ignacio Villanueva y Gabriel Ferrer.</itunes:subtitle>
+    <itunes:summary>El podcast de diseño, desarrollo front-end y UX quincenal con Ignacio Villanueva y Gabriel Ferrer. En cada episodio invitamos a un reputado profesional del sector.</itunes:summary>
+    <itunes:keywords>WeCodeSign, Diseño, Desarrollo, Web, Frontend, Front-end, UX, UI, frontend, webdesign, web, development, design</itunes:keywords> 
     <itunes:category text="Arts">
         <itunes:category text="Design"/>
     </itunes:category>
@@ -25,19 +40,93 @@
     <itunes:category text="Technology">
          <itunes:category text="Software How-To"/>
     </itunes:category>
-    <itunes:keywords>Diseño, Desarrollo, Web, Frontend, Front-end, UX, UI</itunes:keywords> 
-    <webMaster>wecodesignpodcast@gmail.com (WeCodeSign Podcast)</webMaster>    
-    <image>
-        <url>http://wecodesignpodcast.com/img/caratula.jpg</url>
-        <title>WeCodeSign Podcast</title>
-        <link>http://wecodesignpodcast.com</link>
-    </image>
-
-
+    <itunes:category text="Education">
+      <itunes:category text="Training"/>
+    </itunes:category>
+    <itunes:author>@IgnaciodeNuevo</itunes:author>
+    <itunes:owner>
+        <itunes:name>WeCodeSign Podcast</itunes:name>
+        <itunes:email>wecodesignpodcast@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" />
 
 
     <item>
-        <title>WeCodeSign Podcast. Episodio 7 - Exportando talento</title>
+        <title>8 - Trabajando con diferentes CMS</title>
+        <link>http://wecodesignpodcast.com/2016/08/16/episodio-8-trabajando-con-diferentes-CMS//link>
+        <guid isPermalink="false">http://wecodesignpodcast.com/2016/08/16/episodio-8-trabajando-con-diferentes-CMS//guid>
+        <pubDate>Tue, 16 Aug 2016 18:30:00 GMT</pubDate>
+        <dc:creator><![CDATA[ignaciodenuevo]]></dc:creator>
+        <description>
+        <![CDATA[
+            
+            <h3>Descripcion del programa</h3>
+
+            <p>Luis Martín de la agencia digital Martin & Young, una agencia de desarrollo y posicionamiento web nos cuenta su experiencia trabajando con diferentes CMS como WordPress, Joomla o Prestashop.</p>
+
+            <p>Veremos que plugins son los más recomendados, que medidas de seguridad podemos tener y diferentes consejos de posicionamiento usando estos gestores de contenido.</p>
+
+            <p>Si creías que el diseño y desarrollo web para Pymes o Startups es algo sencillo, estabas equivocada/o. Trabajar y seguir trabajando es la clave del éxito.</p>
+
+            <p>¿Te lo vas a perder?</p>
+
+            <h3>Recomendaciones</h3>
+
+            <h3>Preguntas rápidas: Luis Martín</h3>
+
+            <ul>
+                <li><span>Quién me ha inspirado: </span><a href="https://www.linkedin.com/in/santiagoarroyos">Santiado Arroyos</a></li>
+                <li><span>Recomiéndanos un recurso: </span><a href="https://www.webempresa.com/foro.html">Foro Webempresa</a></li>
+                <li><span>Recomiéndanos a un invitado: </span><a href="https://www.linkedin.com/in/jimartinez">Juan Ignacio Martínez Estremera</a></li>
+                <li><span>¿Qué tema te gustaría que tratásemos?: </span>El futuro del diseño y desarrollo web</li>
+            </ul>
+
+            <h3>Contacta con: Luis Martín</h3>
+
+            <ul>
+                <li><a href="https://www.linkedin.com/in/luis-mart%C3%ADn-rodriguez-7a136223/en">LinkedIn</a></li>
+            </ul>
+
+            <h3>Links del programa</h3>
+
+            <ul>
+              <li><a href="https://wordpress.com/">WordPress</a></li>
+              <li><a href="https://www.joomla.org/">Joomla</a></li>
+              <li><a href="https://www.prestashop.com/">Prestashop</a></li>
+              <li><a href="https://magento.com/">Magento</a></li>
+              <li><a href="https://wordpress.org/plugins/wordpress-seo/">Yoast SEO</a></li>
+              <li><a href="https://wordpress.org/plugins/wp-super-cache/">WP Super Cache</a></li>
+              <li><a href="https://wordpress.org/plugins/akismet/">Akismet</a></li>
+              <li><a href="https://www.jomsocial.com/addons">Joomsocial</a></li>
+              <li><a href="https://www.prestashop.com/forums/topic/250768-modulo-zopim-chat-nuevo-widget/">Chat Zoopim</a></li>
+              <li><a href="https://wp-client.com/">WP-Client</a></li>
+              <li><a href="https://www.webempresa.com/">Webempresa  </a></li>
+              <li><a href="https://www.facebook.com/business/products/ads">Facebook Ads</a></li>
+              <li><a href="https://www.google.es/adwords/">Google Adwords</a></li>
+              <li><a href="https://woocommerce.com/">Woocommerce</a></li>
+              <li><a href="http://extensions.joomla.org/extension/joomshopping">Joomshopping</a></li>
+            </ul>
+
+            <h3>Recomendaciones de Nacho y Gabi</h3>
+
+            <ul>
+                <li><a href="http://market.envato.com/">Envato</a></li>
+                <li><a href="https://fabrik.io/">Fabrik.io</a></li>
+            </ul>
+
+        ]]>
+        </description>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/            " type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>1:12:39</itunes:duration>
+        <itunes:keywords>CMS, WordPress, Joomla, Prestashop, Emprendimiento, Startup, Pyme</itunes:keywords>
+        <itunes:author>@IgnaciodeNuevo</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+        <title>7 - Exportando talento</title>
         <description>
         <![CDATA[
             
@@ -97,8 +186,8 @@
 
         ]]>
         </description>
-        <link>https://archive.org/details/WeCodeSignPodcast.Episodio1x07ExportandoTalento</link>
-        <guid>https://archive.org/details/WeCodeSignPodcast.Episodio1x07ExportandoTalento</guid>
+        <link>http://wecodesignpodcast.com/2016/08/02/episodio-7/</link>
+        <guid isPermalink="false">http://wecodesignpodcast.com/2016/08/02/episodio-7/</guid>
         <pubDate>Tue, 02 Aug 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x07ExportandoTalento/WeCodeSign%20Podcast.%20Episodio%201x07%20-%20Exportando%20talento.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>Desarrollo, Vídeo, Emprendimiento</itunes:keywords>
@@ -109,7 +198,7 @@
 
 
     <item>
-        <title>WeCodeSign Podcast. Episodio 6 - Primeros pasos como Front-end Designer</title>
+        <title>6 - Primeros pasos como Front-end Designer</title>
         <description>
         <![CDATA[
             <h3>Descripción del programa</h3>
@@ -161,17 +250,17 @@
 
         ]]>
         </description>
-        <link>https://archive.org/details/WeCodeSignPodcast.Episodio1x06PrimerosPasosComoFrontEndDesigner</link>
-        <guid>https://archive.org/details/WeCodeSignPodcast.Episodio1x06PrimerosPasosComoFrontEndDesigner</guid>
+        <link>http://wecodesignpodcast.com/2016/07/19/episodio-6/</link>
+        <guid isPermalink="false">http://wecodesignpodcast.com/2016/07/19/episodio-6/</guid>
         <pubDate>Tue, 19 Jul 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x06PrimerosPasosComoFrontEndDesigner/WeCodeSign%20Podcast.%20Episodio%201x06%20-%20Primeros%20pasos%20como%20Front-end%20Designer.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>Front-end, Design</itunes:keywords>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>1:04:51</itunes:duration>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>WeCodeSign Podcast. Episodio 5 - UX y UI</title>
+        <title>5 - UX y UI</title>
         <description>
         <![CDATA[
         <h3>Descripción del programa</h3>
@@ -220,17 +309,17 @@
         </ul>
         ]]>
         </description>
-        <link>https://archive.org/details/WeCodeSignPodcast.Episodio1x05UXYUI</link>
-        <guid>https://archive.org/details/WeCodeSignPodcast.Episodio1x05UXYUI</guid>
+        <link>http://wecodesignpodcast.com/2016/07/05/episodio-5/</link>
+        <guid isPermalink="false">http://wecodesignpodcast.com/2016/07/05/episodio-5/</guid>
         <pubDate>Tue, 05 Jul 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x05UXYUI/WeCodeSign%20Podcast.%20Episodio%201x05%20-%20UX%20y%20UI.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>UX, UI</itunes:keywords>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:01:23</itunes:duration>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>WeCodeSign Podcast. Episodio 4 - SEO y SEM</title>
+        <title>4 - SEO y SEM</title>
         <description>
         <![CDATA[
         <h3>Descripcion del programa</h3>
@@ -277,17 +366,17 @@
         </ul>
         ]]>
         </description>
-        <link>https://archive.org/details/WeCodeSignPodcast.Episodio1x04SEOYSEM</link>
-        <guid>https://archive.org/details/WeCodeSignPodcast.Episodio1x04SEOYSEM</guid>
+        <link>http://wecodesignpodcast.com/2016/06/21/episodio-4/</link>
+        <guid isPermalink="false">http://wecodesignpodcast.com/2016/06/21/episodio-4/</guid>
         <pubDate>Tue, 21 Jun 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x04SEOYSEM/We%20Code%20Sign%20Podcast.%20Episodio%201x04%20-%20SEO%20y%20SEM.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>SEO, SEM</itunes:keywords>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:22:29</itunes:duration>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>WeCodeSign Podcast. Episodio 3 - Formación online</title>
+        <title>3 - Formación online</title>
         <description>
         <![CDATA[
         <h3>Descripcion del programa</h3>
@@ -338,17 +427,17 @@
         </ul>
         ]]>
         </description>
-        <link>https://archive.org/details/WeCodeSignPodcast.Episodio1x03FormacionOnline</link>
-        <guid>https://archive.org/details/WeCodeSignPodcast.Episodio1x03FormacionOnline</guid>
+        <link>http://wecodesignpodcast.com/2016/06/07/episodio-3/</link>
+        <guid isPermalink="false">http://wecodesignpodcast.com/2016/06/07/episodio-3/</guid>
         <pubDate>Tue, 07 Jun 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x03FormacionOnline/WeCodeSign%20Podcast.%20-%20Episodio%201x03%20-%20Formacio%CC%81n%20online.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>Educación, Online</itunes:keywords>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:54:26</itunes:duration>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>WeCodeSign Podcast. Episodio 2 - Bootcamps con Gonzalo Manrique</title>
+        <title>2 - Bootcamps con Gonzalo Manrique</title>
         <description>
 
         <![CDATA[
@@ -398,17 +487,17 @@
 
             ]]> 
         </description>
-        <link>https://archive.org/details/WeCodeSignEpisodio1x02FormacionDeLaUniversidadALosBootcamps</link>
-        <guid>https://archive.org/details/WeCodeSignEpisodio1x02FormacionDeLaUniversidadALosBootcamps</guid>
+        <link>http://wecodesignpodcast.com/2016/05/24/episodio-2/</link>
+        <guid isPermalink="false">http://wecodesignpodcast.com/2016/05/24/episodio-2/</guid>
         <pubDate>Tue, 24 May 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignEpisodio1x02FormacionDeLaUniversidadALosBootcamps/WeCodeSign%20-%20Episodio%201x02-%20Formacio%CC%81n%20de%20la%20universidad%20a%20los%20Bootcamps.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>Educación, Universidad, Bootcamps, HTML, CSS, JavaScript, Ruby, Madrid</itunes:keywords> 
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:12:51</itunes:duration>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
-        <title>WeCodeSign Podcast. Episodio 1 - Formación clásica con Edu Fierro</title>
+        <title>1 - Formación clásica con Edu Fierro</title>
         <description>
 
         <![CDATA[
@@ -458,14 +547,14 @@
             ]]> 
 
         </description>
-        <link>https://archive.org/details/WeCodeSignPodcastEpisodio1x01</link>
-        <guid>https://archive.org/details/WeCodeSignPodcastEpisodio1x01</guid>
+        <link>http://wecodesignpodcast.com/2016/05/10/episodio-1/</link>
+        <guid isPermalink="false">http://wecodesignpodcast.com/2016/05/10/episodio-1/</guid>
         <pubDate>Tue, 10 May 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcastEpisodio1x01/WeCodeSign%20Podcast%20-%20Episodio%201x01.mp3" type="audio/mpeg" length="41021035"/>
         <itunes:keywords>Educación, Universidad, Front-end, Back-end, HTML, CSS, JavaScript, Madrid</itunes:keywords> 
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:53:24</itunes:duration>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>no</itunes:explicit>
     </item>
 
   </channel>
