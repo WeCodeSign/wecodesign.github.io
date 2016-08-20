@@ -15,7 +15,6 @@
     <link>http://wecodesignpodcast.com</link>
     <description>El podcast de diseño, desarrollo front-end y UX quincenal con Ignacio Villanueva y Gabriel Ferrer. En cada episodio invitamos a un reputado profesional del sector.
     </description>
-    <lastBuildDate>Tue, 20 Aug 2016 15:55:00 GMT</lastBuildDate>
     <language>es-ES</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -43,7 +42,7 @@
     <itunes:category text="Education">
       <itunes:category text="Training"/>
     </itunes:category>
-    <itunes:author>@IgnaciodeNuevo</itunes:author>
+    <itunes:author>WeCodeSign</itunes:author>
     <itunes:owner>
         <itunes:name>WeCodeSign Podcast</itunes:name>
         <itunes:email>wecodesignpodcast@gmail.com</itunes:email>
@@ -54,8 +53,6 @@
 
     <item>
         <title>8 - Trabajando con diferentes CMS</title>
-        <link>http://wecodesignpodcast.com/2016/08/16/episodio-8-trabajando-con-diferentes-CMS//link>
-        <guid isPermalink="false">http://wecodesignpodcast.com/2016/08/16/episodio-8-trabajando-con-diferentes-CMS//guid>
         <pubDate>Tue, 16 Aug 2016 18:30:00 GMT</pubDate>
         <description>
         <![CDATA[
@@ -129,11 +126,13 @@
 
         ]]>
         </description>
+        <link>http://wecodesignpodcast.com/2016/08/16/episodio-8-trabajando-con-diferentes-CMS//link>
+        <guid isPermalink="false">http://wecodesignpodcast.com/2016/08/16/episodio-8-trabajando-con-diferentes-CMS//guid>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x08TrabajandoConDiferentesCMS/WeCodeSign%201x08%20-%20Trabajando%20con%20diferentes%20CMS.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:57:59</itunes:duration>
         <itunes:keywords>CMS, WordPress, Joomla, Prestashop, Emprendimiento, Startup, Pyme</itunes:keywords>
-        <itunes:author>@IgnaciodeNuevo</itunes:author>
+        <itunes:author>WeCodeSign</itunes:author>
         <itunes:explicit>no</itunes:explicit>
     </item>
 
