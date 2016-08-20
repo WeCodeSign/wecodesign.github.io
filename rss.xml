@@ -24,7 +24,7 @@
     <category>Web, Design, Development, UX</category>
     <image>
         <url>http://wecodesignpodcast.com/img/caratula.jpg</url>
-        <title>WeCodeSign</title>
+        <title>WeCodeSign Podcast</title>
         <link>http://wecodesignpodcast.com</link>
     </image>
     <itunes:subtitle>El podcast de diseño, desarrollo front-end y UX quincenal con Ignacio Villanueva y Gabriel Ferrer.</itunes:subtitle>
@@ -42,7 +42,7 @@
     <itunes:category text="Education">
       <itunes:category text="Training"/>
     </itunes:category>
-    <itunes:author>WeCodeSign</itunes:author>
+    <itunes:author>WeCodeSign Podcast</itunes:author>
     <itunes:owner>
         <itunes:name>WeCodeSign Podcast</itunes:name>
         <itunes:email>wecodesignpodcast@gmail.com</itunes:email>
@@ -126,13 +126,13 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/2016/08/16/episodio-8-trabajando-con-diferentes-CMS//link>
-        <guid isPermalink="false">http://wecodesignpodcast.com/2016/08/16/episodio-8-trabajando-con-diferentes-CMS//guid>
+        <link>http://wecodesignpodcast.com/2016/08/16/episodio-8-trabajando-con-diferentes-CMS/</link>
+        <guid>http://wecodesignpodcast.com/2016/08/16/episodio-8-trabajando-con-diferentes-CMS/</guid>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x08TrabajandoConDiferentesCMS/WeCodeSign%201x08%20-%20Trabajando%20con%20diferentes%20CMS.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:57:59</itunes:duration>
         <itunes:keywords>CMS, WordPress, Joomla, Prestashop, Emprendimiento, Startup, Pyme</itunes:keywords>
-        <itunes:author>WeCodeSign</itunes:author>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
         <itunes:explicit>no</itunes:explicit>
     </item>
 
@@ -198,7 +198,7 @@
         ]]>
         </description>
         <link>http://wecodesignpodcast.com/2016/08/02/episodio-7/</link>
-        <guid isPermalink="false">http://wecodesignpodcast.com/2016/08/02/episodio-7/</guid>
+        <guid>http://wecodesignpodcast.com/2016/08/02/episodio-7/</guid>
         <pubDate>Tue, 02 Aug 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x07ExportandoTalento/WeCodeSign%20Podcast.%20Episodio%201x07%20-%20Exportando%20talento.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>Desarrollo, Vídeo, Emprendimiento</itunes:keywords>
@@ -262,7 +262,7 @@
         ]]>
         </description>
         <link>http://wecodesignpodcast.com/2016/07/19/episodio-6/</link>
-        <guid isPermalink="false">http://wecodesignpodcast.com/2016/07/19/episodio-6/</guid>
+        <guid>http://wecodesignpodcast.com/2016/07/19/episodio-6/</guid>
         <pubDate>Tue, 19 Jul 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x06PrimerosPasosComoFrontEndDesigner/WeCodeSign%20Podcast.%20Episodio%201x06%20-%20Primeros%20pasos%20como%20Front-end%20Designer.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>Front-end, Design</itunes:keywords>
@@ -321,7 +321,7 @@
         ]]>
         </description>
         <link>http://wecodesignpodcast.com/2016/07/05/episodio-5/</link>
-        <guid isPermalink="false">http://wecodesignpodcast.com/2016/07/05/episodio-5/</guid>
+        <guid>http://wecodesignpodcast.com/2016/07/05/episodio-5/</guid>
         <pubDate>Tue, 05 Jul 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x05UXYUI/WeCodeSign%20Podcast.%20Episodio%201x05%20-%20UX%20y%20UI.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>UX, UI</itunes:keywords>
@@ -332,6 +332,7 @@
     <item>
         <title>4 - SEO y SEM</title>
         <description>
+
         <![CDATA[
         <h3>Descripcion del programa</h3>
          
@@ -375,10 +376,11 @@
             <li><a href="https://moz.com/tools/seo-toolbar">Moz Bar</a></li>
             <li><a href="http://forefathersgroup.com/">FOREFATHERS</a></li>
         </ul>
+
         ]]>
         </description>
         <link>http://wecodesignpodcast.com/2016/06/21/episodio-4/</link>
-        <guid isPermalink="false">http://wecodesignpodcast.com/2016/06/21/episodio-4/</guid>
+        <guid>http://wecodesignpodcast.com/2016/06/21/episodio-4/</guid>
         <pubDate>Tue, 21 Jun 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x04SEOYSEM/We%20Code%20Sign%20Podcast.%20Episodio%201x04%20-%20SEO%20y%20SEM.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>SEO, SEM</itunes:keywords>
@@ -389,57 +391,59 @@
     <item>
         <title>3 - Formación online</title>
         <description>
+
         <![CDATA[
-        <h3>Descripcion del programa</h3>
-         
-        <p>Siguiendo con la estela de las alternativas a la educación tradicional, esta vez hablamos de las plataformas de formación online como Udacity, pionera en la formación de nuevas hornadas de desarrolladores y programadores a distancia.</p>
-         
-        <p>Además, entrevistaremos a Alvaro Sanmartín, responsable de desarrollo europeo de Udacity, el cual nos explicará cuáles son las claves y frenos para la formación hoy en día.</p>Además, entrevistaremos a Alvaro Sanmartín, responsable de desarrollo europeo de Udacity, el cual nos explicará cuáles son las claves y frenos para la formación hoy en día.</p>
-         
-        <p>¿Te lo vas a perder?</p>
-         
-        <h3>Recomendaciones</h3>
-         
-        <h3>Preguntas rápidas: Gonzalo Manrique</h3>
-         
-        <ul>
-            <li><span>Quién me ha inspirado: </span>Mis padres</li>
-            <li><span>Imprescindible: </span>El tema que te apasione</li>
-            <li><span>A quién entrevistar: </span><a href="https://www.linkedin.com/in/felipenavio">Felipe Navío</a></li>
-            <li><span>A quién entrevistar: </span><a href="https://www.linkedin.com/in/miguelarias/es">Miguel Arias</a></li>
-            <li><span>A quién entrevistar: </span><a href="https://www.linkedin.com/in/saleiva/es">Sergio Álvarez Leiva</a></li>
-            <li><span>Temas a tratar: </span>¿Cómo encontrar el tiempo para aprender cada día?</li>
-        </ul>
-         
-        <h3>Contacta con Álvaro Sanmartín</h3>
-         
-        <ul>
-            <li><a href="http://alvarosanmartin.com">Web</a></li>
-            <li><a href="https://twitter.com/AlvaroSanmartin">Twitter</a></li>
-        </ul>
-         
-        <h3>Links del programa</h3>
-         
-        <ul>
-             <li><a href="https://www.udacity.com">Udacity</a></li>
-             <li><a href="https://www.codeschool.com">Code School</a></li>
-             <li><a href="https://www.codecademy.com">CodeAcademy</a></li>
-             <li><a href="https://egghead.io">egghead</a></li>
-             <li><a href="https://www.khanacademy.org">KHAN Academy</a></li>
-             <li><a href="https://www.pluralsight.com">Pluralsight</a></li>
-             <li><a href="https://teamtreehouse.com">treehouse</a></li>
-        </ul>
-         
-        <h3>Recomendaciones de Nacho y Gabi</h3>
-         
-        <ul>
-            <li><a href="https://www.freecodecamp.com/">FreeCodeCamp</a></li>
-            <li><a href="https://www.designcuts.com/">DESIGNCUTS</a></li>
-        </ul>
-        ]]>
+            <h3>Descripcion del programa</h3>
+             
+            <p>Siguiendo con la estela de las alternativas a la educación tradicional, esta vez hablamos de las plataformas de formación online como Udacity, pionera en la formación de nuevas hornadas de desarrolladores y programadores a distancia.</p>
+             
+            <p>Además, entrevistaremos a Alvaro Sanmartín, responsable de desarrollo europeo de Udacity, el cual nos explicará cuáles son las claves y frenos para la formación hoy en día.</p>Además, entrevistaremos a Alvaro Sanmartín, responsable de desarrollo europeo de Udacity, el cual nos explicará cuáles son las claves y frenos para la formación hoy en día.</p>
+             
+            <p>¿Te lo vas a perder?</p>
+             
+            <h3>Recomendaciones</h3>
+             
+            <h3>Preguntas rápidas: Gonzalo Manrique</h3>
+             
+            <ul>
+                <li><span>Quién me ha inspirado: </span>Mis padres</li>
+                <li><span>Imprescindible: </span>El tema que te apasione</li>
+                <li><span>A quién entrevistar: </span><a href="https://www.linkedin.com/in/felipenavio">Felipe Navío</a></li>
+                <li><span>A quién entrevistar: </span><a href="https://www.linkedin.com/in/miguelarias/es">Miguel Arias</a></li>
+                <li><span>A quién entrevistar: </span><a href="https://www.linkedin.com/in/saleiva/es">Sergio Álvarez Leiva</a></li>
+                <li><span>Temas a tratar: </span>¿Cómo encontrar el tiempo para aprender cada día?</li>
+            </ul>
+             
+            <h3>Contacta con Álvaro Sanmartín</h3>
+             
+            <ul>
+                <li><a href="http://alvarosanmartin.com">Web</a></li>
+                <li><a href="https://twitter.com/AlvaroSanmartin">Twitter</a></li>
+            </ul>
+             
+            <h3>Links del programa</h3>
+             
+            <ul>
+                 <li><a href="https://www.udacity.com">Udacity</a></li>
+                 <li><a href="https://www.codeschool.com">Code School</a></li>
+                 <li><a href="https://www.codecademy.com">CodeAcademy</a></li>
+                 <li><a href="https://egghead.io">egghead</a></li>
+                 <li><a href="https://www.khanacademy.org">KHAN Academy</a></li>
+                 <li><a href="https://www.pluralsight.com">Pluralsight</a></li>
+                 <li><a href="https://teamtreehouse.com">treehouse</a></li>
+            </ul>
+             
+            <h3>Recomendaciones de Nacho y Gabi</h3>
+             
+            <ul>
+                <li><a href="https://www.freecodecamp.com/">FreeCodeCamp</a></li>
+                <li><a href="https://www.designcuts.com/">DESIGNCUTS</a></li>
+            </ul>
+
+            ]]>
         </description>
         <link>http://wecodesignpodcast.com/2016/06/07/episodio-3/</link>
-        <guid isPermalink="false">http://wecodesignpodcast.com/2016/06/07/episodio-3/</guid>
+        <guid>http://wecodesignpodcast.com/2016/06/07/episodio-3/</guid>
         <pubDate>Tue, 07 Jun 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x03FormacionOnline/WeCodeSign%20Podcast.%20-%20Episodio%201x03%20-%20Formacio%CC%81n%20online.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>Educación, Online</itunes:keywords>
@@ -499,7 +503,7 @@
             ]]> 
         </description>
         <link>http://wecodesignpodcast.com/2016/05/24/episodio-2/</link>
-        <guid isPermalink="false">http://wecodesignpodcast.com/2016/05/24/episodio-2/</guid>
+        <guid>http://wecodesignpodcast.com/2016/05/24/episodio-2/</guid>
         <pubDate>Tue, 24 May 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignEpisodio1x02FormacionDeLaUniversidadALosBootcamps/WeCodeSign%20-%20Episodio%201x02-%20Formacio%CC%81n%20de%20la%20universidad%20a%20los%20Bootcamps.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>Educación, Universidad, Bootcamps, HTML, CSS, JavaScript, Ruby, Madrid</itunes:keywords> 
@@ -559,7 +563,7 @@
 
         </description>
         <link>http://wecodesignpodcast.com/2016/05/10/episodio-1/</link>
-        <guid isPermalink="false">http://wecodesignpodcast.com/2016/05/10/episodio-1/</guid>
+        <guid>http://wecodesignpodcast.com/2016/05/10/episodio-1/</guid>
         <pubDate>Tue, 10 May 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcastEpisodio1x01/WeCodeSign%20Podcast%20-%20Episodio%201x01.mp3" type="audio/mpeg" length="41021035"/>
         <itunes:keywords>Educación, Universidad, Front-end, Back-end, HTML, CSS, JavaScript, Madrid</itunes:keywords> 
