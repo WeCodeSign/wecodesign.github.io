@@ -117,9 +117,9 @@
 
         ]]>
         </description>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/            " type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x08TrabajandoConDiferentesCMS/WeCodeSign%201x08%20-%20Trabajando%20con%20diferentes%20CMS.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
-        <itunes:duration>1:12:39</itunes:duration>
+        <itunes:duration>00:57:59</itunes:duration>
         <itunes:keywords>CMS, WordPress, Joomla, Prestashop, Emprendimiento, Startup, Pyme</itunes:keywords>
         <itunes:author>@IgnaciodeNuevo</itunes:author>
         <itunes:explicit>no</itunes:explicit>
@@ -192,7 +192,7 @@
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x07ExportandoTalento/WeCodeSign%20Podcast.%20Episodio%201x07%20-%20Exportando%20talento.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>Desarrollo, Vídeo, Emprendimiento</itunes:keywords>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
-        <itunes:duration>1:12:39</itunes:duration>
+        <itunes:duration>01:12:39</itunes:duration>
         <itunes:explicit>yes</itunes:explicit>
     </item>
 
@@ -256,7 +256,7 @@
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x06PrimerosPasosComoFrontEndDesigner/WeCodeSign%20Podcast.%20Episodio%201x06%20-%20Primeros%20pasos%20como%20Front-end%20Designer.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>Front-end, Design</itunes:keywords>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
-        <itunes:duration>1:04:51</itunes:duration>
+        <itunes:duration>01:04:51</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
