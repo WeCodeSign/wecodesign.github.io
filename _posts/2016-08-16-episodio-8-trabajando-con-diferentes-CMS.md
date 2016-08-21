@@ -27,6 +27,12 @@ Veremos que plugins son los más recomendados, que medidas de seguridad podemos 
 Si creías que el diseño y desarrollo web para Pymes o Startups es algo sencillo, estabas equivocada/o. Trabajar y seguir trabajando es la clave del éxito.
 
 ¿Te lo vas a perder?
+
+<div class="rule"></div>
+
+##### Posibles topics, entrevistados y duración del programa
+
+<p><a href="https://wecodesignpodcast.typeform.com/to/keNT6k">Encuesta para pedir feedback</a></p>
  
 <div class="rule"></div>
 
@@ -39,17 +45,17 @@ Si creías que el diseño y desarrollo web para Pymes o Startups es algo sencill
 ##### Preguntas rápidas: Luis Martín
 
 <ul>
-    <li class="recomendacion"><span>Quién me ha inspirado: </span><a href="https://www.linkedin.com/in/santiagoarroyos">Santiado Arroyos</a></li>
-    <li class="recomendacion"><span>Recomiéndanos un recurso: </span><a href="https://www.webempresa.com/foro.html">Foro Webempresa</a></li>
-    <li class="recomendacion"><span>Recomiéndanos a un invitado: </span><a href="https://www.linkedin.com/in/jimartinez">Juan Ignacio Martínez Estremera</a></li>
-    <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span>El futuro del diseño y desarrollo web</li>
+  <li class="recomendacion"><span>Quién me ha inspirado: </span><a href="https://www.linkedin.com/in/santiagoarroyos">Santiado Arroyos</a></li>
+  <li class="recomendacion"><span>Recomiéndanos un recurso: </span><a href="https://www.webempresa.com/foro.html">Foro Webempresa</a></li>
+  <li class="recomendacion"><span>Recomiéndanos a un invitado: </span><a href="https://www.linkedin.com/in/jimartinez">Juan Ignacio Martínez Estremera</a></li>
+  <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span>El futuro del diseño y desarrollo web</li>
 </ul>
 
 
 ##### Contacta con: Luis Martín
 
 <ul>
-    <li class="recomendacion"><a href="https://www.linkedin.com/in/luis-mart%C3%ADn-rodriguez-7a136223/en">LinkedIn</a></li>
+  <li class="recomendacion"><a href="https://www.linkedin.com/in/luis-mart%C3%ADn-rodriguez-7a136223/en">LinkedIn</a></li>
 </ul>
 
 ##### Links del programa
@@ -75,6 +81,6 @@ Si creías que el diseño y desarrollo web para Pymes o Startups es algo sencill
 ##### Recomendaciones de Nacho y Gabi
 
 <ul>
-    <li class="recomendacion"><a href="http://market.envato.com/">Envato</a></li>
-    <li class="recomendacion"><a href="https://fabrik.io/">Fabrik.io</a></li>
+  <li class="recomendacion"><a href="http://market.envato.com/">Envato</a></li>
+  <li class="recomendacion"><a href="https://fabrik.io/">Fabrik.io</a></li>
 </ul>
