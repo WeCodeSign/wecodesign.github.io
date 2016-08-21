@@ -30,9 +30,11 @@ Si creías que el diseño y desarrollo web para Pymes o Startups es algo sencill
 
 <div class="rule"></div>
 
-##### Posibles topics, entrevistados y duración del programa
+<h3 class="post-title  post-heading">Encuesta para pedir Feedback</h3>
 
-<p><a href="https://wecodesignpodcast.typeform.com/to/keNT6k">Encuesta para pedir feedback</a></p>
+<ul>
+  <li class="recomendacion"><a href="https://wecodesignpodcast.typeform.com/to/keNT6k">Posibles topics, entrevistados y duración del programa</a></li>
+</ul>
  
 <div class="rule"></div>
 
