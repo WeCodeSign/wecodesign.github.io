@@ -14,7 +14,7 @@ tags:
   - React
 ---
 
-<iframe id='audio_12716335' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://www.ivoox.com/player_ej_12716335_4_1.html?c1=ff6600"></iframe>
+<iframe width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ej_12716335_2_1.html?data=kpekk5uXd5ahhpywj5qXaZS1lpuah5yncZKhhpywj5WRaZi3jpWah5yncZqfjpCyzpDJt9XVxdSYw8jYucLgjMnSjabSq9bgwteY25C0s83tzsrfj4qbh47Lxqjcxsq3rcjijLXcxsjFt9Whhpywj5U.&"></iframe>
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 
