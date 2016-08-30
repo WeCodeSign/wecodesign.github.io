@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El estado actual de Angular y Polymer"
+title: "Angular y Polymer"
 excerpt: "Alejandro Arroyo Duque nos cuenta su experiencia con Angular y Polymer y su visión sobre el futuro de dichas tecnologías."
 podcast_number: "WCD 1x09"
 podcast_date: "Agosto 30, 2016"
@@ -14,7 +14,7 @@ tags:
   - React
 ---
 
-<iframe height="200" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ej_12716335_2_1.html?data=kpekk5uXd5ahhpywj5WUaZS1kZWah5yncZGhhpywj5WRaZi3jpWah5yncZqfjpCyzpDJt9XVxdSYw8jYucLgjMnSjabSq9bgwteY25C0s83tzsrfj4qbh47Lxqjcxsq3rcjijLXcxsjFt9Whhpywj5U.&"></iframe>
+<iframe width="100%" max-width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ej_12716335_2_1.html?data=kpekk5uXd5ahhpywj5WUaZS1kZWah5yncZGhhpywj5WRaZi3jpWah5yncZqfjpCyzpDJt9XVxdSYw8jYucLgjMnSjabSq9bgwteY25C0s83tzsrfj4qbh47Lxqjcxsq3rcjijLXcxsjFt9Whhpywj5U.&"></iframe>
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 
