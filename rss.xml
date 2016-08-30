@@ -51,6 +51,96 @@
     <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" />
 
 
+
+    <item>
+        <title>9 - El estado actual de Angular y Polymer</title>
+        <pubDate>Tue, 30 Aug 2016 18:30:00 GMT</pubDate>
+        <description>
+        <![CDATA[
+            
+            <h3>Descripcion del programa</h3>
+
+            <p>Alejandro Arroyo Duque de Sngular nos cuenta su experiencia con Angular y Polymer en empresas tan destacadas como BBVA, Mapfre o Bankia. Hablamos de como le surge la idea de desarrollar videojuegos en JavaScript.</p>
+
+            <p>Comentamos que son las Progressive Web Apps y las Instant Apps, dos nuevos conceptos que han surgido tras el último Google I/O y que tiene que ver en este ecosistema React y los Web Components.</p>
+
+            <p>Si crees que puedes adivinar el futuro de la web, disfruta el presente.</p>
+
+            <p>¿Te lo vas a perder?</p>
+
+            <h3>Encuesta para pedir Feedback</h3>
+
+            <ul>
+              <li><a href="https://wecodesignpodcast.typeform.com/to/keNT6k">Posibles topics, entrevistados y duración del programa</a></li>
+            </ul>
+
+            <h3>Preguntas rápidas: Alejandro Arroyo Duque</h3>
+
+            <ul>
+              <li><span>Quién me ha inspirado: </span><a href="https://es.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a></li>
+              <li><span>Recomiéndanos un recurso: </span><a href="https://addyosmani.com/">Addy Osmani</a></li>
+              <li><span>Recomiéndanos un recurso: </span><a href="http://www.paulirish.com/">Paul Irish</a></li>
+              <li><span>Recomiéndanos a un invitado: </span><a href="https://twitter.com/angel_gfuente">Ángel González de la Fuente</a></li>
+              <li><span>¿Qué tema te gustaría que tratásemos?: </span>Gamificación</a></li>
+            </ul>
+
+            <h3>Contacta con: Alejandro Arroyo Duque</h3>
+
+            <ul>
+              <li><a href="http://alexarroyoduque.github.io/#/home">Web</a></li>
+              <li><a href="https://twitter.com/AlexArroyoDuque">Twitter</a></li>
+              <li><a href="https://github.com/alexarroyoduque">Github</a></li>
+              <li><a href="https://www.linkedin.com/in/alexarroyoduque">LinkedIn</a></li>
+            </ul>
+
+            <h3>Links del programa</h3>
+
+            <ul>
+              <li><a href="http://www.meetup.com/videogamearmy/">Vide Game Army (Meetup)</a></li>
+              <li><a href="https://www.youtube.com/channel/UCWy51q5EHi2JGjUVAwVyRMQ">ide Game Army (YouTube)</a></li>
+              <li><a href="https://www.youtube.com/watch?v=Xt5qpbiqw2g">The myth of the “Real JavaScript Developer”</a></li>
+              <li><a href="https://twitter.com/IgnaciodeNuevo/status/760877780523515904">CSS is easy via @cristinafsanz</a></li>
+              <li><a href="https://angular.io/">Angular 2</a></li>
+              <li><a href="http://ionicframework.com/">Ionic</a></li>
+              <li><a href="https://facebook.github.io/react/">React</a></li>
+              <li><a href="https://jsx.github.io/">JSX</a></li>
+              <li><a href="https://developers.google.com/web/progressive-web-apps/">Progressive Web Apps</a></li>
+              <li><a href="http://www.infoworld.com/article/3073170/mobile-development/google-opens-polymer-toolbox-for-progressive-web-apps.html">Google opens Polymer for PWA</a></li>
+              <li><a href="https://developer.android.com/topic/instant-apps/index.html">Instant Apps</a></li>
+              <li><a href="https://instantarticles.fb.com/">Instant Articles</a></li>
+              <li><a href="https://www.ampproject.org/">AMP</a></li>
+              <li><a href="http://webcomponents.org/">Web Components</a></li>
+            </ul>
+
+            <h3>Recomendaciones de Nacho y Gabi</h3>
+
+            <ul>
+              <li><a href="https://github.com/Granze/awesome-polymer">Awesome Polymer</a></li>
+              <li><a href="http://violaineetjeremy.fr/">VIOLAINE & JÉRÉMY</a></li>
+            </ul>
+
+            <h3>Contacta con nosotros</h3>
+
+            <ul>
+                <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+                <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+                <li><a href="https://www.facebook.com/wecodesignpodcast">Facebook de WeCodeSign</a></li>
+                <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+                <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+                <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+            </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2016/08/30/estado-actual-de-angular-y-polymer/</link>
+        <guid>http://wecodesignpodcast.com/2016/08/30/estado-actual-de-angular-y-polymer/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x09ElEstadoActualDeAngularYPolymer/WeCodeSign%201x09%20-%20El%20estado%20actual%20de%20Angular%20y%20Polymer.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>00:53:57</itunes:duration>
+        <itunes:keywords>Angular, Angular2, Polymer, WebComponents, React</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
         <title>8 - Trabajando con diferentes CMS</title>
         <pubDate>Tue, 16 Aug 2016 18:30:00 GMT</pubDate>
@@ -135,7 +225,6 @@
         <itunes:author>WeCodeSign Podcast</itunes:author>
         <itunes:explicit>no</itunes:explicit>
     </item>
-
     <item>
         <title>7 - Exportando talento</title>
         <description>
