@@ -49,18 +49,18 @@ body {
 .site-logo img {
 	position: absolute;
 	display: block;
-	width: 150px; // Pon la medida en %, em, px...
-	max-width: 150px;
+	width: 200px; // Pon la medida en %, em, px...
+	max-width: 200px;
 	margin-top: -90px;
   	left: 50%;
-  	-webkit-transform: translateX(calc(-50% + 23px));
-         	transform: translateX(calc(-50% + 23px));
+  	-webkit-transform: translateX(-50%);
+         	transform: translateX(-50%);
 }
 
 // Header > p
 .site-mainText {
 	margin-top: 125px;
-	padding: 0 20px;
+	padding: 20px 0 5px;
 	color: $secondaryColor;
 	text-align: center;
 	font-weight: bold;

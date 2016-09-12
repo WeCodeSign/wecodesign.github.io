@@ -16,7 +16,7 @@ tags:
   - Pyme
 ---
 
-<iframe width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ej_12606892_2_1.html?data=kpejkpucfZOhhpywj5qbaZS1lp2ah5yncZKhhpywj5WRaZi3jpWah5yncZmfjpDB1MbGpcvVz8ncjcjTsozYysvS1MrSuMbnjKi6tZKJe6ShuMqw0cnJl8rbz5C90cnHpdTojoqkpZKU&"></iframe>
+<iframe id='audio_12606892' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://www.ivoox.com/player_ej_12606892_4_1.html?c1=ff6600"></iframe>
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 
