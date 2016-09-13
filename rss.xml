@@ -51,7 +51,92 @@
     <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" />
 
 
+    <item>
+        <title>10 - Diseño de Interacción</title>
+        <pubDate>Tue, 13 Sep 2016 18:30:00 GMT</pubDate>
+        <description>
+        <![CDATA[
+            
+            <h3>Descripcion del programa</h3>
 
+            <p>¿Es el Diseño de Interacción una moda pasajera o está para quedarse? ¿Se utiliza correctamente? ¿En qué casos es necesario y cuándo es superfluo? ¿Cómo afecta a la acesibilidad? ¿Qué herramientas son imprescindibles para este sector?</p>
+
+            <p>La divertidísima UX/UI Senior Designer Izaskun Saez visita WeCodeSign y comenta cuál es la situación de un sector que aparentemente está viviendo su época dorada: El Diseño de Interacción.</p>
+
+            <p>Decir que este programa nos ha quedado "animado" es poco.</p>
+
+            <p>¡¡No te lo pierdas!!</p>
+
+            <h3>Encuesta para pedir Feedback</h3>
+
+            <ul>
+              <li><a href="https://wecodesignpodcast.typeform.com/to/keNT6k">Posibles topics, entrevistados y duración del programa</a></li>
+            </ul>
+
+            <h3>Recomendaciones</h3>
+
+            <h3>Preguntas rápidas: Izaskun Saez</h3>
+
+            <ul>
+              <li><span>Quién me ha inspirado: </span>Los compañeros del trabajo</li>
+              <li><span>Recomiéndanos un recurso: </span><a href="https://medium.com">Medium</a></li>
+              <li><span>Recomiéndanos un recurso: </span><a href="https://www.uxpin.com/studio/ebooks">UXPin</a></li>
+              <li><span>Recomiéndanos a un invitado: </span><a href="https://www.linkedin.com/in/robertogarrido">Roberto Garrido</a></li>
+              <li><span>¿Qué tema te gustaría que tratásemos?: </span>Internet of Things</li>
+            </ul>
+
+            <h3>Contacta con: Izaskun Saez</h3>
+
+            <ul>
+              <li><a href="https://twitter.com/isaezdesign">Twitter</a></li>
+              <li><a href="http://izaskunsaez.com/">Web</a></li>
+              <li><a href="https://www.linkedin.com/in/izaskunsaez/en">Linkedin</a></li>
+            </ul>
+
+            <h3>Links del programa</h3>
+
+            <ul>
+              <li><a href="https://www.sketchapp.com">Sketch</a></li>
+              <li><a href="https://marvelapp.com">Marvel</a></li>
+              <li><a href="https://www.invisionapp.com">Invision</a></li>
+              <li><a href="http://www.axure.com">Axure</a></li>
+              <li><a href="http://www.html5rocks.com/en/tutorials/speed/high-performance-animations">High Performance Animations</a></li>
+            </ul>
+
+            <h3>Recomendaciones de Nacho y Gabi</h3>
+
+            <ul>
+              <li><a href="http://valhead.com">Val Head</a></li>
+              <li><a href="http://rosenfeldmedia.com/designing-interface-animation/designing-interface-animation">Designing Interface Animation (book)</a></li>
+              <li><a href="http://motionandmeaning.io">Motion and Meaning (podcast)</a></li>
+              <li><a href="https://vimeo.com/channels/alltherightmoves">Vimeo animation series</a></li>
+              <li><a href="http://cssanimationspocketguide.com">CSS Animations Pocket Guide (book)</a></li>
+              <li><a href="https://www.instagram.com/uxigers">UXigers</a></li>
+              <li><a href="ttps://www.instagram.com/uiuxgifs">UiUxGifs</a></li>
+            </ul>
+
+            <h3>Contacta con nosotros</h3>
+
+            <ul>
+                <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+                <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+                <li><a href="https://www.facebook.com/wecodesignpodcast">Facebook de WeCodeSign</a></li>
+                <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+                <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+                <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+            </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2016/09/13/diseno-de-interaccion/</link>
+        <guid>http://wecodesignpodcast.com/2016/09/13/diseno-de-interaccion/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x10DisenoDeInteraccion/WeCodeSign%201x10%20-%20Disen%CC%83o%20de%20Interaccio%CC%81n.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>00:53:12</itunes:duration>
+        <itunes:keywords>Diseño, Interacción, UX, UI, Accesibilidad</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
         <title>9 - El estado actual de Angular y Polymer</title>
         <pubDate>Tue, 30 Aug 2016 18:30:00 GMT</pubDate>
