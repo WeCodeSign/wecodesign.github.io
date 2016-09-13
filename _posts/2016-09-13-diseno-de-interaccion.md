@@ -79,5 +79,5 @@ Decir que este programa nos ha quedado "animado" es poco.
   <li class="recomendacion"><a href="https://vimeo.com/channels/alltherightmoves">Vimeo animation series</a></li>
   <li class="recomendacion"><a href="http://cssanimationspocketguide.com">CSS Animations Pocket Guide (book)</a></li>
   <li class="recomendacion"><a href="https://www.instagram.com/uxigers">UXigers</a></li>
-  <li class="recomendacion"><a href="ttps://www.instagram.com/uiuxgifs">UiUxGifs</a></li>
+  <li class="recomendacion"><a href="https://www.instagram.com/uiuxgifs">UiUxGifs</a></li>
 </ul>
