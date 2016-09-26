@@ -52,6 +52,108 @@
 
 
     <item>
+        <title>11 - Web Audio</title>
+        <pubDate>Tue, 27 Sep 2016 18:30:00 GMT</pubDate>
+        <description>
+        <![CDATA[
+            
+            <h3>Descripcion del programa</h3>
+
+            <p>¿Cómo influye el Web Audio en la Web? ¿Por qué el Progressive enhacement es algo más que actualizar JS? ¿En qué proyectos está inmerso ahora mismo Mozilla? ¿Cómo podemos mejorar nuestra experiencia con el audio?</p>
+
+            <p>La talentosa desarrolladora y devrel de Mozilla Soledad Penadés, visita el podcast para contarnos el Web Audio y su influencia en la Web, así como sus diversos perfiles creativos: compositora, viajera, desarrolladora, apasionada de los sintetizadores, siempre curiosa y excelente comunicadora.</p>
+
+            <p>¡Ábrete de orejas y no te lo pierdas!</p>
+
+            <h3>Encuesta para pedir Feedback</h3>
+
+            <ul>
+              <li><a href="https://wecodesignpodcast.typeform.com/to/keNT6k">Posibles topics, entrevistados y duración del programa</a></li>
+            </ul>
+
+            <h3>Recomendaciones</h3>
+
+            <h3>Preguntas rápidas: Soledad Penadés</h3>
+
+            <ul>
+              <li><span>Quién me ha inspirado: </span><a href="http://whichlight.com">Kawandeep Virdee</a></li>
+              <li><span>Recomiéndanos un recurso: </span><a href="https://developer.mozilla.org/en-US/">Mozilla Developer Network</a></li>
+              <li><span>Recomiéndanos a un invitado: </span><a href="http://belenalbeza.com">Belen Albeza</a></li>
+              <li><span>Recomiéndanos a un invitado: </span><a href="https://buriti.ca">Juan Pablo Buritica</a></li>
+              <li><span>¿Qué tema te gustaría que tratásemos?: </span><a href=""></a></li>
+            </ul>
+
+            <h3>Contacta con: Soledad Penadés</h3>
+
+            <ul>
+              <li><a href="https://twitter.com/supersole">Twitter - Sole</a></li>
+              <li><a href="https://soledadpenades.com">soledadpenades.com</a></li>
+              <li><a href="https://supersole.net">supersole.net</a></li>
+              <li><a href="https://5013.es">5013.es</a></li>
+              <li><a href="https://github.com/sole">Github - Sole</a></li>
+            </ul>
+
+            <h3>Links del programa</h3>
+
+            <ul>
+              <li><a href="https://webcompat.com">Bug reporting 
+              for the internet</a></li>
+              <li><a href="https://webaudio.github.io/web-audio-api">Web Audio API</a></li>
+              <li><a href="https://es.wikipedia.org/wiki/Tracker_(software_de_m%C3%BAsica)">Trackers</a></li>
+              <li><a href="https://github.com/sole/sorollet">Sintetizador en C++</a></li>
+              <li><a href="https://soundcloud.com/visinin/shiranai-lost-in-london-remix">Canción hecha con el sintetizador de Sole</a></li>
+              <li><a href="https://github.com/sole/sorollet.js">Sintetizador en JavaScript</a></li>
+              <li><a href="https://5013.es/toys/macchina">Caja de música infinita</a></li>
+              <li><a href="https://5013.es/toys/macchina_ii">Generador de sonidos spooky</a></li>
+              <li><a href="https://5013.es/toys/3400">Juego exploratorio con audio en 3D</a></li>
+              <li><a href="https://5013.es/toys/theremin">Simulación de theremin</a></li>
+              <li><a href="https://5013.es/toys/to_the_beat_js">Demo con WebGL + Web Audio</a></li>
+              <li><a href="https://developer.mozilla.org/en-US/docs/Tools/Web_Audio_Editor">Web Audio Editor</a></li>
+              <li><a href="https://arewedubstepyet.com">Bugs en Web Audio</a></li>
+              <li><a href="https://soledadpenades.com/2016/09/15/progressive-enhancement-does-not-mean-works-when-javascript-is-disabled">Progressive enhancement</a></li>
+              <li><a href="http://www.brucelawson.co.uk">Bruce Lawson</a></li>
+              <li><a href="https://www.youtube.com/watch?v=QVuRba0NGKg">World Wide Web, not Healthy Westerners' Web</a></li>
+              <li><a href="https://hacks.mozilla.org/2016/08/whats-new-in-web-audio-2">Lo nuevo en Web Audio</a></li>
+              <li><a href="https://5013.es/toys/sorollet/examples/02_drum_machine/#eyJicG0iOjEwMCwidm9pY2VQYXJhbXMiOlt7IndhdmUxRnVuY3Rpb24iOjIsIndhdmUxT2N0YXZlIjozLCJ3YXZlMVZvbHVtZSI6MC40OCwid2F2ZTFQaGFzZSI6MCwid2F2ZTJGdW5jdGlvbiI6Mywid2F2ZTJPY3RhdmUiOjQsIndhdmUyVm9sdW1lIjowLCJ3YXZlMlBoYXNlIjowLCJ3YXZlTWl4RnVuY3Rpb24iOjAsIm5vaXNlQW1vdW50IjowLCJub2lzZU1peEZ1bmN0aW9uIjowLCJ2b2x1bWVFbnZlbG9wZSI6eyJhdHRhY2siOjAsImRlY2F5IjowLjI3LCJzdXN0YWluIjowLCJyZWxlYXNlIjowLCJvdXRwdXRNaW4iOjAsIm91dHB1dE1heCI6MSwidGltZVNjYWxlIjoxfSwicGl0Y2hFbnZlbG9wZSI6eyJhdHRhY2siOjAsImRlY2F5IjowLjY0LCJzdXN0YWluIjowLCJyZWxlYXNlIjowLCJvdXRwdXRNaW4iOi00OCwib3V0cHV0TWF4IjoxMiwidGltZVNjYWxlIjoxfX0seyJ3YXZlMUZ1bmN0aW9uIjowLCJ3YXZlMU9jdGF2ZSI6NSwid2F2ZTFWb2x1bWUiOjAuNSwid2F2ZTFQaGFzZSI6MCwid2F2ZTJGdW5jdGlvbiI6Miwid2F2ZTJPY3RhdmUiOjQsIndhdmUyVm9sdW1lIjowLCJ3YXZlMlBoYXNlIjowLCJ3YXZlTWl4RnVuY3Rpb24iOjAsIm5vaXNlQW1vdW50IjoxLCJub2lzZU1peEZ1bmN0aW9uIjoyLCJ2b2x1bWVFbnZlbG9wZSI6eyJhdHRhY2siOjAsImRlY2F5IjowLjQ1LCJzdXN0YWluIjowLCJyZWxlYXNlIjoxLCJvdXRwdXRNaW4iOjAsIm91dHB1dE1heCI6MC45NSwidGltZVNjYWxlIjoxfSwicGl0Y2hFbnZlbG9wZSI6eyJhdHRhY2siOjAsImRlY2F5IjowLjIxLCJzdXN0YWluIjowLCJyZWxlYXNlIjowLCJvdXRwdXRNaW4iOjAsIm91dHB1dE1heCI6LTQ4LCJ0aW1lU2NhbGUiOjF9fSx7IndhdmUxRnVuY3Rpb24iOjAsIndhdmUxT2N0YXZlIjo1LCJ3YXZlMVZvbHVtZSI6MC41LCJ3YXZlMVBoYXNlIjowLCJ3YXZlMkZ1bmN0aW9uIjoyLCJ3YXZlMk9jdGF2ZSI6NCwid2F2ZTJWb2x1bWUiOjAuNSwid2F2ZTJQaGFzZSI6MCwid2F2ZU1peEZ1bmN0aW9uIjowLCJub2lzZUFtb3VudCI6MSwibm9pc2VNaXhGdW5jdGlvbiI6MSwidm9sdW1lRW52ZWxvcGUiOnsiYXR0YWNrIjowLCJkZWNheSI6MC4wNiwic3VzdGFpbiI6MCwicmVsZWFzZSI6MSwib3V0cHV0TWluIjowLCJvdXRwdXRNYXgiOjEsInRpbWVTY2FsZSI6MX0sInBpdGNoRW52ZWxvcGUiOnsiYXR0YWNrIjowLCJkZWNheSI6MCwic3VzdGFpbiI6MSwicmVsZWFzZSI6MCwib3V0cHV0TWluIjowLCJvdXRwdXRNYXgiOjAsInRpbWVTY2FsZSI6MX19LHsid2F2ZTFGdW5jdGlvbiI6Mywid2F2ZTFPY3RhdmUiOjYsIndhdmUxVm9sdW1lIjowLjU1LCJ3YXZlMVBoYXNlIjowLCJ3YXZlMkZ1bmN0aW9uIjoyLCJ3YXZlMk9jdGF2ZSI6NCwid2F2ZTJWb2x1bWUiOjAsIndhdmUyUGhhc2UiOjAsIndhdmVNaXhGdW5jdGlvbiI6MCwibm9pc2VBbW91bnQiOjAsIm5vaXNlTWl4RnVuY3Rpb24iOjAsInZvbHVtZUVudmVsb3BlIjp7ImF0dGFjayI6MCwiZGVjYXkiOjAuNDQsInN1c3RhaW4iOjAsInJlbGVhc2UiOjEsIm91dHB1dE1pbiI6MCwib3V0cHV0TWF4IjoxLCJ0aW1lU2NhbGUiOjF9LCJwaXRjaEVudmVsb3BlIjp7ImF0dGFjayI6MC4xNiwiZGVjYXkiOjAuNDEsInN1c3RhaW4iOjAsInJlbGVhc2UiOjAsIm91dHB1dE1pbiI6Niwib3V0cHV0TWF4IjowLjI0LCJ0aW1lU2NhbGUiOjF9fV0sInBhdHRlcm5zIjpbW1swLDAsMV0sWzAsMiwxXSxbMiwyLDFdLFs0LDAsMV0sWzQsMSwxXSxbNCwyLDFdLFs2LDIsMV0sWzgsMCwxXSxbOCwyLDFdLFs5LDMsMV0sWzEwLDIsMV0sWzExLDMsMV0sWzEyLDAsMV0sWzEyLDEsMV0sWzEyLDIsMV0sWzE0LDIsMV0sWzE1LDIsMV0sWzE2LDAsMV0sWzE2LDIsMV0sWzE4LDIsMV0sWzIwLDAsMV0sWzIwLDEsMV0sWzIwLDIsMV0sWzIyLDIsMV0sWzI0LDAsMV0sWzI0LDIsMV0sWzI2LDIsMV0sWzI3LDEsMV0sWzI4LDAsMV0sWzI4LDEsMV0sWzI4LDIsMV0sWzI5LDMsMV0sWzMwLDIsMV0sWzMwLDMsMV0sWzMxLDIsMV0sWzMxLDMsMV1dXSwib3JkZXJMaXN0IjpbMF19">Caja de ritmos online</a></li>
+              <li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=728046">Bug sobre implementar control de volumen por tab</a></li>
+              <li><a href="https://www.mozilla.org/en-US/firefox/ios">Firefox para iOS</a></li>
+              <li><a href="https://www.mozilla.org/en-US/firefox/sync">Firefox Sync</a></li>
+              <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers">Service Worker</a></li>
+              <li><a href="http://puredata.info">Pure Data</a></li>
+              <li><a href="https://emiliagomez.com">Emilia Gomez (investigadora de flamenco)</a></li>
+              <li><a href="http://www.meetup.com/Web-Audio-London">Web Audio meetup Londres</a></li>
+            </ul>
+
+            <h3>Recomendaciones de Nacho y Gabi</h3>
+
+            <ul>
+              <li><a href="https://hacks.mozilla.org/">Hacks Mozilla</a></li>
+              <li><a href="http://freesound.org/">Freesound</a></li>
+            </ul>
+
+            <h3>Contacta con nosotros</h3>
+
+            <ul>
+                <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+                <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+                <li><a href="https://www.facebook.com/wecodesignpodcast">Facebook de WeCodeSign</a></li>
+                <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+                <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+                <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+            </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2016/09/24/web-audio/</link>
+        <guid>http://wecodesignpodcast.com/2016/09/24/web-audio/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x11WebAudio/WeCodeSign%201x11%20-%20Web%20Audio.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>01:23:40</itunes:duration>
+        <itunes:keywords>Web, Audio, ProgressiveEnhancement, WebAudioAPI</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
         <title>10 - Diseño de Interacción</title>
         <pubDate>Tue, 13 Sep 2016 18:30:00 GMT</pubDate>
         <description>
