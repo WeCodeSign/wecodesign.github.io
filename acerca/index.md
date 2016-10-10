@@ -1,6 +1,6 @@
 ---
 layout: acerca
-title: "Acerca de nosotros"
+title: "Acerca de mi"
 ---
 
 <div class="acerca__unit  clearfix">
@@ -13,21 +13,11 @@ title: "Acerca de nosotros"
 	</div>
 </div>
 
-<div class="acerca__unit  clearfix">
-	<img class="acerca__portrait" src="/img/portrait-gabriel.svg" alt="Ilustración de Gabriel">
-	<div class="acerca__wrapper">
-		<h3 class="acerca__name">Gabi Ferrer</h3>
-		<div class="rule"></div>
-		<p>Director de Arte Digital, Front-end Designer. Ilustrador vocacional y diseñador profesional, trabaja, duerme y a veces hasta sueña en Madrid.</p>
-		<p>Preguntas, dudas, ocurrencias y amenazas de muerte envíamelas a mi <a href="mailto:gabrielferrerolmos@gmail.com">Email</a>.</p>
-	</div>
-</div>
-
 <div class="rule"></div>
 
-<h2 class="post-title  post-heading">Contacta con nosotros</h2>
+<h2 class="post-title  post-heading">Contacto</h2>
 
-### Escúchanos
+### Escúcha el Podcast
 
 + [iTunes](https://itunes.apple.com/es/podcast/wecodesign-podcast/id1113501272?l=en)
 + [iVoox](http://www.ivoox.com/escuchar-audios-wecodesign-podcast_al_5101204_1.html)
@@ -41,7 +31,7 @@ title: "Acerca de nosotros"
 
 <div class="rule  rule--big"></div>
 
-<h2 class="post-title  post-heading">Escríbenos</h2>
+<h2 class="post-title  post-heading">Escríbeme</h2>
 
 Escríbenos a nuestro [Email](mailto:{{ site.email }})
 

@@ -13,7 +13,7 @@
     <title>WeCodeSign Podcast</title>
     <atom:link href="http://wecodesignpodcast.com/rss.xml" rel="self" type="application/rss+xml" /> 
     <link>http://wecodesignpodcast.com</link>
-    <description>El podcast de diseño, desarrollo front-end y UX quincenal con Ignacio Villanueva y Gabriel Ferrer. En cada episodio invitamos a un reputado profesional del sector.
+    <description>El podcast de diseño, desarrollo front-end y UX quincenal. En cada episodio invitamos a un reputado profesional del sector.
     </description>
     <language>es-ES</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -27,8 +27,8 @@
         <title>WeCodeSign Podcast</title>
         <link>http://wecodesignpodcast.com</link>
     </image>
-    <itunes:subtitle>El podcast de diseño, desarrollo front-end y UX quincenal con Ignacio Villanueva y Gabriel Ferrer.</itunes:subtitle>
-    <itunes:summary>El podcast de diseño, desarrollo front-end y UX quincenal con Ignacio Villanueva y Gabriel Ferrer. En cada episodio invitamos a un reputado profesional del sector.</itunes:summary>
+    <itunes:subtitle>El podcast de diseño, desarrollo front-end y UX quincenal.</itunes:subtitle>
+    <itunes:summary>El podcast de diseño, desarrollo front-end y UX quincenal. En cada episodio invitamos a un reputado profesional del sector.</itunes:summary>
     <itunes:keywords>WeCodeSign, Diseño, Desarrollo, Web, Frontend, Front-end, UX, UI, webdesign, web, development, design</itunes:keywords> 
     <itunes:category text="Arts">
         <itunes:category text="Design"/>
@@ -124,7 +124,7 @@
               <li><a href="http://www.meetup.com/Web-Audio-London">Web Audio meetup Londres</a></li>
             </ul>
 
-            <h3>Recomendaciones de Nacho y Gabi</h3>
+            <h3>Recomendaciones de Nacho</h3>
 
             <ul>
               <li><a href="https://hacks.mozilla.org/">Hacks Mozilla</a></li>
@@ -205,7 +205,7 @@
               <li><a href="http://www.html5rocks.com/en/tutorials/speed/high-performance-animations">High Performance Animations</a></li>
             </ul>
 
-            <h3>Recomendaciones de Nacho y Gabi</h3>
+            <h3>Recomendaciones de Nacho</h3>
 
             <ul>
               <li><a href="http://valhead.com">Val Head</a></li>
@@ -299,7 +299,7 @@
               <li><a href="http://webcomponents.org/">Web Components</a></li>
             </ul>
 
-            <h3>Recomendaciones de Nacho y Gabi</h3>
+            <h3>Recomendaciones de Nacho</h3>
 
             <ul>
               <li><a href="https://github.com/Granze/awesome-polymer">Awesome Polymer</a></li>
@@ -383,7 +383,7 @@
               <li><a href="http://extensions.joomla.org/extension/joomshopping">Joomshopping</a></li>
             </ul>
 
-            <h3>Recomendaciones de Nacho y Gabi</h3>
+            <h3>Recomendaciones de Nacho</h3>
 
             <ul>
                 <li><a href="http://market.envato.com/">Envato</a></li>
@@ -462,7 +462,7 @@
                <li><a href="https://es.wikipedia.org/wiki/Ashton_Kutcher">Ashton Kutcher</a></li>
             </ul>
 
-            <h4>Recomendaciones de Nacho y Gabi</h4>
+            <h4>Recomendaciones de Nacho</h4>
 
             <ul>
                 <li><a href="https://stuffandnonsense.co.uk">Stuff & Nonsense</a></li>
@@ -528,7 +528,7 @@
                 <li><a href="http://librosweb.es">Libros Web</a></li>
             </ul>
 
-            <h3>Recomendaciones de Nacho y Gabi</h3>
+            <h3>Recomendaciones de Nacho</h3>
 
             <ul>
                 <li><a href="https://nomadlist.com">Nomadlist</a></li>
@@ -588,7 +588,7 @@
             <li><a href="https://uxpin.com">UXPin</a></li>   
         </ul>
 
-        <h3>Recomendaciones de Nacho y Gabi</h3>
+        <h3>Recomendaciones de Nacho</h3>
 
         <ul>
             <li><a href="https://twitter.com/leoniewatson">Léonie Watson</a></li>
@@ -645,7 +645,7 @@
             <li><a href="http://www.aendi.es/">Asociación Nativos Digitales</a></li>
         </ul>
 
-        <h4>Recomendaciones de Nacho y Gabi</h4>
+        <h4>Recomendaciones de Nacho</h4>
 
         <ul>
             <li><a href="https://moz.com/blog">Moz Blog</a></li>
@@ -709,7 +709,7 @@
                  <li><a href="https://teamtreehouse.com">treehouse</a></li>
             </ul>
              
-            <h3>Recomendaciones de Nacho y Gabi</h3>
+            <h3>Recomendaciones de Nacho</h3>
              
             <ul>
                 <li><a href="https://www.freecodecamp.com/">FreeCodeCamp</a></li>
@@ -761,7 +761,7 @@
                 <li><a href="https://twitter.com/gonzumanrique">Twitter: Gonzalo Manrique</a></li>
             </ul>
 
-            <h4>Recomendaciones de Nacho y Gabi</h4>
+            <h4>Recomendaciones de Nacho</h4>
 
             <ul>
                 <li><a href="https://classroom.w3devcampus.com">Classrooms W3 Dev Campus</a></li>
@@ -820,7 +820,7 @@
                 <li><a href="https://twitter.com/eduardofierrogo">Twitter</a></li>
             </ul>
 
-            <h4>Recomendaciones de Nacho y Gabi</h4>
+            <h4>Recomendaciones de Nacho</h4>
 
             <ul>
                 <li><a href="http://csswizardry.com">Harry Roberts</a></li>
