@@ -51,6 +51,99 @@
     <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" />
 
 
+
+
+    <item>
+        <title>12 - Tipografía Web</title>
+        <pubDate>Tue, 11 Oct 2016 18:30:00 GMT</pubDate>
+        <description>
+        <![CDATA[
+            
+            <h3>Descripcion del programa</h3>
+
+            <p>Hoy contamos con un amigo del programa, Lole Román, diseñador UI y tipógrafo, apasionado de crear.</p>
+
+            <p>Si no sabéis lo que importante que es el uso de la tipografía en la web este es tu episodio. ¿Quiéres iniciarte en el buen uso de tipografía en la web y sabes como aprovecharla al máximo? Hablamos sobre problemas técnicos que pueden crear o como solucionar el mal uso de la tipografía en la web.</p>
+
+            <p>¿Te lo vas a perder?</p>
+
+            <h3>Encuesta para pedir Feedback</h3>
+
+            <ul>
+              <li><a href="https://wecodesignpodcast.typeform.com/to/keNT6k">Posibles topics, entrevistados y duración del programa</a></li>
+            </ul>
+
+            <h3>Recomendaciones</h3>
+
+            <h3>Preguntas rápidas: Lole Román</h3>
+
+            <ul>
+              <li><span>Quién me ha inspirado: </span>¡Su adorada mujer!</li>
+              <li><span>Recomiéndanos un recurso: </span><a href="http://www.modularscale.com/">Modular Scale</a></li>
+              <li><span>Recomiéndanos a un invitado: </span><a href="https://twitter.com/heterotype?lang=es">Manuel Sesma</a></li>
+              <li><span>¿Qué tema te gustaría que tratásemos?: Diseño Editorial</span></li>
+            </ul>
+
+            <h3>Contacta con: Lole Román</h3>
+
+            <ul>
+              <li><a href="https://www.fontown.com/">FonTown</a></li>
+              <li><a href="http://www.bynewroman.com/#home">Web de Lole</a></li>
+              <li><a href="https://www.linkedin.com/in/loleroman/en">LinkedIn de Lole</a></li>
+              <li><a href="https://twitter.com/lolergb">Twitter de Lole</a></li>
+            </ul>
+
+            <h3>Links del programa</h3>
+
+            <ul>
+              <li><a href="https://www.typotheque.com/articles/acerca_de_fedra">Fedra tipografía</a></li>
+              <li><a href="http://eduardomanso.com/#twitter">Eduardo Manso</a></li>
+              <li><a href="http://www.tiposconcaracter.es/truetype-opentype/">TrueType vs OpenType</a></li>
+              <li><a href="http://spiekermann.com/en/sample-page/">Spiekermann</a></li>
+              <li><a href="https://typekit.com/">Typekit</a></li>
+              <li><a href="https://fonts.google.com/">Google Fonts</a></li>
+              <li><a href="https://www.keycdn.com/blog/web-font-performance/">Analyzing Web Font Performance</a></li>
+              <li><a href="https://ia.net/know-how/responsive-typography-the-basics">Responsive Typography the Basics</a></li>
+              <li><a href="https://www.filamentgroup.com/lab/font-events.html">Font Loading Revisited with Font Events</a></li>
+              <li><a href="https://www.zachleat.com/web/comprehensive-webfonts/">A comprehensive guide to font loading</a></li>
+              <li><a href="https://www.filamentgroup.com/lab/font-loading.html">Using Web Fonts avoiding a @font-face-palm</a></li>
+              <li><a href="http://stateofwebtype.com/">State of Web Type</a></li>
+              <li><a href="https://www.smashingmagazine.com/2012/04/a-closer-look-at-font-rendering/">A Closer Look At Font Rendering</a></li>
+              <li><a href="https://medium.com/@tiro/https-medium-com-tiro-introducing-opentype-variable-fonts-12ba6cd2369#.dscil6nks">OpenType variable fonts</a></li>
+              <li><a href="https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization">Optimizando Web Fonts</a></li>
+              <li><a href="http://www.joanquiros.com/">Joan Quirós</a></li>
+            </ul>
+
+            <h3>Recomendaciones de Nacho y Gabi</h3>
+
+            <ul>
+              <li><a href="http://typographyhandbook.com/">Typographyhandbook</a></li>
+              <li><a href="http://practicaltypography.com/">Practical Typography</a></li>
+              <li><a href="https://prowebtype.com/">Professional Web Typography</a></li>
+              <li><a href="https://www.typewolf.com/">Typewolf</a></li>
+            </ul>
+
+            <h3>Contacta con el programa</h3>
+
+            <ul>
+                <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+                <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+                <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+                <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+                <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+            </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2016/10/11/tipografia-web/</link>
+        <guid>http://wecodesignpodcast.com/2016/10/11/tipografia-web/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x11TipografiaWeb/WeCodeSign%201x11%20-%20Tipografi%CC%81a%20Web.mp3" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>01:20:22</itunes:duration>
+        <itunes:keywords>Tipografía Web</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
         <title>11 - Web Audio</title>
         <pubDate>Tue, 27 Sep 2016 18:30:00 GMT</pubDate>
@@ -136,7 +229,6 @@
             <ul>
                 <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
-                <li><a href="https://www.facebook.com/wecodesignpodcast">Facebook de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
                 <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
                 <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
@@ -222,7 +314,6 @@
             <ul>
                 <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
-                <li><a href="https://www.facebook.com/wecodesignpodcast">Facebook de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
                 <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
                 <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
@@ -311,7 +402,6 @@
             <ul>
                 <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
-                <li><a href="https://www.facebook.com/wecodesignpodcast">Facebook de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
                 <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
                 <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
@@ -395,7 +485,6 @@
             <ul>
                 <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
                 <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
-                <li><a href="https://www.facebook.com/wecodesignpodcast">Facebook de WeCodeSign</a></li>
                 <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
                 <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
                 <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
