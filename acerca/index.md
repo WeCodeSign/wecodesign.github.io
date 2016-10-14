@@ -27,7 +27,6 @@ title: "Acerca de mi"
 ### Redes Sociales
 
 + [Twitter](https://twitter.com/wecodesign)
-+ [Facebook](https://www.facebook.com/wecodesignpodcast)
 
 <div class="rule  rule--big"></div>
 
