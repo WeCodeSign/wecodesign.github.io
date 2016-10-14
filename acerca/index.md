@@ -32,10 +32,10 @@ title: "Acerca de mi"
 
 <h2 class="post-title  post-heading">Escríbeme</h2>
 
-Escríbenos a nuestro [Email](mailto:{{ site.email }})
+Escríbeme al [Email](mailto:{{ site.email }}) del Podcast.
 
 <div class="acerca__unit">
-	<p>O contacta con nosotros a través del siguiente formulario: </p>
+	<p>O contacta a través del siguiente formulario: </p>
 	<form action="https://formspree.io/wecodesignpodcast@gmail.com" method="POST">
 	    <label for="name">
 	    	<h4>Nombre</h4>
