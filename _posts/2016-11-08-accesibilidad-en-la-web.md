@@ -10,15 +10,15 @@ tags:
   - Accesibilidad
 ---
 
-
+<iframe id='audio_13678946' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://www.ivoox.com/player_ej_13678946_4_1.html?c1=ff6600"></iframe>
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 
 Este es uno de los programas que más falta hacía. Hablamos sobre la accesibilidad en la web y la importancia de entenderla.
 
-Si crees que la accesibilidad es importante tras este programa, verás la web desde otro punto de vista y sabrás las necesidades para hacer una web accesible a todos, pero de verdad sin el tópico de hacer una web accesible para videntes.
+Si crees que la accesibilidad es importante tras este programa, verás la web desde otro punto de vista y sabrás las necesidades para hacer una web accesible a todos, pero de verdad sin el tópico de hacer una web accesible para invidentes.
 
-Los desarrolladores y profesionales que nos dedicamos a la web debemos, por el poder que tenemos de hacer las cosas mejor tener en cuenta en la medida de lo posible que el contenido sea accesible para la gran mayoría de público.
+Los desarrolladores y profesionales que nos dedicamos a la web debemos, por el poder que tenemos de hacer las cosas mejor, tener en cuenta en la medida de lo posible que el contenido sea accesible para la gran mayoría de público.
 
 Hablamos de malas prácticas, de lo que hay que hacer para corregir los posibles problemas a los que estamos mal acostumbrados en el desarrollo de la web en nuestro día a día.
 
