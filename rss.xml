@@ -51,7 +51,86 @@
     <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" />
 
 
+    <item>
+        <title>14 - Accesibilidad Web</title>
+        <pubDate>Tue, 08 Nov 2016 18:30:00 GMT</pubDate>
+        <description>
+        <![CDATA[
+    
+            <h3>Descripcion del programa</h3>
 
+            <h3>Encuesta para pedir Feedback</h3>
+
+            <ul>
+              <li><a href="https://wecodesignpodcast.typeform.com/to/keNT6k">Posibles topics, entrevistados y duración del programa</a></li>
+            </ul>
+
+            <h3>Recomendaciones</h3>
+
+            <h3>Preguntas rápidas: Jonathan Chacón</h3>
+
+            <ul>
+              <li><span>Quién me ha inspirado: </span><a href="https://www.flinders.edu.au/sabs/inclusivity/web-accessibility/krug.cfm">Steve Krug</a></li>
+              <li><span>Recomiéndanos un recurso: </span><a href="http://wave.webaim.org/">Wave</a></li>
+              <li><span>Recomiéndanos a un invitado: </span><a href="https://www.nngroup.com/people/jakob-nielsen/">Jakob Nielsen</a></li>
+              <li><span>¿Qué tema te gustaría que tratásemos?: </span>Usabilidad en formularios</li>
+            </ul>
+
+            <h3>Contacta con: Jonathan Chacón</h3>
+
+            <ul>
+              <li><a href="https://twitter.com/jonathanchacon">Twitter</a></li>
+              <li><a href="http://www.programaraciegas.net/">Web</a></li>
+            </ul>
+
+            <h3>Links del programa</h3>
+
+            <ul>
+              <li><a href="https://pathtoperf.com/2016/09/29/12-with-marcy-sutton.html">Path to Perf Podcast - Performance and Accesibility</a></li>
+              <li><a href="https://www.w3.org/WAI/intro/aria">ARIA</a></li>
+              <li><a href="https://marcysutton.com/accessibility-and-performance/">Accessibility and Performance</a></li>
+              <li><a href="http://baymard.com/blog/inline-form-validation">Usability Testing of Inline Form Validation</a></li>
+              <li><a href="https://twitter.com/stevefaulkner/status/789410040058785792">Browsers accesibility support</a></li>
+              <li><a href="https://speakerdeck.com/robdodson/accessibility-in-the-platform">Accessibility in the Platform</a></li>
+              <li><a href="https://en.wikipedia.org/wiki/List_of_screen_readers">Screen Readers</a></li>
+              <li><a href="https://opendevicelab.com/">Device Lab</a></li>
+              <li><a href="http://manifesto.softwarecraftsmanship.org/">Software Craftsmanship</a></li>
+              <li><a href="http://www.tawdis.net/">TAW</a></li>
+              <li><a href="http://wave.webaim.org/">wave</a></li>
+              <li><a href="https://tenon.io/">Tenon</a></li>
+              <li><a href="https://www.paciellogroup.com/blog/2015/01/the-browser-accessibility-tree/">The Browser Accessibility Tree</a></li>
+            </ul>
+
+            <h3>Recomendaciones de Nacho</h3>
+
+            <ul>
+              <li><a href="https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/">Dos and don'ts on designing for accessibility</a></li>
+              <li><a href="https://www.w3.org/WAI/intro/wcag">Web Content Accessibility Guidelines</a></li>
+              <li><a href="https://a11ywins.tumblr.com/">Accessibility Wins</a></li>
+              <li><a href="http://a11yproject.com">A11y Project</a></li>
+            </ul>
+
+            <h3>Contacta con el programa</h3>
+
+            <ul>
+                <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+                <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+                <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+                <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+                <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+            </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/016/11/08/accesibilidad-en-la-web/</link>
+        <guid>http://wecodesignpodcast.com/016/11/08/accesibilidad-en-la-web/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/                                  " length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>00:57:23</itunes:duration>
+        <itunes:keywords>Accesibilidad, Web</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
         <title>13 - El ecosistema frontend</title>
         <pubDate>Tue, 25 Oct 2016 18:30:00 GMT</pubDate>
@@ -163,7 +242,7 @@
         <guid>http://wecodesignpodcast.com/2016/10/25/el-ecosistema-frontend/</guid>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x13ElEcosistemaFrontend/WeCodeSign%201x13%20-%20El%20ecosistema%20Frontend.mp3" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
-        <itunes:duration>01:20:22</itunes:duration>
+        <itunes:duration>00:57:23</itunes:duration>
         <itunes:keywords>Ecosistema Frontend</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
         <itunes:explicit>no</itunes:explicit>

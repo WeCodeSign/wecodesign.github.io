@@ -4,7 +4,7 @@ title: "El ecosistema frontend"
 excerpt: "Miguel Martín, CTO de Redradix nos cuenta como ve la situación actual del front-end, que herramientas utiliza y cuales no."
 podcast_number: "WCD 1x13"
 podcast_date: "Octubre 25, 2016"
-podcast_duration: "1:20:42"
+podcast_duration: "0:57:23"
 image_url: /img/fondo13.jpg
 tags: 
   - Frontend
