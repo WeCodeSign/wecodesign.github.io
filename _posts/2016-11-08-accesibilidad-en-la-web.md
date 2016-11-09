@@ -4,7 +4,7 @@ title: "Accesibilidad en la Web"
 excerpt: "Jonathan Chacón, desarrollador y consultor web nos explica las recomendaciones para hacer la web más accesible."
 podcast_number: "WCD 1x14"
 podcast_date: "Noviembre 8, 2016"
-podcast_duration: "1:20:42"
+podcast_duration: "1:28:24"
 image_url: /img/fondo14.jpg
 tags: 
   - Accesibilidad
