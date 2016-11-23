@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Herramientas del frontend"
-excerpt: ""
+excerpt: "Hoy como invitado está con nosotros Luis de Dios, frontend que nos ayudará a entender las herramientas que usamos día a día."
 podcast_number: "WCD 1x15"
 podcast_date: "Noviembre 22, 2016"
 podcast_duration: "1:00:55"
@@ -17,7 +17,7 @@ tags:
 
 Hoy es un programa muy especial, por un lado porque por fin puedo presentar dos iniciativas que se están realizando en la Madrid, la primera es un Meetup,<a href="https://osweekends.github.io/">OpenSource Weekends</a> que se realiza mensualmente un sábado al mes de 10:30h a 14:30h y la segunda es la apertura del Call for Papers de una conferencia que estamos organizando y que tendrá lugar en Campus Madrid el 18 de febrero de 2017 llamada <a href="http://frontfest.es/">FrontFest</a>.
 
-Hoy como invitado traigo a una persona que conocí en un Meetup de los múltiples que se realizan en Madrid y que nos ayudará a entender el ecosistema de herramientas que usamos día a día y para que sirven.
+Hoy como invitado traigo a una persona que conocí en un Meetup de los múltiples que se realizan en Madrid, Luis de Dios, frontend y que nos ayudará a entender el ecosistema de herramientas que usamos día a día y para que sirven.
 
 Hablaremos de task runners, de transpiladores y gestores de dependencias entre otros.
 
