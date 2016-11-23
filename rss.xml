@@ -51,6 +51,107 @@
     <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" />
 
 
+
+    <item>
+        <title>15 - Herramientas del Frontend</title>
+        <pubDate>Tue, 08 Nov 2016 18:30:00 GMT</pubDate>
+        <description>
+        <![CDATA[
+    
+            <h3>Descripcion del programa</h3>
+
+            <p>Hoy es un programa muy especial, por un lado porque por fin puedo presentar dos iniciativas que se están realizando en la Madrid, la primera es un Meetup,<a href="https://osweekends.github.io/">OpenSource Weekends</a> que se realiza mensualmente un sábado al mes de 10:30h a 14:30h y la segunda es la apertura del Call for Papers de una conferencia que estamos organizando y que tendrá lugar en Campus Madrid el 18 de febrero de 2017 llamada <a href="http://frontfest.es/">FrontFest</a>.</p>
+
+            <p>Hoy como invitado traigo a una persona que conocí en un Meetup de los múltiples que se realizan en Madrid y que nos ayudará a entender el ecosistema de herramientas que usamos día a día y para que sirven.</p>
+
+            <p>Hablaremos de task runners, de transpiladores y gestores de dependencias entre otros.</p>
+
+            <p>¡Como siempre esperamos que lo disfrutéis!</p>
+
+            <h3>Encuesta para pedir Feedback</h3>
+
+            <ul>
+              <li><a href="https://wecodesignpodcast.typeform.com/to/keNT6k">Posibles topics, entrevistados y duración del programa</a></li>
+            </ul>
+
+            <h3>Eventos en Madrid</h3>
+
+            <li><a href="https://osweekends.github.io/">OpenSource Weekends</a></li>
+            <li><a href="http://frontfest.es/">FrontFest</a></li>
+
+            <h3>Recomendaciones</h3>
+
+            <h3>Preguntas rápidas: Luis de Dios</h3>
+
+            <ul>
+              <li><span>Quién me ha inspirado: </span><a href="https://es.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a></li>
+              <li><span>Recomiéndanos un recurso: </span><a href="https://www.sitepoint.com/">Sitepoint</a></li>
+              <li><span>Recomiéndanos un recurso: </span><a href="http://www.genbetadev.com/">Genbeta Dev</a></li>
+              <li><span>Recomiéndanos a un invitado: </span><a href="https://www.igvita.com/">Ilya Grigorik</a></li>
+              <li><span>¿Qué tema te gustaría que tratásemos?: </span><a href=""></a></li>
+            </ul>
+
+            <h3>Contacta con: Luis de Dios</h3>
+
+            <ul>
+              <li><a href="https://twitter.com/luisddm_">Twitter</a></li>
+              <li><a href="https://github.com/luisddm">Github</a></li>
+            </ul>
+
+            <h3>Links del programa</h3>
+
+            <ul>
+              <li><a href="https://medium.freecodecamp.com/javascript-package-managers-101-9afd926add0a#.wnfw4y49u">How JavaScript package managers work</a></li>
+              <li><a href="https://code.facebook.com/posts/1840075619545360/yarn-a-new-package-manager-for-javascript/">Yarn a new package manager</a></li>
+              <li><a href="http://andrewhfarmer.com/javascript-frontend-package-managers/">JS frontend pagckage managers</a></li>
+              <li><a href="https://github.com/wilmoore/frontend-packagers">Package managers comparison</a></li>
+              <li><a href="https://medium.freecodecamp.com/npm-vs-yarn-benchmark-9b456de4aa96#.hgggcx6ia">Yarn benchmarks</a></li>
+              <li><a href="https://www.youtube.com/watch?v=hP7rrjR1RYY">Charla de automatización en el frontend</a></li>
+              <li><a href="http://kangax.github.io/compat-table/es6/">ECMAScript 2016 compatibility table</a></li>
+              <li><a href="https://bower.io/">Bower</a></li>
+              <li><a href="https://www.npmjs.com/">NPM</a></li>
+              <li><a href="https://yarnpkg.com/">Yarn</a></li>
+              <li><a href="http://jspm.io/">JSPM</a></li>
+              <li><a href="http://broccolijs.com/">Broccoli</a></li>
+              <li><a href="http://gulpjs.com/">Gulp</a></li>
+              <li><a href="http://gruntjs.com/">Grunt</a></li>
+              <li><a href="https://babeljs.io/">Babel</a></li>
+              <li><a href="https://webpack.github.io/">Webpack</a></li>
+              <li><a href="https://codekitapp.com/">Codekit</a></li>
+              <li><a href="http://webassembly.org/">WebAssembly</a></li>
+              <li><a href="http://elm-lang.org/">elm</a></li>
+              <li><a href="https://clojurescript.org/">Clojurescript</a></li>
+              <li><a href="https://www.scala-lang.org/">Scala</a></li>
+            </ul>
+
+            <h3>Recomendaciones de Nacho</h3>
+
+            <ul>
+              <li><a href="https://github.com/luisddm/frontend-automation">Repositorio de ejemplo de Grunt/Gulp</a></li>
+              <li><a href="https://www.youtube.com/playlist?list=PLM-Y_YQmMEqBscmoT5y_W91oUnr_D4ulf">Crea tu workflow front-end con Gulp.js</a></li>
+            </ul>
+
+            <h3>Contacta con el programa</h3>
+
+            <ul>
+                <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+                <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+                <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+                <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+                <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+            </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2016/11/22/herramientas-del-frontend/</link>
+        <guid>http://wecodesignpodcast.com/2016/11/22/herramientas-del-frontend/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x15HerramientasDelFrontend/WeCodeSign%201x15%20-%20Herramientas%20del%20Frontend.mp3" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>01:00:56</itunes:duration>
+        <itunes:keywords>Tools, Front-end, Frontend, Task Runners, Dependencie Managers, Transpilers</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
         <title>14 - Accesibilidad Web</title>
         <pubDate>Tue, 08 Nov 2016 18:30:00 GMT</pubDate>
@@ -122,8 +223,8 @@
 
         ]]>
         </description>
-        <link>http://wecodesignpodcast.com/016/11/08/accesibilidad-en-la-web/</link>
-        <guid>http://wecodesignpodcast.com/016/11/08/accesibilidad-en-la-web/</guid>
+        <link>http://wecodesignpodcast.com/2016/11/08/accesibilidad-en-la-web/</link>
+        <guid>http://wecodesignpodcast.com/2016/11/08/accesibilidad-en-la-web/</guid>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x14AccesibilidadWeb/WeCodeSign%201x14%20-%20Accesibilidad%20Web.mp3" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:57:23</itunes:duration>
