@@ -27,18 +27,18 @@ http://ogp.me/ns/article#">
 <!-- Open Graph data -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:type" content="article" />
-  <meta property="og:image" content="/img/logo.jpg" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:image" content="http://wecodesignpodcast.com/img/logo.jpg" />
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
-  <meta property="og:site_name" content="wecodesignpodcast.com" />
+  <meta property="og:site_name" content="{{ site.url }}" />
 
 <!-- Twitter cards -->
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="@wecodesign">
-  <meta name="twitter:domain" content="wecodesignpodcast.com">
-  <meta name="twitter:creator" content="@wecodesign">
-  <meta name="twitter:title" content="{{ page.title }} – El Podcast de Diseño y Desarrollo Web">
-  <meta name="twitter:image" content="/img/favicon.png">
+  <meta name="twitter:site" content="@WeCodeSign">
+  <meta name="twitter:domain" content="{{ site.url }}">
+  <meta name="twitter:creator" content="@WeCodeSign">
+  <meta name="twitter:title" content="{{ page.title }} – WeCodeSign">
+  <meta name="twitter:image" content="http://wecodesignpodcast.com/img/logo.jpg">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
 <!-- RSS -->
