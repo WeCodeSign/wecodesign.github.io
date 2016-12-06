@@ -51,10 +51,112 @@
     <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" />
 
 
+    <item>
+        <title>16 - Buenas prácticas CSS</title>
+        <pubDate>Tue, 06 Dec 2016 18:30:00 GMT</pubDate>
+        <description>
+        <![CDATA[
+    
+            <h3>Descripcion del programa</h3>
 
+            <p>En el programa de hoy, hablamos con Belén Albeza, devrel de Mozilla sobre la importancia del buen código CSS y buenas prácticas a tener en cuenta.</p>
+
+            <p>Debatimos abiertamente sobre el uso de conocidos frameworks de diseño como Bootstrap o Foundation y que implica su uso y si es lo más adecuado en muchos casos.</p>
+
+            <p>Hablamos de la importancia del uso de las etiquetas semánticas y como ayudan a los screenreaders o los crawlers de los buscadores. Así mismo ayudan al mantenimiento del código.</p>
+
+            <p>¡Como siempre espero que lo disfrutéis!</p>
+
+            <h3>Encuesta para pedir Feedback</h3>
+
+            <ul>
+              <li><a href="https://wecodesignpodcast.typeform.com/to/keNT6k">Posibles topics, entrevistados y duración del programa</a></li>
+            </ul>
+
+            <h3>Eventos en Madrid</h3>
+
+            <li><a href="https://osweekends.github.io/">OpenSource Weekends</a></li>
+            <li><a href="http://frontfest.es/">FrontFest</a></li>
+
+            <h3>Recomendaciones</h3>
+
+            <h3>Preguntas rápidas: Belén Albeza</h3>
+
+            <ul>
+              <li><span>Quién me ha inspirado: </span><a href="http://msminotaur.com/">Adriel Wallick</a></li>
+              <li><span>Recomiéndanos un recurso: </span><a href="https://developer.mozilla.org/es/">Mozilla Developer Network</a></li>
+              <li><span>Recomiéndanos un recurso: </span><a href="http://caniuse.com/">Can I use</a></li>
+              <li><span>Recomiéndanos a un invitado: </span><a href="https://twitter.com/blanca_tp?lang=es">Blanca Tortajada</a></li>
+              <li><span>¿Qué tema te gustaría que tratásemos?: </span>Grid Layout</li>
+            </ul>
+
+            <h3>Contacta con: Belén Albeza</h3>
+
+            <ul>
+              <li><a href="https://belenalbeza.com/">Web</a></li>
+              <li><a href="https://twitter.com/ladybenko">Twitter</a></li>
+              <li><a href="https://hacks.mozilla.org/author/balbezamozilla-com/">Articles by Belén Albeza (Mozilla Hacks)</a></li>
+            </ul>
+
+            <h3>Links del programa</h3>
+
+            <ul>
+              <li><a href="https://twitter.com/cristinafsanz">Cristina Fernández</a></li>
+              <li><a href="https://en.bem.info/">BEM</a></li>
+              <li><a href="https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/">OOCSS</a></li>
+              <li><a href="https://smacss.com/">SMACSS</a></li>
+              <li><a href="http://cssguidelin.es/">CSS Guidelines</a></li>
+              <li><a href="http://www.maban.co.uk/">Anna Debenham</a></li>
+              <li><a href="http://www.maban.co.uk/projects/front-end-style-guides/">Libro de Anna Debenham</a></li>
+              <li><a href="http://www.bbc.co.uk/gel">GEL</a></li>
+              <li><a href="http://styleguide.mailchimp.com/">Mailchimp</a></li>
+              <li><a href="https://www.youtube.com/watch?v=kED5eDjMfGM">You might not need a CSS framework (video)</a></li>
+              <li><a href="https://hacks.mozilla.org/2016/04/you-might-not-need-a-css-framework/">You might not need a CSS framework (artículo)</a></li>
+              <li><a href="https://hacks.mozilla.org/2016/05/css-coding-techniques/">CSS coding techniques</a></li>
+              <li><a href="https://hacks.mozilla.org/2015/09/the-future-of-layout-with-css-grid-layouts/">The future of layout with CSS: Grid Layouts</a></li>
+              <li><a href="https://www.w3.org/TR/selectors/#specificity">Specificity</a></li>
+              <li><a href="http://getbootstrap.com/">Bootstrap</a></li>
+              <li><a href="http://foundation.zurb.com/">Foundation</a></li>
+              <li><a href="http://www.brucelawson.co.uk/">Bruce Lawson</a></li>
+              <li><a href="https://hacks.mozilla.org/2016/08/using-feature-queries-in-css/">Feature Queries</a></li>
+              <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/@supports">@supports</a></li>
+              <li><a href="http://www.lottejackson.com/learning/supports-will-change-your-life">Supports will change your life</a></li>
+              <li><a href="http://gridbyexample.com/">Grid by Example</a></li>
+              <li><a href="http://labs.jensimmons.com/">Labs Jen Simmons</a></li>
+              <li><a href="http://csswizardry.com/2012/05/keep-your-css-selectors-short/">Writing efficient CSS selectors</a></li>
+            </ul>
+
+            <h3>Recomendaciones de Nacho</h3>
+
+            <ul>
+              <li><a href="http://csswizardry.com/">Harry Roberts</a></li>
+              <li><a href="http://hugogiraudel.com/">Hugo Giraudel</a></li>
+            </ul>
+
+            <h3>Contacta con el programa</h3>
+
+            <ul>
+              <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+              <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+              <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+              <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+              <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+            </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2016/12/06/buenas-practicas-css/</link>
+        <guid>http://wecodesignpodcast.com/2016/12/06/buenas-practicas-css/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x16BuenasPracticasCSS/WeCodeSign%201x16%20-%20Buenas%20pra%CC%81cticas%20CSS.mp3" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>01:37:36</itunes:duration>
+        <itunes:keywords>Buenas Prácticas, Best Practices, CSS</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
         <title>15 - Herramientas del Frontend</title>
-        <pubDate>Tue, 08 Nov 2016 18:30:00 GMT</pubDate>
+        <pubDate>Tue, 22 Nov 2016 18:30:00 GMT</pubDate>
         <description>
         <![CDATA[
     
