@@ -11,7 +11,11 @@ tags:
   - Frontend
 ---
 
+<audio src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x16BuenasPracticasCSS/WeCodeSign%201x16%20-%20Buenas%20pra%CC%81cticas%20CSS.mp3" preload="auto" controls style="width: 100%;">
+  <p>Tu navegador no implementa el elemento audio</p>
+</audio>
 
+<p>Descargar Audio: <a href="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x16BuenasPracticasCSS/WeCodeSign%201x16%20-%20Buenas%20pra%CC%81cticas%20CSS.mp3" title="Botón derecho del ratón, luego guardar enlace como...">Episodio 16</a></p>
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 
