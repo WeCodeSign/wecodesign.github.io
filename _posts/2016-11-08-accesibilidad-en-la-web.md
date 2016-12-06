@@ -10,7 +10,11 @@ tags:
   - Accesibilidad
 ---
 
-<iframe id='audio_13678946' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://www.ivoox.com/player_ej_13678946_4_1.html?c1=ff6600"></iframe>
+<audio src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x14AccesibilidadWeb/WeCodeSign%201x14%20-%20Accesibilidad%20Web.mp3" preload="auto" controls style="width: 100%;">
+  <p>Tu navegador no implementa el elemento audio</p>
+</audio>
+
+<p>Descargar Audio: <a href="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x14AccesibilidadWeb/WeCodeSign%201x14%20-%20Accesibilidad%20Web.mp3" title="Botón derecho del ratón, luego guardar enlace como...">Episodio 14 - Accesibilidad en la Web</a></p>
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 

@@ -15,7 +15,7 @@ tags:
   <p>Tu navegador no implementa el elemento audio</p>
 </audio>
 
-<p>Descargar Audio: <a href="http://www.podtrac.com/pts/redirect.mp3/https://archive.org/download/WeCodeSign1x15HerramientasDelFrontend/WeCodeSign%201x15%20-%20Herramientas%20del%20Frontend.mp3" title="Botón derecho del ratón, luego guardar enlace como...">Episodio 16</a></p>
+<p>Descargar Audio: <a href="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x15HerramientasDelFrontend/WeCodeSign%201x15%20-%20Herramientas%20del%20Frontend.mp3" title="Botón derecho del ratón, luego guardar enlace como...">Episodio 15 - Herramientas del Frontend</a></p>
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 

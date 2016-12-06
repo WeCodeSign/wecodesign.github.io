@@ -10,7 +10,11 @@ tags:
   - Tipografía
 ---
 
-<iframe id='audio_13270766' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://www.ivoox.com/player_ej_13270766_4_1.html?c1=ff6600"></iframe>
+<audio src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x11TipografiaWeb/WeCodeSign%201x11%20-%20Tipografi%CC%81a%20Web.mp3" preload="auto" controls style="width: 100%;">
+  <p>Tu navegador no implementa el elemento audio</p>
+</audio>
+
+<p>Descargar Audio: <a href="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x11TipografiaWeb/WeCodeSign%201x11%20-%20Tipografi%CC%81a%20Web.mp3" title="Botón derecho del ratón, luego guardar enlace como...">Episodio 12 - Tipografía Web</a></p>
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 

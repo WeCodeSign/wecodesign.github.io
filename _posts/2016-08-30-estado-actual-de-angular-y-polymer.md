@@ -14,7 +14,11 @@ tags:
   - React
 ---
 
-<iframe id='audio_12716335' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://www.ivoox.com/player_ej_12716335_4_1.html?c1=ff6600"></iframe>
+<audio src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x09ElEstadoActualDeAngularYPolymer/WeCodeSign%201x09%20-%20El%20estado%20actual%20de%20Angular%20y%20Polymer.mp3" preload="auto" controls style="width: 100%;">
+  <p>Tu navegador no implementa el elemento audio</p>
+</audio>
+
+<p>Descargar Audio: <a href="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x09ElEstadoActualDeAngularYPolymer/WeCodeSign%201x09%20-%20El%20estado%20actual%20de%20Angular%20y%20Polymer.mp3" title="Botón derecho del ratón, luego guardar enlace como...">Episodio 9 - Angular y Polymer</a></p>
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 
