@@ -101,7 +101,34 @@
           <h3>Links del programa</h3>
 
           <ul>
-            <li><a href="https://leanpub.com/scalable/">Scalable</a></li>
+            <li class="recomendacion"><a href="https://leanpub.com/scalable/">Scalable</a></li>
+            <li class="recomendacion"><a href="https://jakearchibald.github.io/svgomg/">SVGOMG</a></li>
+            <li class="recomendacion"><a href="http://materialdesignicons.com">Material Design Icons</a></li>
+            <li class="recomendacion"><a href="https://www.sketchapp.com/">Sketch App</a></li>
+            <li class="recomendacion"><a href="https://inkscape.org/es/">Inkcape</a></li>
+            <li class="recomendacion"><a href="http://www.adobe.com/es/products/illustrator.html">Illustrator</a></li>
+            <li class="recomendacion"><a href="https://twitter.com/leoniewatson">Leonie Watson</a></li>
+            <li class="recomendacion"><a href="https://www.sitepoint.com/tips-accessible-svg">SVG Accesible</a></li>
+            <li class="recomendacion"><a href="http://responsivelogos.co.uk/">Responsive Logos</a></li>
+            <li class="recomendacion"><a href="https://una.im/CSSgram/">CSSgram</a></li>
+            <li class="recomendacion"><a href="https://github.com/scottjehl/picturefill">Picturefill</a></li>
+            <li class="recomendacion"><a href="https://madebymike.com.au/writing/svg-has-more-potential/">SVG has more potential</a></li>
+            <li class="recomendacion"><a href="https://www.youtube.com/watch?v=KrTdc3l6jcs"></a></li>
+            <li class="recomendacion"><a href="https://www.youtube.com/watch?v=KrTdc3l6jcs">SVG Icon Systems by Javi Sánchez Marín</a></li>
+            <li class="recomendacion"><a href="https://sarasoueidan.com/blog/svg-coordinate-systems/"></a></li>
+            <li class="recomendacion"><a href="https://sarasoueidan.com/blog/svg-coordinate-systems/">Understanding SVG Coordinate Systems and Transformations</a></li>
+            <li class="recomendacion"><a href="https://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/">Structuring, Grouping, and Referencing in SVG</a></li>
+            <li class="recomendacion"><a href="https://css-tricks.com/icon-fonts-vs-svg/">Inline SVG vs Icon Fonts </a></li>
+            <li class="recomendacion"><a href="https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/">An Overview of SVG Sprite Creation Techniques</a></li>
+            <li class="recomendacion"><a href="https://vimeo.com/135466848">SVG Lessons I Learned The Hard Way</a></li>
+            <li class="recomendacion"><a href="https://www.w3.org/TR/SVG2/">SVG2 - W3C</a></li>
+            <li class="recomendacion"><a href="http://tavmjong.free.fr/svg2_status.html">SVG2 Status</a></li>
+            <li class="recomendacion"><a href="https://css-tricks.com/guide-svg-animations-smil/">smil animation</a></li>
+            <li class="recomendacion"><a href="https://imageoptim.com/mac">Image Optim (Mac)</a></li>
+            <li class="recomendacion"><a href="https://pngmini.com/">PNG Min (Mac)</a></li>
+            <li class="recomendacion"><a href="https://github.com/svg/svgo">SVGO</a></li>
+            <li class="recomendacion"><a href="https://github.com/sindresorhus/gulp-imagemin">Gulp Imagemin</a></li>
+            <li class="recomendacion"><a href="https://fvsch.com/code/svg-icons/symbol-sprite/">Symbol Sprite</a></li>
           </ul>
 
 
