@@ -51,6 +51,82 @@
     <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" />
 
 
+     <item>
+        <title>18 - Metodologías de Trabajo</title>
+        <pubDate>Tue, 20 Jan 2017 18:30:00 GMT</pubDate>
+        <description>
+        <![CDATA[
+    
+            <h3>Descripcion del programa</h3>
+
+            <p>Mario Sánchez, Director Creativo, de Experiencia de Usuario y uno de los dos socios de Redbility nos cuenta sus vivencias organizando proyectos y gestionando equipos.</p>
+
+            <p>La planificación para realizar un buen proyecto es imprescindible, por ello es necesario conocer la gente que te rodea.</p>
+
+            <p>¡Espero que disfrutéis tanto como yo!</p>
+
+            <h3>Encuesta para pedir Feedback</h3>
+
+            <ul>
+              <li><a href="https://wecodesignpodcast.typeform.com/to/keNT6k">Posibles topics, entrevistados y duración del programa</a></li>
+            </ul>
+
+            <h3>Eventos en Madrid</h3>
+
+            <li><a href="https://osweekends.github.io/">OpenSource Weekends</a></li>
+
+            <h3>Recomendaciones</h3>
+
+            <h3>Preguntas rápidas: Mario Sánchez</h3>
+
+            <ul>
+              <li><span>Quién me ha inspirado: </span>Cualquier persona con la que trabajo</li>
+              <li><span>Recomiéndanos un recurso: </span><a href="https://www.behance.net/">Behance</a></li>
+              <li><span>Recomiéndanos a un invitado: </span>A esas personas que hacen más que a venderse</li>
+              <li><span>¿Qué tema te gustaría que tratásemos?: </span>De como trabajan otras empresas del sector</li>
+            </ul>
+
+            <h3>Contacta con: Mario Sánchez</h3>
+
+            <ul>
+              <li><a href="https://www.linkedin.com/in/mariosanchezgarcia/en">LinedIn de Mario</a></li>
+              <li><a href="https://twitter.com/soymarios">Twitter de Mario</a></li>
+            </ul>
+
+            <h3>Links del programa</h3>
+
+            <ul>
+              <li><a href="https://basecamp.com/">Basecamp</a></li>
+            </ul>
+
+            <h3>Recomendaciones de Nacho</h3>
+
+            <ul>
+              <li><a href="http://www.uxspain.com/2017/">UXSpain</a></li>
+              <li><a href="http://experiencefighters.com/">Experience Fighters</a></li>
+            </ul>
+
+            <h3>Contacta con el programa</h3>
+
+            <ul>
+              <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+              <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+              <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+              <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+              <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+            </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2016/12/20/SVG/</link>
+        <guid>http://wecodesignpodcast.com/2016/12/20/SVG/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-18/WeCodeSign%201x18%20-%20Metodologias%20de%20Trabajo.mp3" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>00:40:44</itunes:duration>
+        <itunes:keywords>Metodologías, Trabajo, Methodologies</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
         <title>17 - SVG</title>
         <pubDate>Tue, 20 Dec 2016 18:30:00 GMT</pubDate>
@@ -150,7 +226,7 @@
         </description>
         <link>http://wecodesignpodcast.com/2016/12/20/SVG/</link>
         <guid>http://wecodesignpodcast.com/2016/12/20/SVG/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/https://archive.org/download/WCD-17/WeCodeSign%201x17%20-%20SVG.mp3" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-17/WeCodeSign%201x17%20-%20SVG.mp3" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:37:36</itunes:duration>
         <itunes:keywords>SVG, Image</itunes:keywords>
