@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Metodologías de Trabajo"
-excerpt: "Mario Sánchez, Director Creativo & Experiencia de usuario en Redbility nos cuenta sus experiencias organizando proyectos y gestionando equipos."
+excerpt: "Mario Sánchez, Director Creativo & UX en Redbility nos cuenta sus experiencias organizando proyectos y gestionando equipos."
 podcast_number: "WCD 1x18"
 podcast_date: "Enero 3, 2017"
 podcast_duration: "40:44"
