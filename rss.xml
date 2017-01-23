@@ -51,7 +51,7 @@
     <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" />
 
     <item>
-      <title>19 - Metodologías de Trabajo</title>
+      <title>19 - Reclutando Talento</title>
       <pubDate>Tue, 17 Jan 2017 18:30:00 GMT</pubDate>
       <description>
       <![CDATA[
@@ -120,17 +120,17 @@
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
         </ul>
 
-      ]]>
-      </description>
-      <link>http://wecodesignpodcast.com/2017/01/17/reclutando-talento/</link>
-      <guid>http://wecodesignpodcast.com/2017/01/17/reclutando-talento/</guid>
-      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-19/WeCodeSign%201x19%20-%20Reclutando%20Talento.mp3" length="0"/>
-      <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
-      <itunes:duration>00:48:29</itunes:duration>
-      <itunes:keywords>Recruiting</itunes:keywords>
-      <itunes:author>WeCodeSign Podcast</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/01/17/reclutando-talento/</link>
+        <guid>http://wecodesignpodcast.com/2017/01/17/reclutando-talento/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-19/WeCodeSign%201x19%20-%20Reclutando%20Talento.mp3" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>00:48:29</itunes:duration>
+        <itunes:keywords>Recruiting</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+     </item>
      <item>
         <title>18 - Metodologías de Trabajo</title>
         <pubDate>Tue, 03 Jan 2017 18:30:00 GMT</pubDate>
