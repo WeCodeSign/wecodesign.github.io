@@ -50,6 +50,96 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" />
 
+
+
+
+
+    <item>
+      <title>20 - La importancia del Open Source</title>
+      <pubDate>Tue, 31 Jan 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h3>Descripcion del programa</h3>
+
+        <p>Ulises Gascón, Desarrollador Open Source y especializado en JavaScript, Node, Python nos cuenta su opinión sobre la importancia del software libre.</p>
+
+        <p>Hablaremos sobre como puede aportar el Open Source a la sociedad, sobre si se ha de cobrar o no por el Software Libre.</p>
+
+        <p>Espero que os sirva de utilidad para aprender y poder afrontar nuevos retos.</p>
+
+        <p>¡Peace, Love and Open Source!</p>
+
+        <h3>Encuesta para pedir Feedback</h3>
+
+        <ul>
+          <li><a href="https://wecodesignpodcast.typeform.com/to/keNT6k">Posibles topics, entrevistados y duración del programa</a></li>
+        </ul>
+
+        <h3>Recomendaciones</h3>
+
+        <h3>Preguntas rápidas: Ulises Gascón</h3>
+
+        <ul>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/rwaldron">Rick Waldron</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://developer.mozilla.org/es/">Mozilla Developer Network</a></li>
+          <li><span>Recomiéndanos a un invitado: </span><a href="https://twitter.com/ancoar">Ángel Corral</a></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: </span>Internet of Things y Virtual Reality</li>
+        </ul>
+
+        <h3>Contacta con: Ulises Gascón</h3>
+
+        <ul>
+          <li><a href="https://www.linkedin.com/in/ulisesgascon/en">LinkedIn de Ulises Gascón</a></li>
+          <li><a href="https://twitter.com/kom_256">Twitter de Ulises Gascón</a></li>
+          <li><a href="http://www.blog.ulisesgascon.com/">Blog de Ulises Gascón</a></li>
+        </ul>
+
+        <h3>Links del programa</h3>
+
+        <ul>
+          <li><a href="https://es.wikipedia.org/wiki/C%C3%B3digo_abierto">Open Source</a></li>
+          <li><a href="http://backbonejs.org/">Backbone.js</a></li>
+          <li><a href="https://github.com/OSWeekends/know-your-SNPs">Genome.js</a></li>
+          <li><a href="https://www.aaron-gustafson.com/">Aaron Gustafson</a></li>
+          <li><a href="https://belenalbeza.com/">Belén Albeza</a></li>
+          <li><a href="https://angularjs.org/">Angular.js</a></li>
+          <li><a href="https://www.redhat.com/es">Redhat</a></li>
+          <li><a href="http://www.php.net/">PHP</a></li>
+          <li><a href="https://nodejs.org/en/">Node.js</a></li>
+          <li><a href="http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm">Left-pad</a></li>
+          <li><a href="https://js.io/">JS.io</a></li>
+          <li><a href="https://git-scm.com/">Git</a></li>
+          <li><a href="https://github.com/">Github</a></li>
+        </ul>
+
+        <h3>Recomendaciones de Nacho</h3>
+
+        <ul>
+          <li><a href="https://github.com/OSWeekends">Open Source Organization</a></li>
+          <li><a href="https://github.com/OSWeekends/EventPoints">Jobfluent</a></li>
+        </ul>
+
+        <h3>Contacta con el programa</h3>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/01/31/la-importancia-del-open-source/</link>
+        <guid>http://wecodesignpodcast.com/2017/01/31/la-importancia-del-open-source/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-19/WeCodeSign%201x19%20-%20Reclutando%20Talento.mp3" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>00:58:43</itunes:duration>
+        <itunes:keywords>OpenSource, SoftwareLibre</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>19 - Reclutando Talento</title>
       <pubDate>Tue, 17 Jan 2017 18:30:00 GMT</pubDate>
