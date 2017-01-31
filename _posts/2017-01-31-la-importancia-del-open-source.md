@@ -81,5 +81,5 @@ Espero que os sirva de utilidad para aprender y poder afrontar nuevos retos.
 
 <ul>
   <li class="recomendacion"><a href="https://github.com/OSWeekends">Open Source Organization</a></li>
-  <li class="recomendacion"><a href="https://github.com/OSWeekends/EventPoints">Jobfluent</a></li>
+  <li class="recomendacion"><a href="https://github.com/OSWeekends/EventPoints">EventPoints</a></li>
 </ul>
