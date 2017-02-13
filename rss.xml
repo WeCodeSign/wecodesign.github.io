@@ -54,6 +54,76 @@
 
 
     <item>
+      <title>21 - El presente y futuro del UX</title>
+      <pubDate>Tue, 14 Feb 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h3>Descripcion del programa</h3>
+
+        <p>Mauricio Angulo, consultor de User Experience, Google Developer Expert, instructor de B2B México, director regional de Microsoft y fundador en UX Nights nos cuenta sus pensamientos sobre la experiencia de usuario.</p>
+
+        <p>Hablaremos del presente, pasado y futuro del UX en América Latina y su perpectiva de una profesión tan fascinante.</p>
+
+        <p>Esperamos que disfrutéis de la entrevista.</p>
+
+        <h3>Recomendaciones</h3>
+
+        <h3>Preguntas rápidas: Mauricio Angulo</h3>
+
+        <ul>
+          <li><span>Quién me ha inspirado: </span><a href="https://en.wikipedia.org/wiki/Don_Norman">Don Norman</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://twitter.com/uxnights">UX Nights</a></li>
+          <li><span>Recomiéndanos a un invitado: </span><a href="http://revista.uxnights.com/author/victorgarcia/">Víctor García</a></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: </span>Internet of Things</li>
+        </ul>
+
+        <h3>Contacta con: Mauricio Angulo</h3>
+
+        <ul>
+          <li><a href="https://about.me/mauricioangulo">Contacta a Mauricio Angulo</a></li>
+          <li><a href="https://twitter.com/mauricioangulo">Twitter de Mauricio Angulo</a></li>
+        </ul>
+
+        <h3>Links del programa</h3>
+
+        <ul>
+          <li><a href="http://mexico.uxnights.com/">UX Nights</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/User_experience_design">User experience design</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Design_thinking">Design Thinking</a></li>
+          <li><a href="http://www.jjg.net/elements/">The Elements of User Experience </a></li>
+        </ul>
+
+        <h3>Recomendaciones de Nacho y Carmen</h3>
+
+        <ul>
+          <li><a href="http://blog.invisionapp.com/ux-design-trends-2017/">UX DESIGN TRENDS FOR 2017</a></li>
+          <li><a href="https://medium.com/tag/ux">Medium - UX</a></li>
+          <li><a href="https://medium.com/net-magazine/why-we-need-ladies-that-ux-931c54b2c576#.rff46h4m1">Why we need ladies that UX?</a></li>
+          <li><a href="https://www.xataka.com/servicios/cuanto-ha-influido-el-diseno-web-en-el-exito-y-fracaso-de-los-ganadores-y-perdedores-de-la-tecnologia">Influencia del diseño web en ganadores y perdedores</a></li>
+        </ul>
+
+        <h3>Contacta con el programa</h3>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/02/14/presente-y-futuro-del-ux/</link>
+        <guid>http://wecodesignpodcast.com/2017/02/14/presente-y-futuro-del-ux/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-21/WeCodeSign%201x21%20-%20El%20presente%20y%20futuro%20del%20UX.mp3" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>00:58:58</itunes:duration>
+        <itunes:keywords>UX</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>20 - La importancia del Open Source</title>
       <pubDate>Tue, 31 Jan 2017 18:30:00 GMT</pubDate>
       <description>
@@ -1319,8 +1389,6 @@
         <itunes:duration>01:12:39</itunes:duration>
         <itunes:explicit>yes</itunes:explicit>
     </item>
-
-
     <item>
         <title>6 - Primeros pasos como Front-end Designer</title>
         <description>
