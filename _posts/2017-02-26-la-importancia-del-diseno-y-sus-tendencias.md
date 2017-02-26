@@ -10,6 +10,11 @@ tags:
   - WebDesign
 ---
 
+<audio src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-22/WeCodeSign%201x22%20-%20La%20importancia%20del%20disen%CC%83o%20en%20la%20web.mp3" preload="auto" controls style="width: 100%;">
+  <p>Tu navegador no implementa el elemento audio</p>
+</audio>
+
+<p>Descargar Audio: <a href="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-22/WeCodeSign%201x22%20-%20La%20importancia%20del%20disen%CC%83o%20en%20la%20web.mp3" title="Botón derecho del ratón, luego guardar enlace como...">Episodio 22 - La importancia del diseño en la web</a></p>
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 
