@@ -35,6 +35,8 @@ Esperamos que os guste el episodio y como siempre... nos vemos en la red.
 ##### Preguntas rápidas: Wences Sanz
 
 <ul>
+  <li class="recomendacion"><span>Quién me ha inspirado: </span><a href="http://jrdg.com/">Javier Romero</a></li>
+  <li class="recomendacion"><span>Quién me ha inspirado: </span><a href="http://www.cruznovillo.com/">Cruz Novillo</a></li>
   <li class="recomendacion"><span>Quién me ha inspirado: </span><a href="http://www.paul-rand.com/">Paul Rand</a></li>
   <li class="recomendacion"><span>Quién me ha inspirado: </span><a href="http://saulbass.tv/">Saul Bass</a></li>
   <li class="recomendacion"><span>Quién me ha inspirado: </span><a href="https://en.wikipedia.org/wiki/Josef_M%C3%BCller-Brockmann">Josef Müller-Brockmann</a></li>
@@ -72,6 +74,10 @@ Esperamos que os guste el episodio y como siempre... nos vemos en la red.
   <li class="recomendacion"><a href="https://www.rga.com/">R/GA</a></li>
   <li class="recomendacion"><a href="https://es.squarespace.com/">Squarespace</a></li>
   <li class="recomendacion"><a href="https://fabrik.io/">fabrik</a></li>
+  <li class="recomendacion"><a href="http://www.semplicelabs.com/">Semplice Lab</a></li>
+  <li class="recomendacion"><a href="http://virb.com/">Virb</a></li>
+  <li class="recomendacion"><a href="http://helloenjoy.com">Carlos Ulloa</a></li>
+  
 </ul>
 
 ##### Recomendaciones de Nacho y Carmen
