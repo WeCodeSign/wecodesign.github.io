@@ -1,6 +1,6 @@
 ---
 layout: acerca
-title: "Acerca de mi"
+title: "Acerca de nosotros"
 ---
 
 <div class="acerca__unit  clearfix">
