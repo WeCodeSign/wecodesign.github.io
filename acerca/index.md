@@ -8,8 +8,18 @@ title: "Acerca de mi"
 	<div class="acerca__wrapper">
 		<h3 class="acerca__name">Ignacio Villanueva</h3>
 		<div class="rule"></div>
-		<p>Front-end Developer centrado en arquitectura y front-end performance and responsive web design.</p>
+		<p>Front-end Developer especializado en arquitectura y front-end performance and responsive web design.</p>
 		<p class="home-section__p">Puedes seguirme en <a href="https://twitter.com/IgnaciodeNuevo" target="_blank">Twitter</a>, en <a href="https://github.com/IgnaciodeNuevo" target="_blank">Github</a>, suscribirte via <a href="http://ignaciodenuevo.com/feed.xml" target="_blank">RSS Feed</a>, puedes mandarme un <a href="mailto:ignaciodenuevo@gmail.com">Email</a> o visitar mi <a href="http://ignaciodenuevo.com" target="_blank">página web</a>.</p>
+	</div>
+</div>
+
+<div class="acerca__unit  clearfix">
+	<img class="acerca__portrait" src="/img/portrait-carmen.svg" alt="Ilustración de Carmen">
+	<div class="acerca__wrapper">
+		<h3 class="acerca__name">Carmen Ansio</h3>
+		<div class="rule"></div>
+		<p>UI & Front-end Designer amante del CSS y los SVG's.</p>
+		<p class="home-section__p">Integrante de <a href="http://ada.barcelonajs.org" target="_blank">AdaJS</a> y y de la fundación <a href="http://www.techdencias.net/" target="_blank">Techdencias</a>. Podrás encontrarme en <a href="https://twitter.com/carmenansio">Twitter</a> en <a href="https://github.com/redfluff">Github</a> o enviarme un <a href="mailto:carmenansio@gmail.com">Email</a> o a través de mi <a href="www.carmenansio.com">Web</a>.</p>
 	</div>
 </div>
 
