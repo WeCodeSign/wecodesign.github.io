@@ -36,7 +36,7 @@ Para todos aquellos que queréis conocer lo que significa empezar en el desarrol
 ##### Preguntas rápidas: Laetitia Carquet
 
 <ul>
-  <li class="recomendacion"><span>Quién me ha inspirado: </span><a href="#">Ana Cristina Peinado</a></li>
+  <li class="recomendacion"><span>Quién me ha inspirado: </span><a href="https://twitter.com/pgAnacristina">Ana Cristina Peinado</a></li>
   <li class="recomendacion"><span>Recomiéndanos un recurso: </span><a href="https://en.coursera.org/learn/learning-how-to-learn">Learning How to Learn</a></li>
   <li class="recomendacion"><span>Recomiéndanos a un invitado: </span><a href="https://twitter.com/yamila_moreno">Yamila Moreno</a></li>
   <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span>Machine Learning</li>
