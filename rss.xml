@@ -51,7 +51,94 @@
 
 
 
+    <item>
+      <title>24 - CSS Grid Layout</title>
+      <pubDate>Tue, 28 Mar 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h3>Descripcion del programa</h3>
 
+        <p>Manuel Rego, quien ha participado en la implementación de CSS Grid Layout nos cuenta como se ha llevado a cabo la implementación de CSS Grid Layout, como funciona y analizamos las diferentes propiedades para aprender esta nueva forma de crear webs.</p>
+
+        <p>Os acercamos multitud de recursos útiles que esperamos os sean útiles.</p>
+
+        <p>¡Bienvenid@s al presente de la web!</p>
+
+        <h3>Recomendaciones</h3>
+
+        <h3>Preguntas rápidas: Manuel Rego</h3>
+
+        <ul>
+          <li><span>Quién me ha inspirado: </span><a href="https://stallman.org/">Richard Stallman</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/fantasai">Elika J. Etemad</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="http://gridbyexample.com/">Grid by Example</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://rachelandrew.co.uk/">Rachel Andrew</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="http://jensimmons.com/">Jen Simmons</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://escss.blogspot.com/">ESCSS</a></li>
+          <li><span>Recomiéndanos a un invitado: </span><a href="https://www.linkedin.com/in/diegofgoberna/">Diego Fernandez</a></li>
+          <li><span>Recomiéndanos a una invitada: </span><a href="https://twitter.com/nabaroa">Naiara Abaroa</a></li>
+          <li><span>Recomiéndanos a un invitado: </span><a href="https://twitter.com/Kseso">Kseso</a></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: </span>El tema de realidad virtual en la web (WebVR)</a></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: </span>El futuro de CSS con todo el tema de Houdini</li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: </span><a href="http://testthewebforward.org/">Test the Web Forward</a></li>
+        </ul>
+
+        <h3>Contacta con: Manuel Rego</h3>
+
+        <ul>
+          <li><a href="https://twitter.com/regocas">Twitter de Manuel Rego</a></li>
+          <li><a href="https://blogs.igalia.com/mrego/">Blog de Manuel Rego</a></li>
+        </ul>
+
+        <h3>Links del programa</h3>
+
+        <ul>
+          <li><a href="https://github.com/w3c/csswg-drafts/issues">CSS Working Group Repository</a></li>
+          <li><a href="https://github.com/w3c/csswg-test">CSS Working Group Test Repository</a></li>
+          <li><a href="https://github.com/w3c/web-platform-tests/">Web Platform Tests</a></li>
+          <li><a href="https://github.com/w3c/csswg-drafts/issues">CSS Working Group Drafts</a></li>
+          <li><a href="https://www.youtube.com/watch?v=uHDhtRyDR60">Alan Stearns - Becoming Responsible for CSS - CascadiaFest 2016</a></li>
+        </ul>
+
+        <h3>Recomendaciones de Nacho y Carmen</h3>
+
+        <ul>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids">Grids</a></li>
+          <li><a href="https://www.rachelandrew.co.uk/archives/2017/03/07/css-grid-guides-on-mdn/">CSS Grid Guides on MDN</a></li>
+          <li><a href="https://www.slideshare.net/rachelandrew/css-grid-layout-for-frontend-ne">CSS Grid Layout Slides</a></li>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout">Basic Concepts of Grid Layout</a></li>
+          <li><a href="https://css-tricks.com/getting-started-css-grid/">Getting Started CSS Grid</a></li>
+          <li><a href="https://css-tricks.com/snippets/css/complete-guide-grid/">A Complete Guide to Grid</a></li>
+          <li><a href="https://bitsofco.de/css-grid-terminology/">CSS Grid Terminology</a></li>
+          <li><a href="https://www.youtube.com/watch?v=xotm_GckeYY&feature=youtu.be">CSS Grid Layout ya está aquí! (video)</a></li>
+          <li><a href="https://www.youtube.com/watch?v=Mj3N4op3dMc&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW">Entendiendo CSS Grid</a></li>
+          <li><a href="http://codepen.io/collection/DgwjNL/">Grid Layout</a></li>
+          <li><a href="http://codepen.io/collection/DEPOzv/">CSS Grid Talk Examples</a></li>
+          <li><a href="https://blogs.igalia.com/mrego/tag/css-grid-layout/">Rego's Everyday Life</a></li>
+          <li><a href="http://jensimmons.com/post/feb-27-2017/learn-css-grid">Learn CSS Grid</a></li>
+        </ul>
+
+        <h3>Contacta con el programa</h3>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/03/28/css-grid-layout/</link>
+        <guid>http://wecodesignpodcast.com/2017/03/28/css-grid-layout/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-24/WeCodeSign%201x24%20-%20CSS%20Grid%20Layout.mp3" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>01:17:10</itunes:duration>
+        <itunes:keywords>Frontend, Grid, Layout</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>23 - De educadora a Front-end</title>
       <pubDate>Tue, 14 Mar 2017 18:30:00 GMT</pubDate>
