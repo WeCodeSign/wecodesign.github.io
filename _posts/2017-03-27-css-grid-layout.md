@@ -28,7 +28,7 @@ Os acercamos multitud de recursos útiles que esperamos os sean útiles.
  
 <div class="rule"></div>
 
-#Frontend #Grid ##Layout
+#Frontend #Grid #Layout
 
 <div class="rule"></div>
 
