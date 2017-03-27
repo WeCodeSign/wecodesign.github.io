@@ -53,7 +53,7 @@ Para todos aquellos que queréis conocer lo que significa empezar en el desarrol
 
 <ul>
   <li class="recomendacion"><a href="http://adalab.es/">Adalab</a></li>
-  <li class="recomendacion"><a href="https://www.meetup.com/AdaBcnJS/">AdaBcnJS></a></li>
+  <li class="recomendacion"><a href="https://www.meetup.com/AdaBcnJS/">AdaBcnJS</a></li>
   <li class="recomendacion"><a href="https://twitter.com/WomanTechES">WomanTech</a></li>
   <li class="recomendacion"><a href="http://osweekends.com/">Open Source Weekends</a></li>
   <li class="recomendacion"><a href="https://twitter.com/ladybenko">Belén Albeza</a></li>
