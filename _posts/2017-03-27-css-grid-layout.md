@@ -12,6 +12,11 @@ tags:
   - Layout
 ---
 
+<audio src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-24/WeCodeSign%201x24%20-%20CSS%20Grid%20Layout.mp3" preload="auto" controls style="width: 100%;">
+  <p>Tu navegador no implementa el elemento audio</p>
+</audio>
+
+<p>Descargar Audio: <a href="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-24/WeCodeSign%201x24%20-%20CSS%20Grid%20Layout.mp3" title="Botón derecho del ratón, luego guardar enlace como...">Episodio 24 - CSS Grid Layout</a></p>
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 
