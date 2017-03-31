@@ -46,7 +46,7 @@ Os acercamos multitud de recursos útiles que esperamos os sean útiles.
   <li class="recomendacion"><span>Recomiéndanos a un invitado: </span><a href="https://www.linkedin.com/in/diegofgoberna/">Diego Fernandez</a></li>
   <li class="recomendacion"><span>Recomiéndanos a una invitada: </span><a href="https://twitter.com/nabaroa">Naiara Abaroa</a></li>
   <li class="recomendacion"><span>Recomiéndanos a un invitado: </span><a href="https://twitter.com/Kseso">Kseso</a></li>
-  <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span>El tema de realidad virtual en la web (WebVR)</a></li>
+  <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span>El tema de realidad virtual en la web (WebVR)</li>
   <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span>El futuro de CSS con todo el tema de Houdini</li>
   <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span><a href="http://testthewebforward.org/">Test the Web Forward</a></li>
 </ul>
