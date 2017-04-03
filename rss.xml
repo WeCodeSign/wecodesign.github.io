@@ -52,6 +52,39 @@
 
 
     <item>
+      <title>Mini 1</title>
+      <pubDate>Tue, 04 Apr 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h3>Descripcion del programa</h3>
+
+        <p>WeCodeSign Mini 1</p>
+
+        <p>¿Queréis saber de que hablamos en este episodio? Dadle al play ;)</p>
+
+        <h3>Contacta con el programa</h3>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com</link>
+        <guid>http://wecodesignpodcast.com</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-1/WeCodeSign%20Mini%20-%201.mp3" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>01:17:10</itunes:duration>
+        <itunes:keywords>Frontend, UX, Web</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>24 - CSS Grid Layout</title>
       <pubDate>Tue, 28 Mar 2017 18:30:00 GMT</pubDate>
       <description>
