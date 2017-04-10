@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CSS Grid Layout"
-excerpt: "Manuel Rego desarrollador, Chromium/Blink owner & WebKit reviewer nos habla sobre la implementación y el presente de CSS Grid Layout"
+excerpt: "Manuel Rego, Chromium/Blink owner & WebKit reviewer nos habla sobre la implementación y funcionamiento de CSS Grid Layout"
 podcast_number: "WCD 1x24"
 podcast_date: "Marzo 28, 2017"
 podcast_duration: "01:17:10"
