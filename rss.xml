@@ -50,7 +50,146 @@
     <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" />
 
 
+    <item>
+      <title>25 - PostCSS</title>
+      <pubDate>Tue, 10 Apr 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h3>Descripcion del programa</h3>
 
+        <p>Joan León Front-end y UI Developer y responsable de formación en su empresa y amante del CSS y la animación nos hablará sobre PostCSS.</p>
+
+        <p>Si os gusta pensar en el futuro del CSS y las posibilidades que podemos llegar a usar sin duda este es vuestro programa.</p>
+
+        <p>¡Bienvenid@s al futuro de la web!</p>
+
+        <h3>Recomendaciones</h3>
+
+        <h3>Preguntas rápidas: Joan León</h3>
+
+        <ul>
+          <li><span>Quién me ha inspirado: </span><a href="http://lea.verou.me/">Lea Verou</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://csswizardry.com/">Harry Roberts</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="http://hugogiraudel.com/">Hugo Giraudel</a></li>
+          <li><span>Recomiéndanos un recurso: <a href="https://developer.mozilla.org/">MDN</a></span></li>
+          <li><span>Recomiéndanos un recurso: <a href="http://perf.rocks/">Perf.Rocks</a></span></li>
+          <li><span>Recomiéndanos un recurso: <a href="https://app.devspace.io">DevSpace</a></span></li>
+          <li><span>Recomiéndanos un recurso: <a href="http://codepen.io/">Codepen</a></span></li>
+          <li><span>Recomiéndanos un recurso: <a href="https://github.com/nucliweb/People-You-Should-Follow-on-CodePen">People You Should Follow on CodePen</a></span></li>
+          <li><span>Recomiéndanos a un o una invitad@: <a href="https://twitter.com/diana_aceves_">Diana Aceves</a></span></li>
+          <li><span>Recomiéndanos a un o una invitad@: <a href="https://belenalbeza.com/">Belén Albeza</a></span></li>
+          <li><span>Recomiéndanos a un o una invitad@: <a href="http://w3.unpocodetodo.info/">Gabi</a></span></li>
+          <li><span>Recomiéndanos a un o una invitad@: <a href="https://github.com/spite">Jaume Sanchez</a></span></li>
+          <li><span>Recomiéndanos a un o una invitad@: <a href="http://www.danielguillan.com">Daniel Guillan</a></span></li>
+          <li><span>Recomiéndanos a un o una invitad@: <a href="https://github.com/danifornells">Daniel Fornells</a></span></li>
+          <li><span>Recomiéndanos a un o una invitad@: <a href="http://fernandojsg.com/">Fernando Serrano</a></span></li>
+          <li><span>Recomiéndanos a un o una invitad@: <a href="https://carlosvillu.com/">Carlos Villuendas</a></span></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: WebGL</span></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: Canvas</span></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: Creative Coding</span></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: Desktop apps with HTML5</span></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: CSS Architecture</span></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: Web Games</span></li>
+        </ul>
+
+        <h3>Contacta con: Joan León</h3>
+
+        <ul>
+          <li><a href="https://twitter.com/regocas">Twitter de Manuel Rego</a></li>
+          <li><a href="https://blogs.igalia.com/mrego/">Blog de Manuel Rego</a></li>
+        </ul>
+
+        <h3>Links del programa</h3>
+
+        <h4>Plugins Rockstars</h4>
+
+        <ul>
+          <li><a href="https://github.com/postcss/autoprefixer">Autoprefixer</a></li>
+          <li><a href="http://autoprefixer.github.io/">Autoprefixer Online</a></li>
+          <li><a href="https://twitter.com/autoprefixer">Autoprefixer Twitter</a></li>
+          <li><a href="https://github.com/ai/browserslist">browserslist</a></li>
+          <li><a href="https://github.com/reworkcss/rework">Rework</a></li>
+          <li><a href="https://github.com/postcss/postcss">PostCSS</a></li>
+          <li><a href="https://github.com/postcss/postcss/blob/master/docs/plugins.md">PostCSS Plugins List 1</a></li>
+          <li><a href="http://postcss.parts/">PostCSS Plugins List 2</a></li>
+          <li><a href="http://cssnext.io/">CSS Next</a></li>
+          <li><a href="https://github.com/jonathantneal/precss">Pre CSS</a></li>
+          <li><a href="http://cssnano.co/">CSS Nano</a></li>
+          <li><a href="https://stylelint.io/">stylelint</a></li>
+          <li><a href="https://github.com/postcss/postcss-import">postcss import</a></li>
+          <li><a href="https://github.com/postcss/postcss-custom-properties">postcss-custom-properties</a></li>
+          <li><a href="https://github.com/2createStudio/postcss-sprites">PostCSS Sprites</a></li>
+          <li><a href="https://github.com/TrySound/postcss-inline-svg">Post Inline SVG</a></li>
+        </ul>
+
+        <h4>PostCSS's plugins I used in my last project (with Gulp)</h4>
+
+        <ul>
+          <li><a href="https://github.com/postcss/gulp-postcss">gulp-postcss</a></li>
+          <li><a href="https://github.com/postcss/postcss-color-function">postcss-color-function</a></li>
+          <li><a href="https://github.com/MadLittleMods/postcss-css-variables">postcss-css-variables</a></li>
+          <li><a href="https://github.com/postcss/postcss-custom-media">postcss-custom-media</a></li>
+          <li><a href="https://github.com/postcss/postcss-devtools">postcss-devtools</a></li>
+          <li><a href="https://github.com/antyakushev/postcss-for">PostCSS For</a></li>
+          <li><a href="https://github.com/shauns/postcss-math">postcss-math</a></li>
+          <li><a href="https://github.com/postcss/postcss-nested">postcss-nested</a></li>
+          <li><a href="https://github.com/jonathantneal/postcss-partial-import">postcss-partial-import</a></li>
+          <li><a href="https://github.com/postcss/postcss-reporter">postcss-reporter</a></li>
+          <li><a href="https://github.com/morishitter/postcss-style-guide">postcss-style-guide</a></li>
+        </ul>
+
+        <h4>Mmmm... plugins (IMHO)</h4>
+
+        <ul>
+          <li><a href="https://github.com/baiyaaaaa/postcss-shape">postcss-shape</a></li>
+          <li><a href="https://github.com/tivac/postcss-extract-animations">postcss-extract-animations</a></li>
+          <li><a href="https://github.com/seaneking/postcss-alias">postcss-alias</a></li>
+          <li><a href="https://github.com/jedmao/postcss-triangle">postcss-triangle</a></li>
+          <li><a href="https://github.com/jonathantneal/postcss-short-position">postcss-short-position</a></li>
+          <li><a href="https://github.com/jonathantneal/postcss-short-text">postcss-short-text</a></li>
+          <li><a href="https://github.com/bameda/postcss-andalusian-stylesheets">postcss-andalusian-stylesheets</a></li>
+          <li><a href="https://github.com/juanfran/postcss-trolling">postcss-trolling</a></li>
+          <li><a href="https://github.com/sebdeckers/postcss-imperial">postcss-imperial</a></li>
+        </ul>
+
+        <h4>Links útiles</h4>
+
+        <ul>
+          <li><a href="https://gist.github.com/nucliweb/71de63e832f9adc2c9193841dcd0efa1">PostCSS Resources</a></li>
+          <li><a href="https://github.com/suitcss/preprocessor">Suit CSS</a></li>
+          <li><a href="https://github.com/posthtml/posthtml">Post HTML</a></li>
+        </ul>
+
+        <h3>Recomendaciones de Nacho y Carmen</h3>
+
+        <ul>
+          <li><a href="https://csswizardry.com/newsletter/">Harry Roberts - Newsletter</a></li>
+          <li><a href="http://css-weekly.com/">CSS Weekly</a></li>
+          <li><a href="http://jorgeatgu.github.io/slides/#/">Slides PostCSS - Jorge</a></li>
+          <li><a href="https://www.youtube.com/watch?v=oT0XJvUww_k">Introducción a PostCSS - Lourdes Montano - DevDayAR 2016</a></li>
+        </ul>
+
+        <h3>Contacta con el programa</h3>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/04/11/postcss/</link>
+        <guid>http://wecodesignpodcast.com/2017/04/11/postcss/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-25/WeCodeSign%201x25%20-%20PostCSS.mp3" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>00:53:04</itunes:duration>
+        <itunes:keywords>Frontend</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
     <item>
       <title>Mini 1</title>
       <pubDate>Tue, 04 Apr 2017 18:30:00 GMT</pubDate>
