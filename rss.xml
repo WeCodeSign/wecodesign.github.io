@@ -1029,7 +1029,7 @@
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x16BuenasPracticasCSS/WeCodeSign%201x16%20-%20Buenas%20pra%CC%81cticas%20CSS.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:37:36</itunes:duration>
-        <itunes:keywords>Buenas Prácticas, Best Practices, CSS</itunes:keywords>
+        <itunes:keywords>Frontend, CSS</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
         <itunes:explicit>no</itunes:explicit>
     </item>
@@ -1416,7 +1416,7 @@
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x11TipografiaWeb/WeCodeSign%201x11%20-%20Tipografi%CC%81a%20Web.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:20:22</itunes:duration>
-        <itunes:keywords>Tipografía Web</itunes:keywords>
+        <itunes:keywords>Tipografía, Frontend</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
         <itunes:explicit>no</itunes:explicit>
     </item>
