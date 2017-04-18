@@ -217,7 +217,7 @@
         </description>
         <link>http://wecodesignpodcast.com/2017/04/11/postcss/</link>
         <guid>http://wecodesignpodcast.com/2017/04/11/postcss/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-25/WeCodeSign%201x25%20-%20PostCSS.mp3" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-25/WeCodeSign%201x25%20-%20PostCSS.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:53:04</itunes:duration>
         <itunes:keywords>Frontend</itunes:keywords>
@@ -250,7 +250,7 @@
         </description>
         <link>https://archive.org/details/WCD-Mini-1</link>
         <guid>https://archive.org/details/WCD-Mini-1</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-1/WeCodeSign%20Mini%20-%201.mp3" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-1/WeCodeSign%20Mini%20-%201.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:11:10</itunes:duration>
         <itunes:keywords>Frontend, UX, Web</itunes:keywords>
@@ -339,7 +339,7 @@
         </description>
         <link>http://wecodesignpodcast.com/2017/03/28/css-grid-layout/</link>
         <guid>http://wecodesignpodcast.com/2017/03/28/css-grid-layout/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-24/WeCodeSign%201x24%20-%20CSS%20Grid%20Layout.mp3" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-24/WeCodeSign%201x24%20-%20CSS%20Grid%20Layout.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:17:10</itunes:duration>
         <itunes:keywords>Frontend, Grid, Layout</itunes:keywords>
@@ -410,7 +410,7 @@
         </description>
         <link>http://wecodesignpodcast.com/2017/03/13/de-educadora-a-frontend/</link>
         <guid>http://wecodesignpodcast.com/2017/03/13/de-educadora-a-frontend/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-23/WeCodeSign%201x23%20-%20De%20educadora%20a%20Front-end.mp3" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-23/WeCodeSign%201x23%20-%20De%20educadora%20a%20Front-end.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:58:59</itunes:duration>
         <itunes:keywords>Frontend</itunes:keywords>
@@ -504,7 +504,7 @@
         </description>
         <link>http://wecodesignpodcast.com/2017/02/28/la-importancia-del-diseno-y-sus-tendencias/</link>
         <guid>http://wecodesignpodcast.com/2017/02/28/la-importancia-del-diseno-y-sus-tendencias/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-22/WeCodeSign%201x22%20-%20La%20importancia%20del%20disen%CC%83o%20en%20la%20web.mp3" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-22/WeCodeSign%201x22%20-%20La%20importancia%20del%20disen%CC%83o%20en%20la%20web.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:00:21</itunes:duration>
         <itunes:keywords>WebDesign</itunes:keywords>
@@ -574,7 +574,7 @@
         </description>
         <link>http://wecodesignpodcast.com/2017/02/14/presente-y-futuro-del-ux/</link>
         <guid>http://wecodesignpodcast.com/2017/02/14/presente-y-futuro-del-ux/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-21/WeCodeSign%201x21%20-%20El%20presente%20y%20futuro%20del%20UX.mp3" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-21/WeCodeSign%201x21%20-%20El%20presente%20y%20futuro%20del%20UX.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:58:58</itunes:duration>
         <itunes:keywords>UX</itunes:keywords>
@@ -660,7 +660,7 @@
         </description>
         <link>http://wecodesignpodcast.com/2017/01/31/la-importancia-del-open-source/</link>
         <guid>http://wecodesignpodcast.com/2017/01/31/la-importancia-del-open-source/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-20/WeCodeSign%201x20%20-%20La%20importancia%20del%20Open%20Source.mp3" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-20/WeCodeSign%201x20%20-%20La%20importancia%20del%20Open%20Source.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:58:43</itunes:duration>
         <itunes:keywords>OpenSource, SoftwareLibre</itunes:keywords>
@@ -741,7 +741,7 @@
         </description>
         <link>http://wecodesignpodcast.com/2017/01/17/reclutando-talento/</link>
         <guid>http://wecodesignpodcast.com/2017/01/17/reclutando-talento/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-19/WeCodeSign%201x19%20-%20Reclutando%20Talento.mp3" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-19/WeCodeSign%201x19%20-%20Reclutando%20Talento.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:48:29</itunes:duration>
         <itunes:keywords>Recruiting</itunes:keywords>
@@ -817,7 +817,7 @@
         </description>
         <link>http://wecodesignpodcast.com/2017/01/03/metodologias-de-trabajo/</link>
         <guid>http://wecodesignpodcast.com/2017/01/03/metodologias-de-trabajo/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-18/WeCodeSign%201x18%20-%20Metodologias%20de%20Trabajo.mp3" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-18/WeCodeSign%201x18%20-%20Metodologias%20de%20Trabajo.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:40:44</itunes:duration>
         <itunes:keywords>Metodologías, Trabajo, Methodologies</itunes:keywords>
@@ -923,7 +923,7 @@
         </description>
         <link>http://wecodesignpodcast.com/2016/12/20/SVG/</link>
         <guid>http://wecodesignpodcast.com/2016/12/20/SVG/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-17/WeCodeSign%201x17%20-%20SVG.mp3" type="audio/mpeg" type="audio/mpeg" type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-17/WeCodeSign%201x17%20-%20SVG.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:57:28</itunes:duration>
         <itunes:keywords>SVG, Image</itunes:keywords>
@@ -1026,7 +1026,7 @@
         </description>
         <link>http://wecodesignpodcast.com/2016/12/06/buenas-practicas-css/</link>
         <guid>http://wecodesignpodcast.com/2016/12/06/buenas-practicas-css/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x16BuenasPracticasCSS/WeCodeSign%201x16%20-%20Buenas%20pra%CC%81cticas%20CSS.mp3" type="audio/mpeg" type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x16BuenasPracticasCSS/WeCodeSign%201x16%20-%20Buenas%20pra%CC%81cticas%20CSS.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:37:36</itunes:duration>
         <itunes:keywords>Buenas Prácticas, Best Practices, CSS</itunes:keywords>
@@ -1687,7 +1687,7 @@
         </description>
         <link>http://wecodesignpodcast.com/2016/08/30/estado-actual-de-angular-y-polymer/</link>
         <guid>http://wecodesignpodcast.com/2016/08/30/estado-actual-de-angular-y-polymer/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x09ElEstadoActualDeAngularYPolymer/WeCodeSign%201x09%20-%20El%20estado%20actual%20de%20Angular%20y%20Polymer.mp3"type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x09ElEstadoActualDeAngularYPolymer/WeCodeSign%201x09%20-%20El%20estado%20actual%20de%20Angular%20y%20Polymer.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:53:57</itunes:duration>
         <itunes:keywords>Angular, Angular2, Polymer, WebComponents, React</itunes:keywords>
@@ -1770,7 +1770,7 @@
         </description>
         <link>http://wecodesignpodcast.com/2016/08/16/episodio-8-trabajando-con-diferentes-CMS/</link>
         <guid>http://wecodesignpodcast.com/2016/08/16/episodio-8-trabajando-con-diferentes-CMS/</guid>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x08TrabajandoConDiferentesCMS/WeCodeSign%201x08%20-%20Trabajando%20con%20diferentes%20CMS.mp3"type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSign1x08TrabajandoConDiferentesCMS/WeCodeSign%201x08%20-%20Trabajando%20con%20diferentes%20CMS.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:57:59</itunes:duration>
         <itunes:keywords>CMS, WordPress, Joomla, Prestashop, Emprendimiento, Startup, Pyme</itunes:keywords>
@@ -1841,7 +1841,7 @@
         <link>http://wecodesignpodcast.com/2016/08/02/episodio-7/</link>
         <guid>http://wecodesignpodcast.com/2016/08/02/episodio-7/</guid>
         <pubDate>Tue, 02 Aug 2016 18:30:00 GMT</pubDate>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x07ExportandoTalento/WeCodeSign%20Podcast.%20Episodio%201x07%20-%20Exportando%20talento.mp3"type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x07ExportandoTalento/WeCodeSign%20Podcast.%20Episodio%201x07%20-%20Exportando%20talento.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>Desarrollo, Vídeo, Emprendimiento</itunes:keywords>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:12:39</itunes:duration>
@@ -2021,7 +2021,7 @@
         <link>http://wecodesignpodcast.com/2016/06/21/episodio-4/</link>
         <guid>http://wecodesignpodcast.com/2016/06/21/episodio-4/</guid>
         <pubDate>Tue, 21 Jun 2016 18:30:00 GMT</pubDate>
-        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x04SEOYSEM/We%20Code%20Sign%20Podcast.%20Episodio%201x04%20-%20SEO%20y%20SEM.mp3"type="audio/mpeg" length="0"/>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcast.Episodio1x04SEOYSEM/We%20Code%20Sign%20Podcast.%20Episodio%201x04%20-%20SEO%20y%20SEM.mp3" type="audio/mpeg" length="0"/>
         <itunes:keywords>SEO, SEM</itunes:keywords>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:22:29</itunes:duration>
