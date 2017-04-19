@@ -57,7 +57,8 @@ Hablaremos de task runners, de transpiladores y gestores de dependencias entre o
   <li class="recomendacion"><span>Recomiéndanos un recurso: </span><a href="https://www.sitepoint.com/">Sitepoint</a></li>
   <li class="recomendacion"><span>Recomiéndanos un recurso: </span><a href="http://www.genbetadev.com/">Genbeta Dev</a></li>
   <li class="recomendacion"><span>Recomiéndanos a un invitado: </span><a href="https://www.igvita.com/">Ilya Grigorik</a></li>
-  <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span><a href=""></a></li>
+  <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span>Otros lenguajes de programación para el Frontend</li>
+  <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span>Web Asambly</li>
 </ul>
 
 ##### Contacta con: Luis de Dios
