@@ -12,7 +12,7 @@
     <title>WeCodeSign Podcast</title>
     <atom:link href="http://wecodesignpodcast.com/rss.xml" rel="self" type="application/rss+xml" /> 
     <link>http://wecodesignpodcast.com</link>
-    <description>El podcast de diseño, desarrollo front-end y UX quincenal. En cada episodio invitamos a un reputado profesional del sector.
+    <description>El podcast de diseño, desarrollo front-end y UX semanal. Cada dos semanas invitamos a un reputado profesional del sector.
     </description>
     <language>es-ES</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -20,7 +20,7 @@
     <copyright>Copyright © WeCodeSign Podcast 2016-2016 </copyright>
     <managingEditor>ignaciodenuevo@gmail.com (WeCodeSign)</managingEditor>
     <webMaster>wecodesignpodcast@gmail.com (WeCodeSign Podcast)</webMaster> 
-    <category>Web, Design, Development, UX</category>
+    <category>Web, Design, Development, UX, UI</category>
     <image>
         <url>http://wecodesignpodcast.com/img/caratula.jpg</url>
         <title>WeCodeSign Podcast</title>
