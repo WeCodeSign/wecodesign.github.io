@@ -50,6 +50,75 @@
     <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" />
 
 
+
+
+
+
+
+    <item>
+      <title>25 - Design Systems</title>
+      <pubDate>Tue, 25 Apr 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h3>Descripcion del programa</h3>
+
+        <p>Con Naiara hablaremos sobre las styleguides, que son, como crearlas y que pueden aportarnos a la hora de trabajar con un equipo en un proyecto real.</p>
+
+        <p>Aprenderemos que los Patrones de diseño son necesarios para mantener una consistencia visual en nuestros proyectos y así mejorar la comunicación entre diseñador y desarrollador.</p>
+
+        <p>¡Esperamos que disfruteis del programa!</p>
+         
+        <h3>Recomendaciones</h3>
+
+        <h3>Preguntas rápidas: Naiara Abaroa</h3>
+
+        <ul>
+          <li><span>Quién me ha inspirado: </span><a href=""></a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href=""></a></li>
+          <li><span>Recomiéndanos a un invitado: </span><a href=""></a></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: </span>Accesibilidad</li>
+        </ul>
+
+        <h3>Contacta con: Naiara Abaroa</h3>
+
+        <ul>
+          <li><a href="https://twitter.com/nabaroa">Twitter de Naiara</a></li>
+          <li><a href="https://github.com/nabaroa">Github de Naiara</a></li>
+          <li><a href="http://www.naknak.me/">Web de Naiara</a></li>
+        </ul>
+
+        <h3>Links del programa</h3>
+
+        <ul>
+          <li><a href="https://medium.freecodecamp.com/how-to-construct-a-design-system-864adbf2a117">How to construct a design system</a></li>
+          <li><a href="http://octuweb.com/design-systems-diseno-construye-producto/">Design systems: el diseño construye el producto</a></li>
+          <li><a href="https://24ways.org/2016/animation-in-design-systems/">Animation in Design Systems</a></li>
+          <li><a href="https://nabaroa.github.io/erase-una-vez-el-design-system/#/">Erase una vez el design system</a></li>
+          <li><a href="https://twitter.com/Aitortxu/status/827824977772703744">#bilbostack17 dibujitos de la charla de @nabaroa</a></li>
+          <li><a href="https://stuffandnonsense.co.uk/blog/about/designing-inspired-style-guides-presentation-slides-and-transcript">Designing inspired style guides presentation slides and transcript</a></li>
+        </ul>
+
+        <h3>Contacta con el programa</h3>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/04/25/design-systems/</link>
+        <guid>http://wecodesignpodcast.com/2017/04/25/design-systems/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-26/WeCodeSign%201x26%20-%20Design%20Systems.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>00:58:49</itunes:duration>
+        <itunes:keywords>Frontend, DesignSystems</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Mini 2</title>
       <pubDate>Tue, 18 Apr 2017 18:30:00 GMT</pubDate>
