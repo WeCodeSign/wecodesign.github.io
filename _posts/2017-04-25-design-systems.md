@@ -2,7 +2,7 @@
 layout: post
 title: "Design Systems"
 excerpt: "Naiara Abaroa, Front-end Designer y apasionada por el CSS, nos ayudará a entender los Design Systems."
-podcast_number: "WCD 1x25"
+podcast_number: "WCD 1x26"
 podcast_date: "Abril 25, 2017"
 podcast_duration: "00:58:49"
 image_url: /img/fondo26.jpg
