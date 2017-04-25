@@ -38,10 +38,10 @@ Aprenderemos que los Patrones de diseño son necesarios para mantener una consis
 ##### Preguntas rápidas: Naiara Abaroa
 
 <ul>
-  <li class="recomendacion"><span>Quién me ha inspirado: </span><a href=""></a></li>
-  <li class="recomendacion"><span>Recomiéndanos un recurso: </span><a href=""></a></li>
-  <li class="recomendacion"><span>Recomiéndanos a un invitado: </span><a href=""></a></li>
-  <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span>Accesibilidad</li>
+  <li class="recomendacion"><span>Quién me ha inspirado: </span><a href="https://twitter.com/LeaVerou">Lea Verou</a></li>
+  <li class="recomendacion"><span>Recomiéndanos un recurso: </span>Referentes Internacionales</li>
+  <li class="recomendacion"><span>Recomiéndanos a una invitada: </span><a href="https://twitter.com/cristinafsanz">Cristina Fernández</a></li>
+  <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span>Temas relacionados con CSS</li>
 </ul>
 
 ##### Contacta con: Naiara Abaroa
@@ -61,15 +61,14 @@ Aprenderemos que los Patrones de diseño son necesarios para mantener una consis
   <li class="recomendacion"><a href="https://nabaroa.github.io/erase-una-vez-el-design-system/#/">Erase una vez el design system</a></li>
   <li class="recomendacion"><a href="https://twitter.com/Aitortxu/status/827824977772703744">#bilbostack17 dibujitos de la charla de @nabaroa</a></li>
   <li class="recomendacion"><a href="https://stuffandnonsense.co.uk/blog/about/designing-inspired-style-guides-presentation-slides-and-transcript">Designing inspired style guides presentation slides and transcript</a></li>
+  <li class="recomendacion"><a href="http://styleguides.io/podcast/">Styleguide Podcast</a></li>
 </ul>
 
-<!-- ##### Recomendaciones de Nacho y Carmen
+##### Recomendaciones de Nacho y Carmen
 
 <ul>
-  <li class="recomendacion"></li>
-  <li class="recomendacion"></li>
-  <li class="recomendacion"></li>
-  <li class="recomendacion"></li>
-  <li class="recomendacion"></li>
-  <li class="recomendacion"></li>
-</ul> -->
+  <li class="recomendacion"><a href="http://bradfrost.com/blog/post/interface-inventory/">Interface Inventory</a></li>
+  <li class="recomendacion"><a href="http://danmall.me/articles/cooking-with-design-systems/">Cooking with design systems</a></li>
+  <li class="recomendacion"><a href="http://designguidelines.co/">Design Guidelines</a></li>
+  <li class="recomendacion"><a href="http://styleguides.io/">Style Guides</a></li>
+</ul>
