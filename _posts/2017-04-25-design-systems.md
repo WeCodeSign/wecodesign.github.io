@@ -29,7 +29,7 @@ Aprenderemos que los Patrones de diseño son necesarios para mantener una consis
  
 <div class="rule"></div>
 
-#Frontend #PostCSS
+#Frontend #DesignSystems
 
 <div class="rule"></div>
 
