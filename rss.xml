@@ -62,21 +62,23 @@
       <![CDATA[
         <h3>Descripcion del programa</h3>
 
-        <p>Con Naiara hablaremos sobre las styleguides, que son, como crearlas y que pueden aportarnos a la hora de trabajar con un equipo en un proyecto real.</p>
+        <p>Naiara Abaroa, Front-end Designer y apasionada por el CSS, nos ayudará a gestionar los estilos y componentes de nuestro proyecto para facilitar su mantenimiento. </p>
+
+        <p>Con Naiara hablaremos sobre las styleguides, que son, como crearlas y que pueden aportarnos a la hora de trabajar con un equipo en un proyecto real. </p>
 
         <p>Aprenderemos que los Patrones de diseño son necesarios para mantener una consistencia visual en nuestros proyectos y así mejorar la comunicación entre diseñador y desarrollador.</p>
 
         <p>¡Esperamos que disfruteis del programa!</p>
-         
+
         <h3>Recomendaciones</h3>
 
         <h3>Preguntas rápidas: Naiara Abaroa</h3>
 
         <ul>
-          <li><span>Quién me ha inspirado: </span><a href=""></a></li>
-          <li><span>Recomiéndanos un recurso: </span><a href=""></a></li>
-          <li><span>Recomiéndanos a un invitado: </span><a href=""></a></li>
-          <li><span>¿Qué tema te gustaría que tratásemos?: </span>Accesibilidad</li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/LeaVerou">Lea Verou</a></li>
+          <li><span>Recomiéndanos un recurso: </span>Referentes Internacionales</li>
+          <li><span>Recomiéndanos a una invitada: </span><a href="https://twitter.com/cristinafsanz">Cristina Fernández</a></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: </span>Temas relacionados con CSS</li>
         </ul>
 
         <h3>Contacta con: Naiara Abaroa</h3>
@@ -96,6 +98,16 @@
           <li><a href="https://nabaroa.github.io/erase-una-vez-el-design-system/#/">Erase una vez el design system</a></li>
           <li><a href="https://twitter.com/Aitortxu/status/827824977772703744">#bilbostack17 dibujitos de la charla de @nabaroa</a></li>
           <li><a href="https://stuffandnonsense.co.uk/blog/about/designing-inspired-style-guides-presentation-slides-and-transcript">Designing inspired style guides presentation slides and transcript</a></li>
+          <li><a href="http://styleguides.io/podcast/">Styleguide Podcast</a></li>
+        </ul>
+
+        <h3>Recomendaciones de Nacho y Carmen</h3>
+
+        <ul>
+          <li><a href="http://bradfrost.com/blog/post/interface-inventory/">Interface Inventory</a></li>
+          <li><a href="http://danmall.me/articles/cooking-with-design-systems/">Cooking with design systems</a></li>
+          <li><a href="http://designguidelines.co/">Design Guidelines</a></li>
+          <li><a href="http://styleguides.io/">Style Guides</a></li>
         </ul>
 
         <h3>Contacta con el programa</h3>
