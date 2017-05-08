@@ -54,7 +54,80 @@
 
 
 
+    <item>
+      <title>26 - Design Systems</title>
+      <pubDate>Tue, 25 Apr 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h3>Descripcion del programa</h3>
 
+        <p>En este episodio nos adentramos con Karmel en el mundo de las interacciones persona-computadora para ver como la usabilidad nos ayuda a mejorar nuestra relación con las interfaces.</p>
+
+        <p>Si te apasiona la comunicación entre usuario y dispositivo, y el futuro más inmediato con experiencias como la Realidad Virutal (VR) y sus aplicaciones en el entorno web, no puedes perderte este episodio lleno de información y recursos.</p>
+
+        <p>¡Comenzamos!</p>
+
+        <h3>Recomendaciones</h3>
+
+        <h3>Preguntas rápidas: Carmel Hassan</h3>
+
+        <ul>
+          <li><span>Quién me ha inspirado: </span><a href="https://en.wikipedia.org/wiki/Alan_Cooper">Alan Cooper</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/jasonfried">Jason Fried</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://www.interaction-design.org/">Interaction Design Foundation</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://www.safaribooksonline.com/">Safari Books Online</a></li>
+          <li><span>Recomiéndanos a una invitada: </span>Álvaro Ortiz</li>
+          <li><span>Recomiéndanos a una invitada: </span>Alberto Romero</li>
+          <li><span>Recomiéndanos a una invitada: </span><a href="https://twitter.com/ludita?lang=es">Isabel Inés, Ludita</a></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: </span>Ética en el desarrollo de la tecnología</li>
+        </ul>
+
+        <h3>Contacta con: Carmel Hassan</h3>
+
+        <ul>
+          <li><a href="https://twitter.com/karmel">Twitter de Carmel</a></li>
+          <li><a href="http://carmel.es/">Web de Carmel</a></li>
+        </ul>
+
+        <h3>Links del programa</h3>
+
+        <ul>
+          <li><a href="https://aframe.io/">A-FRAME</a></li>
+          <li><a href="http://johnny-five.io/">Johnny-Five</a></li>
+          <li><a href="https://www.arduino.cc/">Arduino</a></li>
+          <li><a href="https://vr.google.com/cardboard/">Cardboard</a></li>
+        </ul>
+
+        <h3>Recomendaciones de Nacho y Carmen</h3>
+
+        <ul>
+          <li><a href="http://www.uxmatters.com/">UX Matters</a></li>
+          <li><a href="http://uxmag.com/">UX Magazine</a></li>
+          <li><a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed">The Encyclopedia of Human-Computer Interaction, 2nd Ed.</a></li>
+          <li><a href="http://www.informationisbeautiful.net/">information is beautiful</a></li>
+        </ul>
+
+        <h3>Contacta con el programa</h3>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/05/09/paradigmas-de-interaccion/</link>
+        <guid>http://wecodesignpodcast.com/2017/05/09/paradigmas-de-interaccion/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-27/WeCodeSign%201x27%20-%20Paradigmas%20de%20Interaccio%CC%81n.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>01:02:17</itunes:duration>
+        <itunes:keywords>Web, Interacción, Diseño</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>si</itunes:explicit>
+    </item>
     <item>
       <title>Mini 3</title>
       <pubDate>Tue, 02 May 2017 18:30:00 GMT</pubDate>
