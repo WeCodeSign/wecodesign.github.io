@@ -20,7 +20,7 @@ tags:
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 
-En este episodio nos adentramos con Karmel en el mundo de las interacciones persona-computadora para ver como la usabilidad nos ayuda a mejorar nuestra relación con las interfaces.
+En este episodio nos adentramos con Carmel en el mundo de las interacciones persona-computadora para ver como la usabilidad nos ayuda a mejorar nuestra relación con las interfaces.
 
 Si te apasiona la comunicación entre usuario y dispositivo, y el futuro más inmediato con experiencias como la Realidad Virutal (VR) y sus aplicaciones en el entorno web, no puedes perderte este episodio lleno de información y recursos.
 
