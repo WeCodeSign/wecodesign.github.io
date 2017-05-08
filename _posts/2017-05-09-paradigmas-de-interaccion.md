@@ -12,7 +12,11 @@ tags:
   - Diseño
 ---
 
+<audio src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-27/WeCodeSign%201x27%20-%20Paradigmas%20de%20Interaccio%CC%81n.mp3" preload="auto" controls style="width: 100%;">
+  <p>Tu navegador no implementa el elemento audio</p>
+</audio>
 
+<p>Descargar Audio: <a href="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-27/WeCodeSign%201x27%20-%20Paradigmas%20de%20Interaccio%CC%81n.mp3" title="Botón derecho del ratón, luego guardar enlace como...">Episodio 27 - Paradigmas de Interacción</a></p>
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 
