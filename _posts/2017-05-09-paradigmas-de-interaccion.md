@@ -3,7 +3,7 @@ layout: post
 title: "Paradigmas de Interacción"
 excerpt: "Carmel Hassan, UX Designer nos hablará de los diferentes modelos de interfaz existentes como interactuar con ellos."
 podcast_number: "WCD 1x27"
-podcast_date: "Abril 25, 2017"
+podcast_date: "Mayo 09, 2017"
 podcast_duration: "01:02:17"
 image_url: /img/fondo27.jpg
 tags: 
