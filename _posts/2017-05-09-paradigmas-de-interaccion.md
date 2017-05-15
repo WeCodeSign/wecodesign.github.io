@@ -41,8 +41,8 @@ Si te apasiona la comunicación entre usuario y dispositivo, y el futuro más in
   <li class="recomendacion"><span>Quién me ha inspirado: </span><a href="https://twitter.com/jasonfried">Jason Fried</a></li>
   <li class="recomendacion"><span>Recomiéndanos un recurso: </span><a href="https://www.interaction-design.org/">Interaction Design Foundation</a></li>
   <li class="recomendacion"><span>Recomiéndanos un recurso: </span><a href="https://www.safaribooksonline.com/">Safari Books Online</a></li>
-  <li class="recomendacion"><span>Recomiéndanos a una invitada: </span>Álvaro Ortiz</li>
-  <li class="recomendacion"><span>Recomiéndanos a una invitada: </span>Alberto Romero</li>
+  <li class="recomendacion"><span>Recomiéndanos a una invitada: </span><a href="https://twitter.com/furilo">Álvaro Ortiz</a></li>
+  <li class="recomendacion"><span>Recomiéndanos a una invitada: </span><a href="https://www.linkedin.com/in/albertoromero/">Alberto Romero</a></li>
   <li class="recomendacion"><span>Recomiéndanos a una invitada: </span><a href="https://twitter.com/ludita?lang=es">Isabel Inés, Ludita</a></li>
   <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span>Ética en el desarrollo de la tecnología</li>
 </ul>

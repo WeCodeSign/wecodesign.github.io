@@ -76,8 +76,8 @@
           <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/jasonfried">Jason Fried</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://www.interaction-design.org/">Interaction Design Foundation</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://www.safaribooksonline.com/">Safari Books Online</a></li>
-          <li><span>Recomiéndanos a una invitada: </span>Álvaro Ortiz</li>
-          <li><span>Recomiéndanos a una invitada: </span>Alberto Romero</li>
+          <li class="recomendacion"><span>Recomiéndanos a una invitada: </span><a href="https://twitter.com/furilo">Álvaro Ortiz</a></li>
+          <li class="recomendacion"><span>Recomiéndanos a una invitada: </span><a href="https://www.linkedin.com/in/albertoromero/">Alberto Romero</a></li>
           <li><span>Recomiéndanos a una invitada: </span><a href="https://twitter.com/ludita?lang=es">Isabel Inés, Ludita</a></li>
           <li><span>¿Qué tema te gustaría que tratásemos?: </span>Ética en el desarrollo de la tecnología</li>
         </ul>
