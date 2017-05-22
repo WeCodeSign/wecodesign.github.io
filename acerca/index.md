@@ -19,7 +19,7 @@ title: "Acerca de nosotros"
 		<h3 class="acerca__name">Carmen Ansio</h3>
 		<div class="rule"></div>
 		<p>UI & Front-end Designer amante del CSS y los SVG's.</p>
-		<p class="home-section__p">Integrante de <a href="http://ada.barcelonajs.org" target="_blank">AdaJS</a> y de la fundación <a href="http://www.techdencias.net/" target="_blank">Techdencias</a>. Podrás encontrarme en <a href="https://twitter.com/carmenansio">Twitter</a> en <a href="https://github.com/redfluff">Github</a> o enviarme un <a href="mailto:carmenansio@gmail.com">Email</a> o a través de mi <a href="www.carmenansio.com">Web</a>.</p>
+		<p class="home-section__p">Integrante de <a href="http://ada.barcelonajs.org" target="_blank">AdaJS</a> y de la fundación <a href="http://www.techdencias.net/" target="_blank">Techdencias</a>. Podrás encontrarme en <a href="https://twitter.com/carmenansio">Twitter</a> en <a href="https://github.com/redfluff">Github</a> o enviarme un <a href="mailto:carmenansio@gmail.com">Email</a> o a través de mi <a href="http://www.carmenansio.com/">Web</a>.</p>
 	</div>
 </div>
 
