@@ -54,6 +54,81 @@
 
 
     <item>
+      <title>2x01 - Adalab</title>
+      <pubDate>Tue, 23 May 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h3>Descripcion del programa</h3>
+
+        <p>Inés y Rosario decidieron unir sus conocimientos para formar Adalab, con el principal objetivo de ayudar a mujeres jóvenes con dificultades laborales a introducirse en el mercado laboral dentro del sector digital.</p>
+
+        <p>Con un intensivo de 3 meses Adalab forma a chicas sin conocimientos en programación, en Frontends para que puedan optar a un puesto laboral dentro del mundo del desarrollo web.</p>
+
+        <p>Adalab nos parece una iniciativa social muy buena para combatir la diversidad laboral y animar a chicas a introducirse en el mundo de la programación.</p>
+
+        <p>¡Esperamos que os guste el episodio!</p>
+         
+        <h3>Recomendaciones</h3>
+
+        <h3>Preguntas rápidas: Adalab: Rosario e Inés</h3>
+
+        <ul>
+          <li><span>Quién me ha inspirado: </span><a href="http://laboratoria.la/team/profile/mariana-costa-checa1/">Mariana Costa Checa</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://www.bemytravelmuse.com/">Be my travel muse</a></li>
+          <li><span>Recomiéndanos a una invitada: </span><a href="http://laboratoria.la/team/">Los chicos de Laboratoria</a></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: </span>¿Se valora en la empresa la diversidad digital?</li>
+        </ul>
+
+        <h3>Contacta con: Adalab: Rosario e Inés</h3>
+
+        <ul>
+          <li><a href="http://adalab.es/">Web de Adalab</a></li>
+          <li><a href="https://twitter.com/AdaLab_Digital">Twitter de Adalab</a></li>
+          <li><a href="https://www.facebook.com/AdaLabDigital/">Facebook de Adalab</a></li>
+          <li><a href="https://www.linkedin.com/company-beta/15178940/">LinkedIn de Adalab</a></li>
+          <li><a href="https://www.instagram.com/adalab_digital/">Instagram de Adalab</a></li>
+        </ul>
+
+        <h3>Links del programa</h3>
+
+        <ul>
+          <li><a href="http://www.spreaker.com/user/9175618/women-in-tech_1">Women in Tech</a></li>
+          <li><a href="https://www.theguardian.com/technology/2016/oct/04/twitter-women-gender-elon-musk-tim-cook">From Elon Musk to Tim Cook, tech leaders hardly follow women on Twitter</a></li>
+          <li><a href="https://twitter.com/elaconf/status/783037944533704704">Ela Conf</a></li>
+        </ul>
+
+        <h3>Recomendaciones de Nacho y Carmen</h3>
+
+        <ul>
+          <li><a href="https://twitter.com/nabaroa">Naiara Abaroa</a></li>
+          <li><a href="https://sarahdrasnerdesign.com/">Sarah Drasner</a></li>
+          <li><a href="https://twitter.com/una">Una Kravets</a></li>
+          <li><a href="https://twitter.com/Codenewbies">Codenewbies</a></li>
+          <li><a href="http://codelandconf.com/">Codeland Conf</a></li>
+          <li><a href="http://frontgirls.io/">front girls <3</a></li>
+          <li><a href="http://lea.verou.me/">Lea Verou</a></li>
+        </ul>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/05/23/adalab/</link>
+        <guid>http://wecodesignpodcast.com/2017/05/23/adalab/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x01/WeCodeSign%202x01%20-%20Adalab.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>01:00:35</itunes:duration>
+        <itunes:keywords>Web, Inclusión</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Mini 4 - Un año de WeCodeSign</title>
       <pubDate>Tue, 16 May 2017 18:30:00 GMT</pubDate>
       <description>
@@ -108,8 +183,8 @@
           <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/jasonfried">Jason Fried</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://www.interaction-design.org/">Interaction Design Foundation</a></li>
           <li><span>Recomiéndanos un recurso: </span><a href="https://www.safaribooksonline.com/">Safari Books Online</a></li>
-          <li class="recomendacion"><span>Recomiéndanos a una invitada: </span><a href="https://twitter.com/furilo">Álvaro Ortiz</a></li>
-          <li class="recomendacion"><span>Recomiéndanos a una invitada: </span><a href="https://www.linkedin.com/in/albertoromero/">Alberto Romero</a></li>
+          <li><span>Recomiéndanos a una invitada: </span><a href="https://twitter.com/furilo">Álvaro Ortiz</a></li>
+          <li><span>Recomiéndanos a una invitada: </span><a href="https://www.linkedin.com/in/albertoromero/">Alberto Romero</a></li>
           <li><span>Recomiéndanos a una invitada: </span><a href="https://twitter.com/ludita?lang=es">Isabel Inés, Ludita</a></li>
           <li><span>¿Qué tema te gustaría que tratásemos?: </span>Ética en el desarrollo de la tecnología</li>
         </ul>
