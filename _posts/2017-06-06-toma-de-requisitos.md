@@ -40,7 +40,7 @@ Cuando pensamos en la necesidad de nuestros clientes nos vienen palabras como br
   <li class="recomendacion"><span>Quién me ha inspirado: </span><a href="https://twitter.com/kentbeck">Kent Beck</a></li>
   <li class="recomendacion"><span>Quién me ha inspirado: </span><a href="https://twitter.com/martinfowler">Martin Fowler</a></li>
   <li class="recomendacion"><span>Recomiéndanos un recurso: </span><a href="https://stackoverflow.com">Stackoverflow</a></li>
-  <li class="recomendacion"><span>Recomiéndanos a una invitada: </span><a href="https://twitter.com/jorgeuriarte">Jorje Uriarte</a></li>
+  <li class="recomendacion"><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/jorgeuriarte">Jorge Uriarte</a></li>
   <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span>Inteligencia artificial</li>
   <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span>Integración de la web en móvil: React Native, Ionic, Phonegap</li>
 </ul>
