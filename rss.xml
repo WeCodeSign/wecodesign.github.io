@@ -51,7 +51,75 @@
 
 
 
+    <item>
+      <title>2x03 - Trabajando en Remoto</title>
+      <pubDate>Tue, 20 Jun 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h3>Descripcion del programa</h3>
 
+        <p>Luis Herrero, diseñador visual, profesor nos contará su experiencia trabajando en remoto para Plex, sus ventajas, inconvenientes y como ha conseguido con el paso de los años una forma de trabajar óptima y sin distracciones.</p>
+
+        <p>Nos contará sobre los beneficios de trabajar a distancia tanto para el trabajador como para la empresa y veremos qué puede encajar mejor con nuestra forma de ser.</p>
+
+        <p>¡Esperamos que os guste el episodio y como siempre nos vemos al final!</p>
+
+        <h3>Recomendaciones</h3>
+
+        <h3>Preguntas rápidas: Luis Herrero</h3>
+
+        <ul>
+          <li><span>Quién me ha inspirado: </span>Compañeros de trabajo</li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://msdn.microsoft.com/es-es/library/windows/desktop/bb773187(v=vs.85).aspx">Guía Visual Windows</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://developer.android.com/design/index.html">Guía Visual Android</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/">Guía Visual iOS</a></li>
+          <li><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/diana_aceves_">Diana Aceves</a></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: Trabajo diseñador/desarrollador</span></li>
+        </ul>
+
+        <h3>Contacta con: Luis Herrero</h3>
+
+        <ul>
+          <li><a href="https://twitter.com/luishj">Twitter de Luis Herrero</a></li>
+          <li><a href="http://luisherrero.es/">Web de Luis Herrero</a></li>
+        </ul>
+
+        <h3>Links del programa</h3>
+
+        <ul>
+          <li><a href="https://remote.co/">Remote.co</a></li>
+        </ul>
+
+        <h3>Recomendaciones de Nacho y Carmen</h3>
+
+        <ul>
+          <li><a href="https://www.genbetadev.com/trabajar-como-desarrollador/10-cosas-sobre-trabajar-en-remoto-que-quiza-no-habias-pensado-y-deberias-tener-en-cuenta">10 cosas sobre trabajar en remoto que quizá no habías pensado y deberías tener en cuenta</a></li>
+          <li><a href="http://www.hackemate.ninja/11-herramientas-para-trabajar-como-desarrollador-remoto-o-freelance/">11 herramientas para trabajar como desarrollador remoto o freelance</a></li>
+          <li><a href="http://wedevelopers.com/2016/01/08/we-developers-044-trabajo-en-remoto/">We.Developers 044 – Trabajo en Remoto</a></li>
+          <li><a href="https://www.shopify.com.mx/blog/el-trabajo-del-futuro-es-remoto-como-hacer-que-funcione-para-tu-negocio">El trabajo del futuro es remoto: cómo hacer que funcione para tu negocio</a></li>
+        </ul>
+
+        <h3>Contacta con el programa</h3>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/06/20/trabajando-en-remoto/</link>
+        <guid>http://wecodesignpodcast.com/2017/06/20/trabajando-en-remoto/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x03/WeCodeSign%202x03%20-%20Trabajando%20en%20Remoto.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>01:15:49</itunes:duration>
+        <itunes:keywords>Web, Remoto</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Mini 6 - ¿Qué aportan l@s juniors?</title>
       <pubDate>Tue, 13 Jun 2017 18:30:00 GMT</pubDate>
@@ -146,6 +214,8 @@
           <li><a href="https://olgaconstanza.com/2013/10/15/guia-para-una-buena-toma-de-requisitos/">Guía para una buena toma de requisitos</a></li>
           <li><a href="http://itakora.com/como-saber-lo-que-quiere-tu-cliente/#comment-24520">Cómo saber lo que quiere tu cliente</a></li>
         </ul>
+
+        <h3>Contacta con el programa</h3>
 
         <ul>
           <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
@@ -254,6 +324,8 @@
           <li><a href="http://frontgirls.io/">front girls <3</a></li>
           <li><a href="http://lea.verou.me/">Lea Verou</a></li>
         </ul>
+
+        <h3>Contacta con el programa</h3>
 
         <ul>
           <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
