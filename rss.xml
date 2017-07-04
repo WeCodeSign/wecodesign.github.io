@@ -50,7 +50,116 @@
     <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" />
 
 
+    
+    <item>
+      <title>2x04 - Mobile First</title>
+      <pubDate>Tue, 04 Jul 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h3>Descripcion del programa</h3>
 
+        <p>Diana Aceves, trabaja como desarrolladora front-end, su especialidad es el desarrollo responsive a medida y con ella hablaremos de MobileFirst.</p>
+
+        <p>¿Qué implica crear un buen responsive web design? Hablamos de lo que es para aclarar las numerosas dudas surgidas a raíz de una encuesta que realizó en Twitter.</p>
+
+        <p>¡Esperamos que os guste el episodio y como siempre nos vemos al final!</p>
+
+        <h3>Recomendaciones</h3>
+
+        <h3>Preguntas rápidas: Diana Aceves</h3>
+
+        <ul>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/luishj">Luis Herrero</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/nabaroa">Naiara Abaroa</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/nucliweb">Joan León</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/Flodar">Félix Ortega</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/wakkos">Daniel Martínez</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/danifornells">Daniel Fornells</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="http://octuweb.com/">Octuweb</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://www.browserstack.com/">Browserstack</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://developer.chrome.com/devtools">Developer Tools</a></li>
+          <li><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/luishj">Luis Herrero</a></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: Progressive Web Apps</span></li>
+        </ul>
+
+        <h3>Contacta con: Diana Aceves</h3>
+
+        <ul>
+          <li><a href="https://twitter.com/diana_aceves_">Twitter de Diana Aceves</a></li>
+          <li><a href="http://hoyheaprendido.es/">Web de Diana Aceves</a></li>
+          <li><a href="https://www.linkedin.com/in/dianaaceves/">LinkedIn de Diana Aceves</a></li>
+        </ul>
+
+        <h3>Links del programa</h3>
+
+        <ul>
+          <li><a href="https://twitter.com/beep">Ethan Marcotte</a></li>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#Example_3_Using_the_srcset_attribute">Using the srcset attribute</a></li>
+        </ul>
+
+        <h3>Recomendaciones de Nacho y Carmen</h3>
+
+        <ul>
+          <li><a href="https://alistapart.com/article/responsive-web-design">Responsive Web Design</a></li>
+          <li><a href="http://www.uxmatters.com/mt/archives/2012/03/mobile-first-what-does-it-mean.php">Mobile First: What Does It Mean?</a></li>
+          <li><a href="https://www.uxpin.com/community/tutorials/adaptive-breakpoints/">Adaptive breakpoints</a></li>
+          <li><a href="https://www.lukew.com/ff/entry.asp?933">Mobile First</a></li>
+        </ul>
+
+        <h3>Contacta con el programa</h3>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/07/04/mobile-first/</link>
+        <guid>http://wecodesignpodcast.com/2017/07/04/mobile-first/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x04/WeCodeSign%202x04%20-%20Mobile%20First.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>01:32:00</itunes:duration>
+        <itunes:keywords>Web</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>Mini 7 - Salarios</title>
+      <pubDate>Tue, 27 Jun 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h3>Descripcion del programa</h3>
+
+        <p>WeCodeSign Mini 7</p>
+
+        <p>¿Queréis saber de que hablamos en este episodio? Dadle al play ;)</p>
+
+        <h3>Contacta con el programa</h3>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/06/27/mini-7/</link>
+        <guid>http://wecodesignpodcast.com/2017/06/27/mini-7/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-7/WeCodeSign%20Mini%207%20-%20Salarios.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>00:13:30</itunes:duration>
+        <itunes:keywords>Frontend, UX, Web</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>2x03 - Trabajando en Remoto</title>
       <pubDate>Tue, 20 Jun 2017 18:30:00 GMT</pubDate>
