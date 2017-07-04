@@ -49,7 +49,6 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" />
 
-
     
     <item>
       <title>2x04 - Mobile First</title>
@@ -125,7 +124,7 @@
         <itunes:duration>01:32:00</itunes:duration>
         <itunes:keywords>Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>yes</itunes:explicit>
     </item>
     <item>
       <title>Mini 7 - Salarios</title>
