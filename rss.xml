@@ -60,7 +60,91 @@
 
 
 
+    <item>
+      <title>2x05 - Camino a la programación funcional</title>
+      <pubDate>Tue, 18 Jul 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h3>Descripcion del programa</h3>
 
+        <p>Anler, desarrollador de Scala y Akka organizador de Haskell Madrid nos cuenta su paso en la programación funcional.</p>
+
+        <p>Nos cuenta su experiencia tras venir desde Cuba, su paso por la educación tradicional, su experiencia como profesor y sus inquietudes por la programación funcional.</p>
+
+        <p>¡Esperamos que os guste el episodio y como siempre nos vemos al final!</p>
+
+        <h3>Recomendaciones</h3>
+
+        <h3>Preguntas rápidas: Anler</h3>
+
+        <ul>
+          <li><span>Quién me ha inspirado: </span>Rocky y Sea Biscuit (películas)</li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://mitpress.mit.edu/sicp/full-text/book/book.html">Structure and Interpretation of Computer Programs</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://www.youtube.com/watch?v=agOdP2Bmieg">Humane Representation of Thought</a></li>
+          <li><span>Recomiéndanos a un invitado o invitada: </span><a href="https://en.wikipedia.org/wiki/Bret_Victor">Bret Victor</a></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: Sorprendedme</span></li>
+        </ul>
+
+        <h3>Contacta con: Anler</h3>
+
+        <ul>
+          <li><a href="https://twitter.com/anler">Twitter de Anler</a></li>
+          <li><a href="https://medium.com/@anler">Anler en Medium</a></li>
+          <li><a href="https://anler.me/">Web de Anler</a></li>
+        </ul>
+
+        <h3>Links del programa</h3>
+
+        <ul>
+          <li><a href="http://keyframework.com/">Key Framework</a></li>
+          <li><a href="https://clojure.org/">Clojure</a></li>
+          <li><a href="https://mootools.net/">mootools</a></li>
+          <li><a href="https://jquery.com/">jQuery</a></li>
+          <li><a href="http://php.net/">PHP</a></li>
+          <li><a href="https://www.haskell.org/">Haskell</a></li>
+          <li><a href="https://www.ruby-lang.org/es/">Ruby</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">Lisp</a></li>
+          <li><a href="https://www.perl.org/">Perl</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Scheme_(programming_language)">Scheme</a></li>
+          <li><a href="https://twitter.com/peepcode">Peep Code Tutorials</a></li>
+          <li><a href="http://www.kaleidos.net/">Kaleidos</a></li>
+          <li><a href="https://www.meetup.com/Haskell-MAD/">Haskell Mad</a></li>
+          <li><a href="http://docs.scala-lang.org/">Scala</a></li>
+          <li><a href="https://www.python.org/">Python</a></li>
+          <li><a href="https://webpack.js.org/">Webpack</a></li>
+          <li><a href="https://www.gnome.org/">gnome</a></li>
+          <li><a href="https://www.gentoo.org/">gentoo</a></li>
+          <li><a href="https://en.wikipedia.org/wiki/Richard_Stallman">Richard Stallman</a></li>
+        </ul>
+
+        <h3>Recomendaciones de Nacho y Carmen</h3>
+
+        <ul>
+          <li><a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0">Master the JavaScript Interview: What is Functional Programming?</a></li>
+          <li><a href="https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/">Don’t Be Scared Of Functional Programming</a></li>
+          <li><a href="https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536">So You Want to be a Functional Programmer (Part 1)</a></li>
+          <li><a href="https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming">A practical introduction to functional programming</a></li>
+        </ul>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/07/18/camino-a-la-programacion-funcional/</link>
+        <guid>http://wecodesignpodcast.com/2017/07/18/camino-a-la-programacion-funcional/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x05/WeCodeSign%202x05%20-%20Camino%20a%20la%20programacio%CC%81n%20funcional.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>01:09:40</itunes:duration>
+        <itunes:keywords>Web, Funcional, UX, Diseño</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Mini 8 - Ñapas as a Service</title>
       <pubDate>Tue, 11 Jul 2017 18:30:00 GMT</pubDate>

@@ -2,7 +2,7 @@
 layout: post
 title: "Mobile First"
 excerpt: "Diana Aceves, trabaja como front-end, su especialidad es el desarrollo responsive y con ella hablaremos de MobileFirst."
-podcast_number: "WCD 2x03"
+podcast_number: "WCD 2x04"
 podcast_date: "Julio 4, 2017"
 podcast_duration: "01:32:00"
 image_url: /img/fondo2x04.jpg
