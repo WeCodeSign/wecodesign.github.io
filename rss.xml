@@ -59,7 +59,39 @@
 
 
 
+    <item>
+      <title>Mini 9 - Miedo al fracaso</title>
+      <pubDate>Tue, 25 Jul 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h3>Descripcion del programa</h3>
 
+        <p>WeCodeSign Mini 9</p>
+
+        <p>¿Queréis saber de que hablamos en este episodio? Dadle al play ;)</p>
+
+        <h3>Contacta con el programa</h3>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/07/25/mini-9/</link>
+        <guid>http://wecodesignpodcast.com/2017/07/25/mini-9/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-9/WCD%20Mini%209%20-%20Miedo%20al%20fracaso.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>00:15:58</itunes:duration>
+        <itunes:keywords>Frontend, UX, Web</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>2x05 - Camino a la programación funcional</title>
       <pubDate>Tue, 18 Jul 2017 18:30:00 GMT</pubDate>
