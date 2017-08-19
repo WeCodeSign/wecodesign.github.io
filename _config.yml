@@ -12,6 +12,6 @@ paginate: 10
 permalink: pretty
 sass:
   style: :compressed
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
