@@ -57,6 +57,11 @@ Nos hará de guía a través de ejemplos para mostrando los problemas a los que 
   <li class="recomendacion"><a href="https://www.w3.org/WAI/intro/aria">WAI-ARIA</a></li>
   <li class="recomendacion"><a href="http://leaverou.github.io/contrast-ratio/">Contrast Ratio by Lea Verou</a></li>
   <li class="recomendacion"><a href="http://webaim.org/resources/contrastchecker/">WebAIM Color Checker</a></li>
+  <li class="recomendacion"><a href="http://www.freedomscientific.com/JAWSHQ/JAWSHeadquarters01">Jaws Screen Reader</a></li>
+  <li class="recomendacion"><a href="https://support.microsoft.com/en-us/help/22798/windows-10-narrator-get-started">Narrator Screen Readers</a></li>
+  <li class="recomendacion"><a href="https://www.nvaccess.org/">NVA Screen Reader</a></li>
+  <li class="recomendacion"><a href="http://www.litersoft.org">Litersoft</a></li>
+  <li class="recomendacion"><a href="http://www.kastwey.org/programas/DAisyConverter/">DaisyConverter</a></li>
 </ul>
 
 ##### Recomendaciones de Nacho y Carmen

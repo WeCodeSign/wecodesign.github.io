@@ -25,6 +25,20 @@ title: "Acerca de nosotros"
 
 <div class="rule"></div>
 
+<h2 class="post-title  post-heading">Patrocinadores</h2>
+
+<div class="acerca__unit  clearfix">
+	<img class="acerca__portrait" src="/img/fictizia-zeta.svg" alt="Logo de Fictizia">
+	<div class="acerca__wrapper">
+		<h3 class="acerca__name">Fictizia</h3>
+		<div class="rule"></div>
+		<p><a href="http://fictizia.com/" target="_blank">FICTIZIA</a> es un centro de formación en Nuevas Tecnologías & Artes Digitales que tiene su base en Madrid.</p>
+		<p>En su área de Diseño interactivo y Desarrollo web encontramos planes de estudios de especialización en Diseño de interfaz, UX, tecnologías como HTML5, CSS, JavaScript, React, Angular, Node.js, Polymer, PHP o Python, entre otros, impartidos por especialistas a exclusivamente a 8 alumnos en cada edición de sus Cursos y Másters.</p>
+	</div>
+</div>
+
+<div class="rule"></div>
+
 <h2 class="post-title  post-heading">Contacto</h2>
 
 ### Escúcha el Podcast
