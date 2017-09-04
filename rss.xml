@@ -58,7 +58,77 @@
 
 
 
+    <item>
+      <title>2x06 - Accesibilidad Práctica</title>
+      <pubDate>Tue, 05 Jul 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h3>Descripcion del programa</h3>
 
+        <p>Juanjo Montiel es desarrollador .net, experto en accesibilidad y participa activamente en la fundación techdencias, donde cacharrea y divulga conocimiento tecnológico.</p>
+
+        <p>Nos hará de guía a través de ejemplos para mostrando los problemas a los que se tiene que enfrentar a diario lidiando con productos no accesibles, y lo sencillo que puede llegar a ser resolverlos.</p>
+
+        <p>¡Esperamos que os guste el episodio y como siempre nos vemos al final!</p>
+
+        <h3>Recomendaciones</h3>
+
+        <h3>Preguntas rápidas: Juanjo</h3>
+
+        <ul>
+          <li><span>Quién me ha inspirado: La gente que comparte conocimiento</span></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://olgacarreras.blogspot.com.es/">Blog de Olga Carreras</a></li>
+          <li><span>Recomiéndanos a un invitado o invitada: </span>Coces de grandes empresas que podría cambiar las cosas</li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: </span>Aprender CSS sin pantalla</li>
+        </ul>
+
+        <h3>Contacta con: Juanjo</h3>
+
+        <ul>
+          <li><a href="https://twitter.com/kastwey">Twitter de Juanjo</a></li>
+          <li><a href="http://www.kastwey.org/">Web de Juanjo</a></li>
+          <li><a href="https://www.programad.me/">Programad.me</a></li>
+        </ul>
+
+        <h3>Links del programa</h3>
+
+        <ul>
+          <li><a href="http://a11ddemo.juanjo.co/">Ejemplos de Juanjo sobre accesibilidad</a></li>
+          <li><a href="https://www.w3.org/WAI/intro/aria">WAI-ARIA</a></li>
+          <li><a href="http://leaverou.github.io/contrast-ratio/">Contrast Ratio by Lea Verou</a></li>
+          <li><a href="http://webaim.org/resources/contrastchecker/">WebAIM Color Checker</a></li>
+        </ul>
+
+        <h3>Recomendaciones de Nacho y Carmen</h3>
+
+        <ul>
+          <li><a href="http://a11yproject.com/">a11y Project</a></li>
+          <li><a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques">Using ARIA</a></li>
+          <li><a href="http://webaim.org/intro/#principles">Principles of Accessible Design</a></li>
+          <li><a href="https://www.youtube.com/watch?v=SlTDIQwa6EA">Charla de Juanjo en el FrontFest</a></li>
+        </ul>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/09/05/accesibilidad-practica/</link>
+        <guid>http://wecodesignpodcast.com/2017/09/05/accesibilidad-practica/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x06/WeCodeSign%202x06%20-%20Accesibilidad%20Pra%CC%81ctica.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>01:14:04</itunes:duration>
+        <itunes:keywords>Web, a11y, accesibilidad</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Mini 9 - Miedo al fracaso</title>
       <pubDate>Tue, 25 Jul 2017 18:30:00 GMT</pubDate>
@@ -79,6 +149,7 @@
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -164,6 +235,8 @@
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -197,6 +270,7 @@
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -273,6 +347,8 @@
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -306,6 +382,7 @@
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -375,6 +452,8 @@
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -408,6 +487,7 @@
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -491,6 +571,8 @@
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -524,6 +606,7 @@
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -601,6 +684,8 @@
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -634,6 +719,7 @@
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -708,6 +794,8 @@
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -741,6 +829,7 @@
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -817,6 +906,8 @@
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -850,6 +941,7 @@
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -991,6 +1083,8 @@
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -1024,6 +1118,7 @@
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -1113,6 +1208,7 @@
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -1184,6 +1280,8 @@
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -1278,6 +1376,8 @@
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -1348,6 +1448,8 @@
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -1434,6 +1536,8 @@
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
@@ -1515,6 +1619,8 @@
           <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
           <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
           <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
         </ul>
 
         ]]>
