@@ -17,3 +17,11 @@
 * html .clearfix { height: 1%; }
 .clearfix { display: block; }
 /* End hide from IE-mac */
+
+//
+// Reset UL list bullets and left padding
+//
+.reset-bullet {
+  padding-left: 0;
+  list-style-type: none;
+}

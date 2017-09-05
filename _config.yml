@@ -8,7 +8,7 @@ twitter_username: WeCodeSign
 # Build settings
 markdown: kramdown
 paginate_path: /blog/page:num
-paginate: 10
+paginate: 15
 permalink: pretty
 sass:
   style: :compressed
