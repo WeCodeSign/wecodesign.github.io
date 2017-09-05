@@ -54,9 +54,9 @@ title: "Acerca de nosotros"
 
 <div class="rule  rule--big"></div>
 
-<h2 class="post-title  post-heading">Escríbeme</h2>
+<h2 class="post-title  post-heading">Escribidnos</h2>
 
-Escríbeme al [Email](mailto:{{ site.email }}) del Podcast.
+Escribidnos al [Email](mailto:{{ site.email }}) del Podcast.
 
 <div class="acerca__unit">
 	<p>O contacta a través del siguiente formulario: </p>
