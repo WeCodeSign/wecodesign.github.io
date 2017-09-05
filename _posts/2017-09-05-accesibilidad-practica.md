@@ -48,7 +48,7 @@ Nos hará de guía a través de ejemplos para mostrando los problemas a los que 
 <ul>
   <li class="recomendacion"><span>Quién me ha inspirado: La gente que comparte conocimiento</span></li>
   <li class="recomendacion"><span>Recomiéndanos un recurso: </span><a href="https://olgacarreras.blogspot.com.es/">Blog de Olga Carreras</a></li>
-  <li class="recomendacion"><span>Recomiéndanos a un invitado o invitada: </span>Coces de grandes empresas que podría cambiar las cosas</li>
+  <li class="recomendacion"><span>Recomiéndanos a un invitado o invitada: </span>Voces de grandes empresas que podrían cambiar las cosas</li>
   <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span>Aprender CSS sin pantalla</li>
 </ul>
 
