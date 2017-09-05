@@ -23,10 +23,10 @@ layout: default
 
   <ul class="pagination">
     {% if paginator.previous_page %}
-      <li><a class="link" href="{{ paginator.previous_page_path }}"><span class="pagination__icon">◀</span> Anterior</a></li>
+      <li><a class="link" href="{{ paginator.previous_page_path }}">Anterior</a></li>
     {% endif %}
     {% if paginator.next_page %}
-      <li><a class="link" href="{{ paginator.next_page_path }}">Siguiente <span class="pagination__icon">►</span></a></li>
+      <li><a class="link" href="{{ paginator.next_page_path }}">Siguiente</a></li>
     {% endif %}
   </ul>
 

@@ -20,18 +20,6 @@
   }
 }
 
-//
-// Pagination icons
-// 1. Allow transforms
-// 2. Slightly scale down and re-position icon
-//
-.pagination__icon {
-  display: inline-block; // 1
-  -webkit-transform: scale(0.7) translateY(1px); // 2
-      -ms-transform: scale(0.7) translateY(1px); // 2
-          transform: scale(0.7) translateY(1px); // 2
-}
-
 .link {
   background-color: $mainColor;
   border-radius: 4px;
