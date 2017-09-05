@@ -15,9 +15,9 @@
 	-moz-osx-font-smoothing: grayscale;
 	overflow: hidden;
 
-	&:last-of-type {
-		margin: 0 auto calc(100px + 3%);
-	}
+	// &:last-of-type {
+	// 	margin: 0 auto calc(100px + 3%);
+	// }
 
 	.description {
 		position: relative;

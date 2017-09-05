@@ -12,7 +12,7 @@
     <title>WeCodeSign Podcast</title>
     <atom:link href="http://wecodesignpodcast.com/rss.xml" rel="self" type="application/rss+xml" /> 
     <link>http://wecodesignpodcast.com</link>
-    <description>El podcast de diseño, desarrollo front-end y UX semanal. Cada dos semanas invitamos a un reputado profesional del sector.
+    <description>El podcast de desarrollo front-end, diseño web y UX semanal.
     </description>
     <language>es-ES</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -26,8 +26,8 @@
         <title>WeCodeSign Podcast</title>
         <link>http://wecodesignpodcast.com</link>
     </image>
-    <itunes:subtitle>El podcast de diseño, desarrollo front-end y UX semanal.</itunes:subtitle>
-    <itunes:summary>El podcast de diseño, desarrollo front-end y UX semanal. Cada dos semanas invitamos a un reputado profesional del sector.</itunes:summary>
+    <itunes:subtitle>El podcast de desarrollo front-end, diseño web y UX semanal.</itunes:subtitle>
+    <itunes:summary>El podcast de desarrollo front-end, diseño web y UX semanal.</itunes:summary>
     <itunes:keywords>WeCodeSign, Diseño, Desarrollo, Web, Frontend, Front-end, UX, UI, webdesign, web, development, design</itunes:keywords> 
     <itunes:category text="Arts">
         <itunes:category text="Design"/>

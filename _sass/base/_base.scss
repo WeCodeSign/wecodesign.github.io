@@ -82,8 +82,8 @@ body {
 		padding: 0;
 	}
     
-    & ul {
-    	display: block;
+  & ul {
+    display: block;
 		display: -webkit-flex;
 		display: -ms-flexbox;
 		display: flex;
@@ -124,7 +124,7 @@ body {
 	}
 
 	& a {
-		padding: 11px auto;
+		display: inline-block;
 		color: $secondaryColor;
 		font-family: $secondaryFont;
 		font-size: 14px;
@@ -132,6 +132,7 @@ body {
 		font-weight: bold;
 		text-decoration: none;
 		text-transform: uppercase;
+		width: 100%;
 	}
 
 	& svg {
@@ -412,7 +413,7 @@ textarea {
 		margin-bottom: 6px;
 	}
 
-	& a {
+	& .more {
 		float: right;
 		color: $secondaryColor;
 		font-family: $secondaryFont;
