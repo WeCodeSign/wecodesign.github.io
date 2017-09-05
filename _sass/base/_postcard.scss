@@ -121,3 +121,34 @@
 		}
 	}
 }
+
+
+.blog-card--warning {
+	height: auto;
+}
+
+.warning-text {
+	margin: 0;
+	padding: 10px;
+	text-align: center;
+
+	a {
+		display: block;
+		background-color: $mainColor;
+		border-radius: 4px;
+		margin: 0 auto;
+		max-width: 180px;
+		color: $white;
+		font-family: $secondaryFont;
+		font-size: 12px;
+		font-size: 0.75rem;
+		font-weight: bold;
+		padding: 10px;
+		text-decoration: none;
+		text-transform: uppercase;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}

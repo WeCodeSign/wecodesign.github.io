@@ -31,6 +31,16 @@ Nos hará de guía a través de ejemplos para mostrando los problemas a los que 
 
 <div class="rule"></div>
 
+<h3 class="post-title  post-heading">¿Queréis participar?</h3>
+
+<p>¿Queréis participar y ayudarnos a decidir que grabar en WeCodeSign y proponer invitad@s?</p>
+
+<ul>
+  <li class="recomendacion"><a href="https://github.com/WeCodeSign/nuevos-episodios-e-invitades">Aquí podéis participar en WeCodeSign.</a></li>
+</ul>
+
+<div class="rule"></div>
+
 <h3 class="post-title  post-heading">Recomendaciones</h3>
 
 ##### Preguntas rápidas: Juanjo
