@@ -57,7 +57,40 @@
 
 
 
+    <item>
+      <title>Mini 10 - Empresas unicornio</title>
+      <pubDate>Tue, 12 Sep 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h3>Descripcion del programa</h3>
 
+        <p>WeCodeSign Mini 10</p>
+
+        <p>¿Queréis saber de que hablamos en este episodio? Dadle al play ;)</p>
+
+        <h3>Contacta con el programa</h3>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/09/12/mini-10/</link>
+        <guid>http://wecodesignpodcast.com/2017/09/12/mini-10/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-Mini-10/WeCodeSign%20Mini%2010%20-%20Empresas%20Unicornio.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>00:13:45</itunes:duration>
+        <itunes:keywords>Frontend, UX, Web</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
     <item>
       <title>2x06 - Accesibilidad Práctica</title>
       <pubDate>Tue, 05 Sep 2017 18:30:00 GMT</pubDate>
