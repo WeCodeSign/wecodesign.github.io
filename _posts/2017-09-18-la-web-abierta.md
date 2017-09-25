@@ -72,6 +72,7 @@ Con él hablaremos sobre la neutralidad en la red, principio que sienta las base
   <li class="recomendacion"><a href="https://mastodon.social/about">Mastodon</a></li>
   <li class="recomendacion"><a href="https://micro.blog/">Micro.blog</a></li>
   <li class="recomendacion"><a href="https://en.m.wikipedia.org/wiki/Aaron_Swartz">Aaron Swartz</a></li>
+  <li class="recomendacion"><a href="https://internetfreedomfestival.org/">Internet Freedom Festival</a></li>
 </ul>
 
 ##### Recomendaciones de Nacho y Carmen
