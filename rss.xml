@@ -60,7 +60,118 @@
 
 
 
+    <item>
+      <title>2x08 - Progressive Web Apps</title>
+      <pubDate>Tue, 02 Oct 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h3>Descripcion del programa</h3>
 
+        <p>José Manuel es ingeniero de software, trabaja como desarrollador web en Estocolmo para Spotify. Especializado en web performance optimization, SEO y accesibilidad.</p>
+
+        <p>Con él nos adentraremos en el mundo de las Progressive Web Apps, y veremos como gracias al nuevo Catálogo de Apis podemos realizar acciones tales como notificaciones push, almacenamiento local y ejecución offline entre muchas otras.</p>
+
+        <p>¡Esperamos que os guste el episodio y como siempre nos vemos al final!</p>
+
+        <h3>¿Queréis participar?</h3>
+
+        <p>¿Queréis participar y ayudarnos a decidir que grabar en WeCodeSign y proponer invitad@s?</p>
+
+        <ul>
+          <li><a href="https://github.com/WeCodeSign/nuevos-episodios-e-invitades">Aquí podéis participar en WeCodeSign.</a></li>
+        </ul>
+
+        <h3>Recomendaciones</h3>
+
+        <h3>Preguntas rápidas: José Manuel</h3>
+
+        <ul>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/manquismo">Alberto</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/davideme">Davide Mendolia</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/felipernb">Felipe Ribeiro</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/souders/">Steve Souders</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/slicknet">Nicholas C. Zakas</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/addyosmani">Addy Osmani</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/dan_abramov">Dan Abramov</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/stoyanstefanov">Stoyan Stefanov</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://frontendfoc.us/">Frontend Focus</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="http://javascriptweekly.com/">JavaScript Weekly</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://www.youtube.com/playlist?list=PLNYkxOF6rcICniLJ2rfj0FexlA-9zmJJE">Chrome and Web at Google I/O 2017</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA">JS Conf</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://css-tricks.com/">CSS-Tricks</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://www.smashingmagazine.com/">Smashing Magazine</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://hpbn.co/">High Performance Browser Networking</a></li>
+          <li><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/thespite">Jaume Sanchez Elias</a></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: Web Performance</span></li>
+        </ul>
+
+        <h3>Contacta con: José Manuel</h3>
+
+        <ul>
+          <li><a href="https://twitter.com/jmperezperez">Twitter de José Manuel</a></li>
+          <li><a href="https://jmperezperez.com/">Web de José Manuel</a></li>
+        </ul>
+
+        <h3>Links del programa</h3>
+
+        <ul>
+          <li><a href="https://twitter.com/slightlylate/status/879458731519389697">Hilo sobre cómo aparecieron las PWA, por Alex Russell</a></li>
+          <li><a href="https://www.youtube.com/watch?v=m-sCdS0sQO8">Progressive Web Apps: Great Experiences Everywhere (Google I/O '17)</a></li>
+          <li><a href="https://www.youtube.com/watch?v=aCMbSyngXB4">Production Progressive Web Apps With JavaScript Frameworks (Google I/O '17)</a></li>
+          <li><a href="https://pwa-directory.appspot.com/">PWA Directory</a></li>
+          <li><a href="https://pwa.rocks/">Progressive Web Apps</a></li>
+          <li><a href="https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/">La guía sin conexión by Jake Archibald</a></li>
+          <li><a href="https://serviceworke.rs/">The Service Worker Cookbook</a></li>
+          <li><a href="https://github.com/GoogleChromeLabs/sw-toolbox">Service Worker Tools</a></li>
+          <li><a href="https://github.com/GoogleChromeLabs/sw-precache">Service Worker Pre Cache</a></li>
+          <li><a href="https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/">Tu primera Progressive Web App by Pete LaPage</a></li>
+          <li><a href="http://shop.oreilly.com/product/0636920052067.do">Building Progressive Web Apps</a></li>
+          <li><a href="https://deanhume.com/home/blogpost/a-big-list-of-progressive-web-app-tips-and-tricks/10160">A big list of progressive web app tips and tricks</a></li>
+          <li><a href="https://channel9.msdn.com/events/Build/2017/C9R04">The State of Progressive Web Apps</a></li>
+          <li><a href="https://css-tricks.com/production-progressive-web-apps-javascript-frameworks/">Production Progressive Web Apps with JavaScript Frameworks</a></li>
+          <li><a href="https://www.campusmvp.es/recursos/post/Que-son-las-Aplicaciones-Web-Progresivas-o-Progressive-Web-Apps.aspx">Qué son las Aplicaciones Web Progresivas o "Progressive Web Apps"</a></li>
+          <li><a href="https://codigofacilito.com/articulos/progressive-apps">Progressive web apps</a></li>
+          <li><a href="https://docs.google.com/presentation/d/1Jh8EWmFQbOTuVAG30pe5Vpb5sDbLsrr1IzaZQbJsg_Q/edit#slide=id.p">PWA: Para Webs Asombrosas</a></li>
+        </ul>
+
+        <h3>Recomendaciones de Ignacio y Carmen</h3>
+
+        <ul>
+          <li><a href="https://cloudfour.com/thinks/progressive-web-app-questions/">Progressive Web App questions</a></li>
+          <li><a href="https://developers.google.com/web/progressive-web-apps/checklist">Progressive Web App Checklist</a></li>
+          <li><a href="https://www.timmykokke.com/2017/06/the-pwa-resource-list/">The PWA Resource list</a></li>
+          <li><a href="https://github.com/GoogleChrome/lighthouse">Lighthouse</a></li>
+        </ul>
+
+        <h3>Patrocinadores</h3>
+
+        <ul>
+          <li><a href="http://fictizia.com/">Fictizia.com</a></li>
+        </ul>
+
+        <h3>Contacta con Ignacio y Carmen</h3>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/09/19/la-web-abierta/</link>
+        <guid>http://wecodesignpodcast.com/2017/09/19/la-web-abierta/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x07/WeCodeSign%202x07%20-%20La%20Web%20Abierta.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>01:02:11</itunes:duration>
+        <itunes:keywords>Web</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Mini 11 - Novedades</title>
       <pubDate>Tue, 26 Sep 2017 18:30:00 GMT</pubDate>
@@ -161,7 +272,7 @@
           <li><a href="https://internetfreedomfestival.org/">Internet Freedom Festival</a></li>
         </ul>
 
-        <h3>Recomendaciones de Nacho y Carmen</h3>
+        <h3>Recomendaciones de Ignacio y Carmen</h3>
 
         <ul>
           <li><a href="https://ciudadanob.com/blog/2017/04/24/defender-la-web-abierta-5-reflexiones-mejorar-futuro/">¿Por qué defender la web abierta? 5 reflexiones para mejorar nuestro futuro</a></li>
