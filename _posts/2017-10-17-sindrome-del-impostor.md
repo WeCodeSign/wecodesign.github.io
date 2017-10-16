@@ -11,11 +11,11 @@ tags:
   - SindromeDelImpostor
 ---
 
-<audio src="http://www.podtrac.com/pts/archive.org/download/WCD-2x09/WeCodeSign%202x09%20-%20Sindrome%20del%20Impostor.mp3" preload="auto" controls style="width: 100%;">
+<audio src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x09/WeCodeSign%202x09%20-%20Sindrome%20del%20Impostor.mp3" preload="auto" controls style="width: 100%;">
   <p>Tu navegador no implementa el elemento audio</p>
 </audio>
 
-<p>Descargar Audio: <a href="http://www.podtrac.com/pts/archive.org/download/WCD-2x09/WeCodeSign%202x09%20-%20Sindrome%20del%20Impostor.mp3" title="Botón derecho del ratón, luego guardar enlace como...">Episodio 2x09 - Síndrome del Impostor</a></p>
+<p>Descargar Audio: <a href="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x09/WeCodeSign%202x09%20-%20Sindrome%20del%20Impostor.mp3" title="Botón derecho del ratón, luego guardar enlace como...">Episodio 2x09 - Síndrome del Impostor</a></p>
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 
