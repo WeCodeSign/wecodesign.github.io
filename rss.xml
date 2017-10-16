@@ -59,7 +59,106 @@
 
 
 
+    <item>
+      <title>2x09 - El Síndrome del Impostor</title>
+      <pubDate>Tue, 17 Oct 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h3>Descripcion del programa</h3>
 
+        <p>¿Has tenido la sensación de que no sabes nada? En esta ocasión hablaremos sobre ello, es el Síndrome del Impostor.</p>
+
+        <p>A todos nos ha ocurrido que tenemos miedos y no sabemos como avanzar.</p>
+
+        <p>¡Esperamos que os guste el episodio y como siempre nos vemos al final!</p>
+
+        <h3>¿Queréis participar?</h3>
+
+        <p>¿Queréis participar y ayudarnos a decidir que grabar en WeCodeSign y proponer invitad@s?</p>
+
+        <ul>
+          <li><a href="https://github.com/WeCodeSign/nuevos-episodios-e-invitades">Aquí podéis participar en WeCodeSign.</a></li>
+        </ul>
+
+        <h3>Recomendaciones</h3>
+
+        <h3>Preguntas rápidas: Cristina Fernández y Elena Torró</h3>
+
+        <ul>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/LUREKA_es">Emilio Rodríguez</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/nabaroa">Naiara Abaroa</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/karesti">Katia Aresti</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/cataflu">Cata</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://masde140.com/">Foro Más de 140</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://belenalbeza.com/">Blog de Belén Albeza</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://mujertech.womenalia.com/">Womenalia</a></li>
+          <li><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/jdonsan">José Dongil</a></li>
+          <li><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/smorcuende">Susana Morcuende</a></li>
+          <li><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/alexjoverm">Alex Jover Morales</a></li>
+          <li><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/chucheria">B.</a></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: </span>Mejorar como programador</li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: </span>Testing en el frontend</li>
+        </ul>
+
+        <h3>Contacta con: Cristina Fernández y Elena Torró</h3>
+
+        <ul>
+          <li><a href="https://twitter.com/cristinafsanz">Twitter de Cristina</a></li>
+          <li><a href="http://cristinafsanz.github.io/projects/">Blog de Cristina</a></li>
+          <li><a href="https://twitter.com/eletorro">Twitter de Elena</a></li>
+          <li><a href="https://elenatorro.github.io/">Blog de Elena</a></li>
+        </ul>
+
+        <h3>Links del programa</h3>
+
+        <ul>
+          <li><a href="https://twitter.com/codeontherocks">Code on The Rocks</a></li>
+          <li><a href="https://www.codesai.com">Codesai</a></li>
+          <li><a href="http://2017.jsday.es/">JSDay</a></li>
+          <li><a href="https://www.meetup.com/es-ES/Murcia-Frontend/">Murcia Front-end</a></li>
+          <li><a href="https://www.todojs.com/redux-traves-la-musica-elena-torro/">Redux a través de la música</a></li>
+          <li><a href="https://twitter.com/SaraSoueidan">Sara Soueidan</a></li>
+          <li><a href="https://www.gitbook.com/@jdonsan">Desarrolla aplicaciones con VueJS</a></li>
+          <li><a href="https://www.youtube.com/watch?v=nCPAFcMf8qc">Refactoring Legacy CSS</a></li>
+          <li><a href="https://codepen.io/SoyEva">CodePen de Eva</a></li>
+          <li><a href="https://twitter.com/etnassoft">Carlos Benítez</a></li>
+          <li><a href="https://twitter.com/cristinafsanz/status/885603529167130624">Hilo Twitter Cristina</a></li>
+          <li><a href="https://twitter.com/buenapava/status/850003345976823813">Hilo Twitter Marina</a></li>
+          <li><a href="https://twitter.com/AdaLab_Digital">Adalab</a></li>
+        </ul>
+
+        <h3>Recomendaciones de Nacho y Carmen</h3>
+
+        <ul>
+          <li><a href="https://www.ted.com/playlists/503/fighting_impostor_syndrome">Fighting impostor syndrome</a></li>
+          <li><a href="https://www.sitepoint.com/recognizing-dealing-impostor-syndrome/">Recognizing and Dealing with Impostor Syndrome</a></li>
+          <li><a href="https://davidwalsh.name/impostor-syndrome">I’m an Impostor</a></li>
+          <li><a href="https://www.codenewbie.org/podcast/impostor-syndrome">Impostor Syndrome</a></li>
+        </ul>
+
+        <h3>Contacta con Ignacio y Carmen</h3>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/10/17/sindrome-del-impostor/</link>
+        <guid>http://wecodesignpodcast.com/2017/10/17/sindrome-del-impostor/</guid>
+        <enclosure url="http://www.podtrac.com/pts/archive.org/download/WCD-2x09/WeCodeSign%202x09%20-%20Sindrome%20del%20Impostor.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>01:25:52</itunes:duration>
+        <itunes:keywords>Web</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+    </item>
     <item>
       <title>2x08 - Progressive Web Apps</title>
       <pubDate>Tue, 02 Oct 2017 18:30:00 GMT</pubDate>
