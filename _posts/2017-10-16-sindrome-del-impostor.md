@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Síndrome del Impostor"
-excerpt: "."
+excerpt: "Hablamos con Cristina Fernández y Elena Torró sobre el Síndrome del Impostor."
 podcast_number: "WCD 2x09"
 podcast_date: "Octubre 17, 2017"
 podcast_duration: "01:25:52"
@@ -19,6 +19,9 @@ tags:
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 
+¿Has tenido la sensación de que no sabes nada? En esta ocasión hablaremos sobre ello, es el Síndrome del Impostor.
+
+A todos nos ha ocurrido que tenemos miedos y no sabemos como avanzar.
 
 
 ¡Esperamos que os guste el episodio y como siempre nos vemos al final!
@@ -56,12 +59,15 @@ tags:
   <li class="recomendacion"><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/alexjoverm">Alex Jover Morales</a></li>
   <li class="recomendacion"><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/chucheria">B.</a></li>
   <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span>Mejorar como programador</li>
-  <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span></li>
+  <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span>Testing en el frontend</li>
 </ul>
 
 ##### Contacta con: Cristina Fernández y Elena Torró
 
 <ul>
+  <li class="recomendacion"><a href="https://twitter.com/cristinafsanz">Twitter de Cristina</a></li>
+  <li class="recomendacion"><a href="http://cristinafsanz.github.io/projects/">Blog de Cristina</a></li>
+  <li class="recomendacion"><a href="https://twitter.com/eletorro">Twitter de Elena</a></li>
   <li class="recomendacion"><a href="https://elenatorro.github.io/">Blog de Elena</a></li>
 </ul>
 
@@ -86,8 +92,8 @@ tags:
 ##### Recomendaciones de Nacho y Carmen
 
 <ul>
-  <li class="recomendacion"><a href=""></a></li>
-  <li class="recomendacion"><a href=""></a></li>
-  <li class="recomendacion"><a href=""></a></li>
-  <li class="recomendacion"><a href=""></a></li>
+  <li class="recomendacion"><a href="https://www.ted.com/playlists/503/fighting_impostor_syndrome">Fighting impostor syndrome</a></li>
+  <li class="recomendacion"><a href="https://www.sitepoint.com/recognizing-dealing-impostor-syndrome/">Recognizing and Dealing with Impostor Syndrome</a></li>
+  <li class="recomendacion"><a href="https://davidwalsh.name/impostor-syndrome">I’m an Impostor</a></li>
+  <li class="recomendacion"><a href="https://www.codenewbie.org/podcast/impostor-syndrome">Impostor Syndrome</a></li>
 </ul>
