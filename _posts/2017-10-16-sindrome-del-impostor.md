@@ -53,20 +53,25 @@ tags:
 ##### Contacta con: Cristina Fernández y Elena Torró
 
 <ul>
-  <li class="recomendacion"><a href=""></a></li>
+  <li class="recomendacion"><a href="https://elenatorro.github.io/">Blog de Elena</a></li>
 </ul>
 
 ##### Links del programa
 
 <ul>
-  <li class="recomendacion"><a href=""></a></li>
-  <li class="recomendacion"><a href=""></a></li>
-  <li class="recomendacion"><a href=""></a></li>
-  <li class="recomendacion"><a href=""></a></li>
-  <li class="recomendacion"><a href=""></a></li>
-  <li class="recomendacion"><a href=""></a></li>
-  <li class="recomendacion"><a href=""></a></li>
-  <li class="recomendacion"><a href=""></a></li>
+  <li class="recomendacion"><a href="https://twitter.com/codeontherocks">Code on The Rocks</a></li>
+  <li class="recomendacion"><a href="https://www.codesai.com">Codesai</a></li>
+  <li class="recomendacion"><a href="http://2017.jsday.es/">JSDay</a></li>
+  <li class="recomendacion"><a href="https://www.meetup.com/es-ES/Murcia-Frontend/">Murcia Front-end</a></li>
+  <li class="recomendacion"><a href="https://www.todojs.com/redux-traves-la-musica-elena-torro/">Redux a través de la música</a></li>
+  <li class="recomendacion"><a href="https://twitter.com/SaraSoueidan">Sara Soueidan</a></li>
+  <li class="recomendacion"><a href="https://www.gitbook.com/@jdonsan">Desarrolla aplicaciones con VueJS</a></li>
+  <li class="recomendacion"><a href="https://www.youtube.com/watch?v=nCPAFcMf8qc">Refactoring Legacy CSS</a></li>
+  <li class="recomendacion"><a href="https://codepen.io/SoyEva">CodePen de Eva</a></li>
+  <li class="recomendacion"><a href="https://twitter.com/etnassoft">Carlos Benítez</a></li>
+  <li class="recomendacion"><a href="https://twitter.com/cristinafsanz/status/885603529167130624">Hilo Twitter Cristina</a></li>
+  <li class="recomendacion"><a href="https://twitter.com/buenapava/status/850003345976823813">Hilo Twitter Marina</a></li>
+  <li class="recomendacion"><a href="https://twitter.com/AdaLab_Digital">Adalab</a></li>
   <li class="recomendacion"><a href=""></a></li>
   <li class="recomendacion"><a href=""></a></li>
 </ul>
