@@ -44,9 +44,18 @@ tags:
 ##### Preguntas rápidas: Cristina Fernández y Elena Torró
 
 <ul>
-  <li class="recomendacion"><span>Quién me ha inspirado: </span><a href=""></a></li>
-  <li class="recomendacion"><span>Recomiéndanos un recurso: </span><a href=""></a></li>
-  <li class="recomendacion"><span>Recomiéndanos a un invitado o invitada: </span><a href=""></a></li>
+  <li class="recomendacion"><span>Quién me ha inspirado: </span><a href="https://twitter.com/LUREKA_es">Emilio Rodríguez</a></li>
+  <li class="recomendacion"><span>Quién me ha inspirado: </span><a href="https://twitter.com/nabaroa">Naiara Abaroa</a></li>
+  <li class="recomendacion"><span>Quién me ha inspirado: </span><a href="https://twitter.com/karesti">Katia Aresti</a></li>
+  <li class="recomendacion"><span>Quién me ha inspirado: </span><a href="https://twitter.com/cataflu">Cata</a></li>
+  <li class="recomendacion"><span>Recomiéndanos un recurso: </span><a href="https://masde140.com/">Foro Más de 140</a></li>
+  <li class="recomendacion"><span>Recomiéndanos un recurso: </span><a href="https://belenalbeza.com/">Blog de Belén Albeza</a></li>
+  <li class="recomendacion"><span>Recomiéndanos un recurso: </span><a href="https://mujertech.womenalia.com/">Womenalia</a></li>
+  <li class="recomendacion"><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/jdonsan">José Dongil</a></li>
+  <li class="recomendacion"><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/smorcuende">Susana Morcuende</a></li>
+  <li class="recomendacion"><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/alexjoverm">Alex Jover Morales</a></li>
+  <li class="recomendacion"><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/chucheria">B.</a></li>
+  <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span>Mejorar como programador</li>
   <li class="recomendacion"><span>¿Qué tema te gustaría que tratásemos?: </span></li>
 </ul>
 
@@ -72,8 +81,6 @@ tags:
   <li class="recomendacion"><a href="https://twitter.com/cristinafsanz/status/885603529167130624">Hilo Twitter Cristina</a></li>
   <li class="recomendacion"><a href="https://twitter.com/buenapava/status/850003345976823813">Hilo Twitter Marina</a></li>
   <li class="recomendacion"><a href="https://twitter.com/AdaLab_Digital">Adalab</a></li>
-  <li class="recomendacion"><a href=""></a></li>
-  <li class="recomendacion"><a href=""></a></li>
 </ul>
 
 ##### Recomendaciones de Nacho y Carmen
