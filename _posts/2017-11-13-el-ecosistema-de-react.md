@@ -4,21 +4,23 @@ title: "El ecositema de React"
 excerpt: "José Miguel, nos cuenta desde Helsinki como trabaja con React y habla sobre su ecosistema."
 podcast_number: "WCD 2x11"
 podcast_date: "Noviembre 13, 2017"
-podcast_duration: "01:02:27"
+podcast_duration: "01:00:00"
 image_url: /img/fondo2x11.jpg
 tags: 
   - React
 ---
 
-<audio src="http://www.podtrac.com/pts/redirect.mp3/" preload="auto" controls style="width: 100%;">
+<audio src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-11-React/WeCodeSign%202x11%20-%20El%20ecosistema%20de%20React.mp3" preload="auto" controls style="width: 100%;">
   <p>Tu navegador no implementa el elemento audio</p>
 </audio>
 
-<p>Descargar Audio: <a href="http://www.podtrac.com/pts/redirect.mp3/" title="Botón derecho del ratón, luego guardar enlace como...">Episodio 2x11 - El ecositema de React</a></p>
+<p>Descargar Audio: <a href="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-11-React/WeCodeSign%202x11%20-%20El%20ecosistema%20de%20React.mp3" title="Botón derecho del ratón, luego guardar enlace como...">Episodio 2x11 - El ecositema de React</a></p>
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 
+Hoy entrevistamso a José Miguel Bejarano, donde nos cuenta desde Helsinki como trabaja con React y habla sobre su ecosistema.
 
+Nos habla sobre su experiencia trabajando con React, las novedades de React Fiber (v16) y que ventajas tiene sobre otros frameworks.
 
 ¡Esperamos que os guste el episodio y como siempre nos vemos al final!
  
