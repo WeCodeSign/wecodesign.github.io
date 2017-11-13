@@ -3,7 +3,7 @@ layout: post
 title: "El ecositema de React"
 excerpt: "José Miguel, nos cuenta desde Helsinki como trabaja con React y habla sobre su ecosistema."
 podcast_number: "WCD 2x11"
-podcast_date: "Noviembre 13, 2017"
+podcast_date: "Noviembre 14, 2017"
 podcast_duration: "01:00:00"
 image_url: /img/fondo2x11.jpg
 tags: 
