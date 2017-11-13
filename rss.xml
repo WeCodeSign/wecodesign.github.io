@@ -59,6 +59,111 @@
 
 
 
+
+
+
+
+
+
+
+    <item>
+      <title>2x11 - El ecosistema de React</title>
+      <pubDate>Tue, 14 Nov 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+
+        <h3>¿Queréis participar?</h3>
+
+        <p>¿Queréis participar y ayudarnos a decidir que grabar en WeCodeSign y proponer invitad@s?</p>
+
+        <h3>Descripcion del programa</h3>
+
+        <p>Hoy entrevistamso a José Miguel Bejarano, donde nos cuenta desde Helsinki como trabaja con React y habla sobre su ecosistema.</p>
+
+        <p>Nos habla sobre su experiencia trabajando con React, las novedades de React Fiber (v16) y que ventajas tiene sobre otros frameworks.</p>
+
+        <p>¡Esperamos que os guste el episodio y como siempre nos vemos al final!</p>
+
+        <h3>¿Queréis participar?</h3>
+
+        <p>¿Queréis participar y ayudarnos a decidir que grabar en WeCodeSign y proponer invitad@s?</p>
+
+        <ul>
+          <li><a href="https://github.com/WeCodeSign/nuevos-episodios-e-invitades">Aquí podéis participar en WeCodeSign.</a></li>
+        </ul>
+
+        <h3>Recomendaciones</h3>
+
+        <h3>Preguntas rápidas: José Miguel </h3>
+
+        <ul>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/mxstbr">Max Stoiber</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://blog.hichroma.com/tagged/react">Chroma</a></li>
+          <li><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/javivelasco">Javi Velasco</a></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: Debate de Frameworks</span></li>
+        </ul>
+
+        <h3>Contacta con: José Miguel </h3>
+
+        <ul>
+          <li><a href="https://twitter.com/xDae">Twitter de José Miguel</a></li>
+          <li><a href="https://github.com/xdae">Github de José Miguel</a></li>
+          <li><a href="http://cursoreact.com/">Curso de React de José Miguel</a></li>
+        </ul>
+
+        <h3>Links del programa</h3>
+
+        <ul>
+          <li><a href="https://frontendlabs.io/3158--react-js-espanol-tutorial-basico-primeros-pasos-ejemplos">Primeros pasos con React</a></li>
+          <li><a href="http://www.discoversdk.com/compare/react-vs-angularjs#/product-comparisons">React vs AngularJS</a></li>
+          <li><a href="https://edgecoders.com/react-16-features-and-fiber-explanation-e779544bb1b7">What’s New in React 16 and Fiber Explanation</a></li>
+          <li><a href="https://code.facebook.com/posts/1716776591680069/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library/">React 16: A look inside an API-compatible rewrite of our frontend UI library</a></li>
+          <li><a href="https://reactjs.org/blog/2017/09/26/react-v16.0.html">React v16.0</a></li>
+          <li><a href="https://twitter.com/reactjs/status/911347634069168128">We're relicensing React, Jest, Flow, and Immutable.js under the MIT license.</a></li>
+          <li><a href="https://code.facebook.com/posts/121714468491809/relicensing-the-graphql-specification/">Relicensing the GraphQL specification</a></li>
+          <li><a href="https://www.sitepoint.com/react-router-v4-complete-guide/">React Router v4: The Complete Guide</a></li>
+          <li><a href="https://twitter.com/_ericelliott/status/782301875034923008">Using React? Would you use it again?</a></li>
+          <li><a href="https://redux.js.org/">Redux</a></li>
+          <li><a href="https://twitter.com/dan_abramov">Dan Abramov</a></li>
+          <li><a href="https://facebook.github.io/jest/docs/en/snapshot-testing.html">Snapshot Testing</a></li>
+          <li><a href="https://www.youtube.com/watch?v=0iAsmd9v74o">React 16 Overview of the newest features (Part 1)</a></li>
+          <li><a href="https://www.youtube.com/watch?v=hjx4qGKRr1U">React 16 Overview of the newest features (Part 2)
+        </a></li>
+          <li><a href="https://github.com/MicheleBertoli/css-in-js">React: CSS in JS techniques comparison</a></li>
+        </ul>
+
+        <h3>Recomendaciones de Nacho y Carmen</h3>
+
+        <ul>
+          <li><a href="https://facebook.github.io/react-native/">React Native</a></li>
+          <li><a href="https://github.com/facebook/react-devtools">React DevTools</a></li>
+          <li><a href="https://www.genbetadev.com/desarrollo-web/creacion-de-aplicaciones-react-the-agile-way">React: "The agile way"</a></li>
+          <li><a href="https://codigofacilito.com/cursos/curso-gratis-de-react">Curso gratis de React</a></li>
+        </ul>
+
+        <h3>Contacta con Ignacio y Carmen</h3>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/11/14/el-ecosistema-de-react/</link>
+        <guid>http://wecodesignpodcast.com/2017/11/14/el-ecosistema-de-react/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-11-React/WeCodeSign%202x11%20-%20El%20ecosistema%20de%20React.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>01:00:00</itunes:duration>
+        <itunes:keywords>Frontend, UX, Web</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>2x10 - La W3C</title>
       <pubDate>Tue, 31 Oct 2017 18:30:00 GMT</pubDate>
@@ -87,8 +192,6 @@
         <ul>
           <li><a href="https://github.com/WeCodeSign/nuevos-episodios-e-invitades">Aquí podéis participar en WeCodeSign.</a></li>
         </ul>
-
-        <div class="rule"></div>
 
         <h3>Recomendaciones</h3>
 
@@ -166,7 +269,7 @@
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x10/WeCodeSign+2x10+-+La+W3C.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:02:27</itunes:duration>
-        <itunes:keywords>Web</itunes:keywords>
+        <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
         <itunes:explicit>no</itunes:explicit>
     </item>
@@ -266,7 +369,7 @@
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x09/WeCodeSign%202x09%20-%20Sindrome%20del%20Impostor.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:25:52</itunes:duration>
-        <itunes:keywords>Web</itunes:keywords>
+        <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
         <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -378,7 +481,7 @@
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x08/WeCodeSign%202x08%20-%20Progressive%20Web%20Apps.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:02:11</itunes:duration>
-        <itunes:keywords>Web</itunes:keywords>
+        <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
         <itunes:explicit>no</itunes:explicit>
     </item>
@@ -444,8 +547,6 @@
         <ul>
           <li><a href="https://github.com/WeCodeSign/nuevos-episodios-e-invitades">Aquí podéis participar en WeCodeSign.</a></li>
         </ul>
-
-        <div class="rule"></div>
 
         <h3>Recomendaciones</h3>
 
@@ -516,7 +617,7 @@
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x07/WeCodeSign%202x07%20-%20La%20Web%20Abierta.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:02:11</itunes:duration>
-        <itunes:keywords>Web</itunes:keywords>
+        <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
         <itunes:explicit>no</itunes:explicit>
     </item>
@@ -866,7 +967,7 @@
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x04/WeCodeSign%202x04%20-%20Mobile%20First.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:32:00</itunes:duration>
-        <itunes:keywords>Web</itunes:keywords>
+        <itunes:keywords>Frontend, UX, Web</itunes:keywords>
         <itunes:author>WeCodeSign Podcast</itunes:author>
         <itunes:explicit>yes</itunes:explicit>
     </item>
