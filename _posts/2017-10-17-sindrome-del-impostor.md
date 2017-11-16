@@ -96,3 +96,9 @@ A todos nos ha ocurrido que tenemos miedos y no sabemos como avanzar.
   <li class="recomendacion"><a href="https://davidwalsh.name/impostor-syndrome">I’m an Impostor</a></li>
   <li class="recomendacion"><a href="https://www.codenewbie.org/podcast/impostor-syndrome">Impostor Syndrome</a></li>
 </ul>
+
+##### Patrocinadores
+
+<ul>
+  <li class="recomendacion"><a href="http://fictizia.com/">Fictizia.com</a></li>
+</ul>

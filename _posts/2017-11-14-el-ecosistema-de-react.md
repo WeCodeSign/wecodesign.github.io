@@ -88,3 +88,9 @@ Nos habla sobre su experiencia trabajando con React, las novedades de React Fibe
   <li class="recomendacion"><a href="https://www.genbetadev.com/desarrollo-web/creacion-de-aplicaciones-react-the-agile-way">React: "The agile way"</a></li>
   <li class="recomendacion"><a href="https://codigofacilito.com/cursos/curso-gratis-de-react">Curso gratis de React</a></li>
 </ul>
+
+##### Patrocinadores
+
+<ul>
+  <li class="recomendacion"><a href="http://fictizia.com/">Fictizia.com</a></li>
+</ul>

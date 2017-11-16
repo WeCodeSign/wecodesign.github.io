@@ -82,3 +82,9 @@ Nos hará de guía a través de ejemplos para mostrando los problemas a los que 
   <li class="recomendacion"><a href="http://webaim.org/intro/#principles">Principles of Accessible Design</a></li>
   <li class="recomendacion"><a href="https://www.youtube.com/watch?v=SlTDIQwa6EA">Charla de Juanjo en el FrontFest</a></li>
 </ul>
+
+##### Patrocinadores
+
+<ul>
+  <li class="recomendacion"><a href="http://fictizia.com/">Fictizia.com</a></li>
+</ul>

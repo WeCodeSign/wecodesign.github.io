@@ -102,3 +102,9 @@ Con él nos adentraremos en el mundo de las Progressive Web Apps, y veremos como
   <li class="recomendacion"><a href="https://www.timmykokke.com/2017/06/the-pwa-resource-list/">The PWA Resource list</a></li>
   <li class="recomendacion"><a href="https://github.com/GoogleChrome/lighthouse">Lighthouse</a></li>
 </ul>
+
+##### Patrocinadores
+
+<ul>
+  <li class="recomendacion"><a href="http://fictizia.com/">Fictizia.com</a></li>
+</ul>

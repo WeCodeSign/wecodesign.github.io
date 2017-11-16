@@ -83,3 +83,9 @@ Con él hablaremos sobre la neutralidad en la red, principio que sienta las base
   <li class="recomendacion"><a href="https://www.mozilla.org/es-ES/about/manifesto/">El manifiesto de Mozilla</a></li>
   <li class="recomendacion"><a href="https://www.sitepoint.com/why-net-neutrality-matters/">What is Net Neutrality</a></li>
 </ul>
+
+##### Patrocinadores
+
+<ul>
+  <li class="recomendacion"><a href="http://fictizia.com/">Fictizia.com</a></li>
+</ul>
