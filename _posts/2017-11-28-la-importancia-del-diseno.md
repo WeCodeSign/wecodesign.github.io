@@ -10,11 +10,11 @@ tags:
   - Diseño
 ---
 
-<audio src="http://www.podtrac.com/pts/redirect.mp3/" preload="auto" controls style="width: 100%;">
+<audio src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x12/WeCodeSign%202x12%20-%20El%20Valor%20del%20Disen%CC%83o.mp3" preload="auto" controls style="width: 100%;">
   <p>Tu navegador no implementa el elemento audio</p>
 </audio>
 
-<p>Descargar Audio: <a href="http://www.podtrac.com/pts/redirect.mp3/" title="Botón derecho del ratón, luego guardar enlace como...">Episodio 2x12 - La importancia del diseño</a></p>
+<p>Descargar Audio: <a href="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x12/WeCodeSign%202x12%20-%20El%20Valor%20del%20Disen%CC%83o.mp3" title="Botón derecho del ratón, luego guardar enlace como...">Episodio 2x12 - La importancia del diseño</a></p>
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 
