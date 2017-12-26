@@ -10,7 +10,7 @@
 
 <channel>
     <title>WeCodeSign Podcast</title>
-    <atom:link href="http://wecodesignpodcast.com/rss.xml" rel="self" type="application/rss+xml" /> 
+    <atom:link href="http://wecodesignpodcast.com/rss.xml" rel="self" type="application/rss+xml" />
     <link>http://wecodesignpodcast.com</link>
     <description>El podcast de desarrollo front-end, diseño web y UX quincenal.
     </description>
@@ -19,7 +19,7 @@
     <sy:updateFrequency>1</sy:updateFrequency>
     <copyright>Copyright © WeCodeSign Podcast 2016-2016 </copyright>
     <managingEditor>ignaciodenuevo@gmail.com (WeCodeSign)</managingEditor>
-    <webMaster>wecodesignpodcast@gmail.com (WeCodeSign Podcast)</webMaster> 
+    <webMaster>wecodesignpodcast@gmail.com (WeCodeSign Podcast)</webMaster>
     <category>Web, Design, Development, UX, UI</category>
     <image>
         <url>http://wecodesignpodcast.com/img/caratula.jpg</url>
@@ -28,13 +28,13 @@
     </image>
     <itunes:subtitle>El podcast de desarrollo front-end, diseño web y UX quincenal.</itunes:subtitle>
     <itunes:summary>El podcast de desarrollo front-end, diseño web y UX quincenal.</itunes:summary>
-    <itunes:keywords>WeCodeSign, Diseño, Desarrollo, Web, Frontend, Front-end, UX, UI, webdesign, web, development, design</itunes:keywords> 
+    <itunes:keywords>WeCodeSign, Diseño, Desarrollo, Web, Frontend, Front-end, UX, UI, webdesign, web, development, design</itunes:keywords>
     <itunes:category text="Arts">
         <itunes:category text="Design"/>
     </itunes:category>
     <itunes:category text="Business">
         <itunes:category text="Management &amp; Marketing"/>
-    </itunes:category>   
+    </itunes:category>
     <itunes:category text="Technology">
          <itunes:category text="Software How-To"/>
     </itunes:category>
@@ -49,7 +49,6 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg" />
 
-    
 
 
 
@@ -64,7 +63,112 @@
 
 
 
-    
+
+    <item>
+      <title>2x14 - Polymer</title>
+      <pubDate>Tue, 26 Dec 2017 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+
+        <h3>Descripcion del programa</h3>
+
+        <p>¿Estás pensando en utilizar Polymer en grandes proyectos? Quédate y veremos todo lo que implica.</p>
+
+        <p>En el programa de hoy hablaremos sobre Polymer. ¿Para qué se pensó?. Veremos que para hacer aplicaciones web no y los problemas que puede dar.</p>
+
+        <p>¡Esperamos que os guste el episodio y como siempre nos vemos al final!</p>
+
+        <h3>¿Queréis participar?</h3>
+
+        <p>¿Queréis participar y ayudarnos a decidir que grabar en WeCodeSign y proponer invitad@s?</p>
+
+        <ul>
+          <li><a href="https://github.com/WeCodeSign/nuevos-episodios-e-invitades">Aquí podéis participar en WeCodeSign.</a></li>
+        </ul>
+
+        <h3>Preguntas rápidas: Borja Godoy</h3>
+
+        <ul>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/ismaelfaro">Ismael Faro</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/abdonrd">Abdón Rodríguez</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/Jnroji">Jon Rojí</a></li>
+          <li><span>Quién me ha inspirado: </span><a href="https://twitter.com/flipper83">Jorge Barroso</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="https://medium.com/">Medium</a></li>
+          <li><span>Recomiéndanos un recurso: </span><a href="http://wmedia.es/">Juan W Media</a></li>
+          <li><span>Recomiéndanos a un invitado o invitada: </span><a href="https://twitter.com/Jnroji">Jon Rojí</a></li>
+          <li><span>¿Qué tema te gustaría que tratásemos?: Agentes Inteligentes ((Siri, Alexa, Google Assistant))</span></li>
+        </ul>
+
+        <h3>Contacta con: Borja Godoy</h3>
+
+        <ul>
+          <li><a href="https://twitter.com/gody11">Twitter de Borja Godoy</a></li>
+          <li><a href="https://github.com/Borjagodoy">Github de Borja Godoy</a></li>
+          <li><a href="mailto:Borja.Godoy.Gago@gmail.com">Email de Borja Godoy</a></li>
+        </ul>
+
+        <h3>Links del programa</h3>
+
+        <ul>
+          <li><a href="https://twitter.com/i/moments/861549552901468160">James Kyle nailing the discussion about CSS and components</a></li>
+          <li><a href="https://meowni.ca/posts/web-components-with-otters/">An intro to web components with otters</a></li>
+          <li><a href="https://www.polymer-project.org/blog/2017-09-28-polymer-3-spanish">Preview de Polymer 3.0: npm y Módulos de ES6</a></li>
+          <li><a href="https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6">Polymer 3.0 Preview — Building a mini card game</a></li>
+          <li><a href="https://github.com/Polymer/polymer/wiki/Who's-using-Polymer%3F">Who's using Polymer?</a></li>
+          <li><a href="https://www.youtube.com/watch?v=4X4tCIJeo8w">Opening Remarks (Polymer Summit 2017)</a></li>
+          <li><a href="https://www.youtube.com/watch?list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi&v=TDpiyrcOO30">Polymer Summit 2017 Highlights</a></li>
+          <li><a href="https://www.webcomponents.org/">Web Components</a></li>
+          <li><a href="https://firebase.google.com/">Firebase</a></li>
+          <li><a href="https://developers.google.com/web/tools/lighthouse/">Lighthouse</a></li>
+          <li><a href="https://codelabs.developers.google.com/polymer-summit">Polymer Codelabs</a></li>
+          <li><a href="https://www.polymer-project.org/2.0/start/">Polymer 2.0 Docs</a></li>
+          <li><a href="https://twitter.com/ismaelfaro">Ismael Faro</a></li>
+          <li><a href="https://twitter.com/abdonrd">Abdón Rodríguez</a></li>
+          <li><a href="https://twitter.com/rob_dodson">Rob Dodson</a></li>
+          <li><a href="https://www.youtube.com/watch?v=4X4tCIJeo8w&list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi&index=2">Polymer Summit Talks</a></li>
+          <li><a href="https://www.captaincodeman.com/">Captain Codeman</a></li>
+          <li><a href="https://caniuse.com/#search=Web%20comp">Can I Use - Web Components</a></li>
+          <li><a href="https://stenciljs.com/">Stencil.JS</a></li>
+          <li><a href="https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154">A Pinterest Progressive Web App Performance Case Study</a></li>
+          <li><a href="https://twitter.com/addyosmani">Addy Osmani</a></li>
+        </ul>
+
+        <h3>Recomendaciones de Nacho</h3>
+
+        <ul>
+          <li><a href="https://www.captaincodeman.com/2017/07/19/project-structure-for-using-redux-with-polymer-20">Project Structure for Using Redux with Polymer 2.0</a></li>
+          <li><a href="https://www.captaincodeman.com/2017/05/18/polymer-tips-prevent-inactive-views-responding-to-other-route-changes">Polymer Tips: Prevent Inactive Views Responding To Other Route Changes</a></li>
+        </ul>
+
+        <h3>Patrocinadores</h3>
+
+        <ul>
+          <li><a href="http://fictizia.com/">Fictizia.com</a></li>
+        </ul>
+
+        <h3>Contacta con Ignacio y Carmen</h3>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="mailto:wecodesignpodcast@gmail.com">eMail de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio Villanueva</a></li>
+          <li><a href="https://twitter.com/carmenansio">Twitter de Carmen Ansio</a></li>
+          <li><a href="http://carmenansio.com/">Web de Carmen Ansio</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2017/12/26/polymer/</link>
+        <guid>http://wecodesignpodcast.com/2017/12/26/polymer/</guid>
+        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x14/WeCodeSign%202x14%20-%20Polymer.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>01:05:02</itunes:duration>
+        <itunes:keywords>Frontend, UX, Web, Diseño, Polymer</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>2x13 - Proyectos Sostenibles</title>
       <pubDate>Tue, 12 Dec 2017 18:30:00 GMT</pubDate>
@@ -756,7 +860,7 @@
         <p>Con él hablaremos sobre la neutralidad en la red, principio que sienta las bases que nos permiten a todos los usuarios poder expresarnos libremente, poder crear contenido y compartirlo a través de Internet.</p>
 
         <p>¡Esperamos que os guste el episodio y como siempre nos vemos al final!</p>
-         
+
         <h3>¿Queréis participar?</h3>
 
         <p>¿Queréis participar y ayudarnos a decidir que grabar en WeCodeSign y proponer invitad@s?</p>
@@ -1460,7 +1564,7 @@
         <p>Adalab nos parece una iniciativa social muy buena para combatir la diversidad laboral y animar a chicas a introducirse en el mundo de la programación.</p>
 
         <p>¡Esperamos que os guste el episodio!</p>
-         
+
         <h3>Recomendaciones</h3>
 
         <h3>Preguntas rápidas: Adalab: Rosario e Inés</h3>
@@ -2465,7 +2569,7 @@
         <pubDate>Tue, 03 Jan 2017 18:30:00 GMT</pubDate>
         <description>
         <![CDATA[
-    
+
             <h3>Descripcion del programa</h3>
 
             <p>Mario Sánchez, Director Creativo, de Experiencia de Usuario y uno de los dos socios de Redbility nos cuenta sus vivencias organizando proyectos y gestionando equipos.</p>
@@ -2541,7 +2645,7 @@
         <pubDate>Tue, 20 Dec 2016 18:30:00 GMT</pubDate>
         <description>
         <![CDATA[
-    
+
             <h3>Descripcion del programa</h3>
 
           Hoy hablamos con Jorge Aznar, front-end designer y autor de Scalable un libro sobre SVG y nos contará trucos y consejos para usar adecuadamente este formato de imagen infrautilizado.
@@ -2647,7 +2751,7 @@
         <pubDate>Tue, 06 Dec 2016 18:30:00 GMT</pubDate>
         <description>
         <![CDATA[
-    
+
             <h3>Descripcion del programa</h3>
 
             <p>En el programa de hoy, hablamos con Belén Albeza, devrel de Mozilla sobre la importancia del buen código CSS y buenas prácticas a tener en cuenta.</p>
@@ -2750,7 +2854,7 @@
         <pubDate>Tue, 22 Nov 2016 18:30:00 GMT</pubDate>
         <description>
         <![CDATA[
-    
+
             <h3>Descripcion del programa</h3>
 
             <p>Hoy es un programa muy especial, por un lado porque por fin puedo presentar dos iniciativas que se están realizando en la Madrid, la primera es un Meetup,<a href="https://osweekends.github.io/">OpenSource Weekends</a> que se realiza mensualmente un sábado al mes de 10:30h a 14:30h y la segunda es la apertura del Call for Papers de una conferencia que estamos organizando y que tendrá lugar en Campus Madrid el 18 de febrero de 2017 llamada <a href="http://frontfest.es/">FrontFest</a>.</p>
@@ -2851,7 +2955,7 @@
         <pubDate>Tue, 08 Nov 2016 18:30:00 GMT</pubDate>
         <description>
         <![CDATA[
-    
+
             <h3>Descripcion del programa</h3>
 
             <h3>Encuesta para pedir Feedback</h3>
@@ -2931,7 +3035,7 @@
         <pubDate>Tue, 25 Oct 2016 18:30:00 GMT</pubDate>
         <description>
         <![CDATA[
-            
+
             <h3>Descripcion del programa</h3>
 
             <p>En el front-end cada seis meses aparece un nuevo framework o librería y creemos que va a camabiarlo todo. Por ello en este episodio hemos invitado a Miguel, CTO de Redradix en el que hablamos de su visión del panorama actual.</p>
@@ -3047,7 +3151,7 @@
         <pubDate>Tue, 11 Oct 2016 18:30:00 GMT</pubDate>
         <description>
         <![CDATA[
-            
+
             <h3>Descripcion del programa</h3>
 
             <p>Hoy contamos con un amigo del programa, Lole Román, diseñador UI y tipógrafo, apasionado de crear.</p>
@@ -3138,7 +3242,7 @@
         <pubDate>Tue, 27 Sep 2016 18:30:00 GMT</pubDate>
         <description>
         <![CDATA[
-            
+
             <h3>Descripcion del programa</h3>
 
             <p>¿Cómo influye el Web Audio en la Web? ¿Por qué el Progressive enhacement es algo más que actualizar JS? ¿En qué proyectos está inmerso ahora mismo Mozilla? ¿Cómo podemos mejorar nuestra experiencia con el audio?</p>
@@ -3177,7 +3281,7 @@
             <h3>Links del programa</h3>
 
             <ul>
-              <li><a href="https://webcompat.com">Bug reporting 
+              <li><a href="https://webcompat.com">Bug reporting
               for the internet</a></li>
               <li><a href="https://webaudio.github.io/web-audio-api">Web Audio API</a></li>
               <li><a href="https://es.wikipedia.org/wiki/Tracker_(software_de_m%C3%BAsica)">Trackers</a></li>
@@ -3238,7 +3342,7 @@
         <pubDate>Tue, 13 Sep 2016 18:30:00 GMT</pubDate>
         <description>
         <![CDATA[
-            
+
             <h3>Descripcion del programa</h3>
 
             <p>¿Es el Diseño de Interacción una moda pasajera o está para quedarse? ¿Se utiliza correctamente? ¿En qué casos es necesario y cuándo es superfluo? ¿Cómo afecta a la acesibilidad? ¿Qué herramientas son imprescindibles para este sector?</p>
@@ -3323,7 +3427,7 @@
         <pubDate>Tue, 30 Aug 2016 18:30:00 GMT</pubDate>
         <description>
         <![CDATA[
-            
+
             <h3>Descripcion del programa</h3>
 
             <p>Alejandro Arroyo Duque de Sngular nos cuenta su experiencia con Angular y Polymer en empresas tan destacadas como BBVA, Mapfre o Bankia. Hablamos de como le surge la idea de desarrollar videojuegos en JavaScript.</p>
@@ -3411,7 +3515,7 @@
         <pubDate>Tue, 16 Aug 2016 18:30:00 GMT</pubDate>
         <description>
         <![CDATA[
-            
+
             <h3>Descripcion del programa</h3>
 
             <p>Luis Martín de la agencia digital Martin & Young, una agencia de desarrollo y posicionamiento web nos cuenta su experiencia trabajando con diferentes CMS como WordPress, Joomla o Prestashop.</p>
@@ -3493,7 +3597,7 @@
         <title>7 - Exportando talento</title>
         <description>
         <![CDATA[
-            
+
             <h3>Descripcion del programa</h3>
 
             <p>Ex-ingeniero mecánico, ex-programador autodidacta, amigo de emprendedores y estrellas de Hollywood, Miguel es un Bilbaíno que se instaló en Vancouver y allí montó su empresa de animación y vídeos digitales. En este podcast, descubriremos qué hace falta para emprender en otro país, en que consiste la “ignorancia selectiva” y qué hacer para pasar de 0 a 100% conun simple email estratégico.</p>
@@ -3632,7 +3736,7 @@
         <p>¿Qué es UX Academy? Como nos  cuenta Javier es un proyecto que sacó tras ver la necesidad de profesionales de experiencia de usuario en un marco práctico dondetambién intenta dar visibilidad a los profesionales del sector.</p>
 
         <p>También comentaremos la virtud de nuestro sector de poder compartir experiencias y conocimiento, algo que nos llena a enriquecernos de otros grandes del sector.</p>
-         
+
         <p>¿Te lo vas a perder?</p>
 
         <h3>Preguntas rápidas: Javier Larrea García</h3>
@@ -3660,7 +3764,7 @@
             <li><a href="http://www.adobe.com/es/products/experience-design.html">Adobe Experience Design</a></li>
             <li><a href="https://www.sketchapp.com">Sketch</a></li>
             <li><a href="https://www.invisionapp.com/">Invision</a></li>
-            <li><a href="https://uxpin.com">UXPin</a></li>   
+            <li><a href="https://uxpin.com">UXPin</a></li>
         </ul>
 
         <h3>Recomendaciones de Nacho</h3>
@@ -3686,13 +3790,13 @@
 
         <![CDATA[
         <h3>Descripcion del programa</h3>
-         
+
         <p>¿Cómo podemos darle visibilidad a nuestra página en los buscadores? ¿Funciona la estrategia de link-building? ¿Qué quiere decir Google cuando afirma que “El contenido es el rey”? ¿Qué peso tienen las RRSS en los resultados de búsqueda? ¿Qué puede hacer una pyme cuando empieza?</p>
 
         <p>Jose Ramón Saura, consultor y analista SEO, nos desvela algunos de los secretos detrás de esta profesión tan importante como desconocida.</p>
-         
+
         <p>¿Te lo vas a perder?</p>
-         
+
         <h3>Recomendaciones</h3>
 
         <h4>Preguntas rápidas: José Ramón Saura</h4>
@@ -3745,17 +3849,17 @@
 
         <![CDATA[
             <h3>Descripcion del programa</h3>
-             
+
             <p>Siguiendo con la estela de las alternativas a la educación tradicional, esta vez hablamos de las plataformas de formación online como Udacity, pionera en la formación de nuevas hornadas de desarrolladores y programadores a distancia.</p>
-             
+
             <p>Además, entrevistaremos a Alvaro Sanmartín, responsable de desarrollo europeo de Udacity, el cual nos explicará cuáles son las claves y frenos para la formación hoy en día.</p>Además, entrevistaremos a Alvaro Sanmartín, responsable de desarrollo europeo de Udacity, el cual nos explicará cuáles son las claves y frenos para la formación hoy en día.</p>
-             
+
             <p>¿Te lo vas a perder?</p>
-             
+
             <h3>Recomendaciones</h3>
-             
+
             <h3>Preguntas rápidas: Álvaro Sanmartín</h3>
-             
+
             <ul>
                 <li><span>Quién me ha inspirado: </span>Mis padres</li>
                 <li><span>Imprescindible: </span>El tema que te apasione</li>
@@ -3764,16 +3868,16 @@
                 <li><span>A quién entrevistar: </span><a href="https://www.linkedin.com/in/saleiva/es">Sergio Álvarez Leiva</a></li>
                 <li><span>Temas a tratar: </span>¿Cómo encontrar el tiempo para aprender cada día?</li>
             </ul>
-             
+
             <h3>Contacta con Álvaro Sanmartín</h3>
-             
+
             <ul>
                 <li><a href="http://alvarosanmartin.com">Web</a></li>
                 <li><a href="https://twitter.com/AlvaroSanmartin">Twitter</a></li>
             </ul>
-             
+
             <h3>Links del programa</h3>
-             
+
             <ul>
                  <li><a href="https://www.udacity.com">Udacity</a></li>
                  <li><a href="https://www.codeschool.com">Code School</a></li>
@@ -3783,9 +3887,9 @@
                  <li><a href="https://www.pluralsight.com">Pluralsight</a></li>
                  <li><a href="https://teamtreehouse.com">treehouse</a></li>
             </ul>
-             
+
             <h3>Recomendaciones de Nacho</h3>
-             
+
             <ul>
                 <li><a href="https://www.freecodecamp.com/">FreeCodeCamp</a></li>
                 <li><a href="https://www.designcuts.com/">DESIGNCUTS</a></li>
@@ -3809,11 +3913,11 @@
         <![CDATA[
 
             <p>Hoy en WeCodeSign continuamos analizando el papel de la Universidad en la formación de diseñadores y desarrolladores web y analizamos una de sus alternativas para los más valientes: los bootcamps.</p>
- 
+
             <p>Entrevistamos a Gonzalo Manrique, co-fundador de Ironhack, el bootcamp de programación referencia en nuestro país.</p>
 
             <p>Además de todo ello, nuestras “recomendaciones” de cada programa, el espacio de sugerencias y recursos útiles para diseñadores y desarrolladores web.</p>
-             
+
             <p>!Comenzamos!</p>
 
             <h3>Recomendaciones</h3>
@@ -3851,13 +3955,13 @@
                 <li><a href="https://www.facebook.com/wecodesignpodcast">Facebook</a></li>
             </ul>
 
-            ]]> 
+            ]]>
         </description>
         <link>http://wecodesignpodcast.com/2016/05/24/episodio-2/</link>
         <guid>http://wecodesignpodcast.com/2016/05/24/episodio-2/</guid>
         <pubDate>Tue, 24 May 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignEpisodio1x02FormacionDeLaUniversidadALosBootcamps/WeCodeSign%20-%20Episodio%201x02-%20Formacio%CC%81n%20de%20la%20universidad%20a%20los%20Bootcamps.mp3" type="audio/mpeg" length="0"/>
-        <itunes:keywords>Educación, Universidad, Bootcamps, HTML, CSS, JavaScript, Ruby, Madrid</itunes:keywords> 
+        <itunes:keywords>Educación, Universidad, Bootcamps, HTML, CSS, JavaScript, Ruby, Madrid</itunes:keywords>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>01:12:51</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
@@ -3910,14 +4014,14 @@
                 <li><a href="https://www.facebook.com/wecodesignpodcast">Facebook</a></li>
             </ul>
 
-            ]]> 
+            ]]>
 
         </description>
         <link>http://wecodesignpodcast.com/2016/05/10/episodio-1/</link>
         <guid>http://wecodesignpodcast.com/2016/05/10/episodio-1/</guid>
         <pubDate>Tue, 10 May 2016 18:30:00 GMT</pubDate>
         <enclosure url="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WeCodeSignPodcastEpisodio1x01/WeCodeSign%20Podcast%20-%20Episodio%201x01.mp3" type="audio/mpeg" length="41021035"/>
-        <itunes:keywords>Educación, Universidad, Front-end, Back-end, HTML, CSS, JavaScript, Madrid</itunes:keywords> 
+        <itunes:keywords>Educación, Universidad, Front-end, Back-end, HTML, CSS, JavaScript, Madrid</itunes:keywords>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:53:24</itunes:duration>
         <itunes:explicit>no</itunes:explicit>
