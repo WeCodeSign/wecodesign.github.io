@@ -10,7 +10,7 @@ title: "Acerca de WeCodeSign"
 	<div class="acerca__wrapper">
 		<h3 class="acerca__name">Ignacio Villanueva</h3>
 		<div class="rule"></div>
-		<p>Front-end Developer especializado en arquitectura y front-end performance and responsive web design.</p>
+		<p>Frontend developer especializado en performance, responsive design, tipografía web y accesibilidad.</p>
 		<p class="home-section__p">Puedes seguirme en <a href="https://twitter.com/IgnaciodeNuevo" target="_blank">Twitter</a>, en <a href="https://github.com/IgnaciodeNuevo" target="_blank">Github</a>, suscribirte via <a href="http://ignaciodenuevo.com/feed.xml" target="_blank">RSS Feed</a>, puedes mandarme un <a href="mailto:ignaciodenuevo@gmail.com">Email</a> o visitar mi <a href="http://ignaciodenuevo.com" target="_blank">página web</a>.</p>
 	</div>
 </div>
