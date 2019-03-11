@@ -1,7 +1,9 @@
 ---
 layout: acerca
-title: "Acerca de nosotros"
+title: "Acerca de WeCodeSign"
 ---
+
+<h2 class="post-title  post-heading">Host</h2>
 
 <div class="acerca__unit  clearfix">
 	<img class="acerca__portrait" src="/img/portrait-nacho.svg" alt="Ilustración de Ignacio">
@@ -13,6 +15,8 @@ title: "Acerca de nosotros"
 	</div>
 </div>
 
+<!-- <h2 class="post-title  post-heading">Anteriores Co-Host</h2>
+
 <div class="acerca__unit  clearfix">
 	<img class="acerca__portrait" src="/img/portrait-carmen.svg" alt="Ilustración de Carmen">
 	<div class="acerca__wrapper">
@@ -21,23 +25,7 @@ title: "Acerca de nosotros"
 		<p>UI & Front-end Designer amante del CSS y los SVG's.</p>
 		<p class="home-section__p">Integrante de <a href="http://ada.barcelonajs.org" target="_blank">AdaJS</a>. Podrás encontrarme en <a href="https://twitter.com/carmenansio">Twitter</a> en <a href="https://github.com/redfluff">Github</a> o enviarme un <a href="mailto:carmenansio@gmail.com">Email</a> o a través de mi <a href="http://www.carmenansio.com/">Web</a>.</p>
 	</div>
-</div>
-
-<div class="rule"></div>
-
-<h2 class="post-title  post-heading">Patrocinadores</h2>
-
-<div class="acerca__unit  clearfix">
-	<img class="acerca__portrait" src="/img/fictizia-zeta.svg" alt="Logo de Fictizia">
-	<div class="acerca__wrapper">
-		<h3 class="acerca__name">Fictizia</h3>
-		<div class="rule"></div>
-		<p><a href="http://fictizia.com/" target="_blank">FICTIZIA</a> es un centro de formación en Nuevas Tecnologías & Artes Digitales que tiene su base en Madrid.</p>
-		<p>En su área de Diseño interactivo y Desarrollo web encontramos planes de estudios de especialización en Diseño de interfaz, UX, tecnologías como HTML5, CSS, JavaScript, React, Angular, Node.js, Polymer, PHP o Python, entre otros, impartidos por especialistas a exclusivamente a 8 alumnos en cada edición de sus Cursos y Másters.</p>
-	</div>
-</div>
-
-<div class="rule"></div>
+</div> -->
 
 <h2 class="post-title  post-heading">Contacto</h2>
 
@@ -46,7 +34,6 @@ title: "Acerca de nosotros"
 + [iTunes](https://itunes.apple.com/es/podcast/wecodesign-podcast/id1113501272?l=en)
 + [iVoox](http://www.ivoox.com/escuchar-audios-wecodesign-podcast_al_5101204_1.html)
 + [Spreaker](http://www.spreaker.com/user/8737490)
-+ [Podkas](http://www.podkas.com/directorio/weckdesign-podcast-de-httpstwitter-comwecodesign)
 
 ### Redes Sociales
 
@@ -54,7 +41,7 @@ title: "Acerca de nosotros"
 
 <div class="rule  rule--big"></div>
 
-<h2 class="post-title  post-heading">Escribidnos</h2>
+<h2 class="post-title  post-heading">Escríbeme</h2>
 
 Escribidnos al [Email](mailto:{{ site.email }}) del Podcast.
 
