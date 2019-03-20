@@ -6,16 +6,12 @@ podcast_number: "WCD 2x08"
 podcast_date: "Octubre 02, 2017"
 podcast_duration: "01:12:13"
 image_url: /img/fondo2x08.jpg
-tags: 
+tags:
   - web
   - PWA
 ---
 
-<audio src="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x08/WeCodeSign%202x08%20-%20Progressive%20Web%20Apps.mp3" preload="auto" controls style="width: 100%;">
-  <p>Tu navegador no implementa el elemento audio</p>
-</audio>
-
-<p>Descargar Audio: <a href="http://www.podtrac.com/pts/redirect.mp3/archive.org/download/WCD-2x08/WeCodeSign%202x08%20-%20Progressive%20Web%20Apps.mp3" title="Botón derecho del ratón, luego guardar enlace como...">Episodio 2x08 - La Web Abierta</a></p>
+Sin entender por qué, donde tengo hospedados los episodios no aparece. Siento las molestias.
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 
@@ -24,7 +20,7 @@ José Manuel es ingeniero de software, trabaja como desarrollador web en Estocol
 Con él nos adentraremos en el mundo de las Progressive Web Apps, y veremos como gracias al nuevo Catálogo de Apis podemos realizar acciones tales como notificaciones push, almacenamiento local y ejecución offline entre muchas otras.
 
 ¡Esperamos que os guste el episodio y como siempre nos vemos al final!
- 
+
 <div class="rule"></div>
 
 #Web #PWA
