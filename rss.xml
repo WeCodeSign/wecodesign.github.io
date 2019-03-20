@@ -12,13 +12,13 @@
     <title>WeCodeSign Podcast</title>
     <atom:link href="http://wecodesignpodcast.com/rss.xml" rel="self" type="application/rss+xml" />
     <link>http://wecodesignpodcast.com</link>
-    <description>El podcast de desarrollo front-end, diseño web y UX quincenal.
+    <description>El podcast de desarrollo front-end, diseño web y UX.
     </description>
     <language>es-ES</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-    <copyright>Copyright © WeCodeSign Podcast 2016-2016 </copyright>
-    <managingEditor>ignaciodenuevo@gmail.com (WeCodeSign)</managingEditor>
+    <copyright>Copyright © WeCodeSign Podcast 2016-2019</copyright>
+    <managingEditor>ignaciodenuevo@posteo.net (WeCodeSign)</managingEditor>
     <webMaster>wecodesignpodcast@gmail.com (WeCodeSign Podcast)</webMaster>
     <category>Web, Design, Development, UX, UI</category>
     <image>
@@ -28,7 +28,7 @@
     </image>
     <itunes:subtitle>El podcast de desarrollo front-end, diseño web y UX quincenal.</itunes:subtitle>
     <itunes:summary>El podcast de desarrollo front-end, diseño web y UX quincenal.</itunes:summary>
-    <itunes:keywords>WeCodeSign, Diseño, Desarrollo, Web, Frontend, Front-end, UX, UI, webdesign, web, development, design</itunes:keywords>
+    <itunes:keywords>WeCodeSign, Diseño, Desarrollo, Web, Frontend, Front-end, UX, UI, Typography, Performance, Accessibility, webdesign, web, development, design</itunes:keywords>
     <itunes:category text="Arts">
         <itunes:category text="Design"/>
     </itunes:category>
@@ -64,6 +64,43 @@
 
 
 
+<item>
+      <title>3x1 - ¡Volvemos!</title>
+      <pubDate>Wed, 20 Mar 2019 18:30:00 GMT</pubDate>
+      <description>
+      <![CDATA[
+        <h1>Descripcion del programa</h1>
+
+        <p>¿Queréis saber de que hablamos en este episodio? Dadle al play ;)</p>
+
+        <h2>¿Queréis participar?</h2>
+
+        <p>Quieres proponer algún tema?</p>
+
+        <ul>
+          <li><a href="https://github.com/WeCodeSign/nuevos-episodios-e-invitades">Aquí podéis participar en WeCodeSign.</a></li>
+        </ul>
+
+        <h2>Contacta</h2>
+
+        <ul>
+          <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+          <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+          <li><a href="http://ignaciodenuevo.com/">Web de Ignacio</a></li>
+          <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio</a></li>
+        </ul>
+
+        ]]>
+        </description>
+        <link>http://wecodesignpodcast.com/2019/03/20/volvemos/</link>
+        <guid>http://wecodesignpodcast.com/2019/03/20/volvemos/</guid>
+        <enclosure url="https://archive.org/download/WCD3x1/WCD%203x1.mp3" type="audio/mpeg" length="0"/>
+        <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+        <itunes:duration>00:06:01</itunes:duration>
+        <itunes:keywords>Frontend, UX, Web, Accesibilidad, Performance, Tipografía</itunes:keywords>
+        <itunes:author>WeCodeSign Podcast</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>2x14 - Polymer</title>
       <pubDate>Tue, 26 Dec 2017 18:30:00 GMT</pubDate>
