@@ -63,7 +63,43 @@
 
 
 
+<item>
+    <title>3x2 - Autoexplotación</title>
+    <pubDate>Thu, 04 Apr 2019 18:30:00 GMT</pubDate>
+    <description>
+    <![CDATA[
+    <h1>Descripcion del programa</h1>
 
+    <p>¿Queréis saber de que hablamos en este episodio? Dadle al play ;)</p>
+
+    <h2>¿Queréis participar?</h2>
+
+    <p>Quieres proponer algún tema?</p>
+
+    <ul>
+        <li><a href="https://github.com/WeCodeSign/nuevos-episodios-e-invitades">Aquí podéis participar en WeCodeSign.</a></li>
+    </ul>
+
+    <h2>Contacta</h2>
+
+    <ul>
+        <li><a href="http://wecodesignpodcast.com/">Web de WeCodeSign</a></li>
+        <li><a href="https://twitter.com/wecodesign">Twitter de WeCodeSign</a></li>
+        <li><a href="http://ignaciodenuevo.com/">Web de Ignacio</a></li>
+        <li><a href="https://twitter.com/IgnaciodeNuevo">Twitter de Ignacio</a></li>
+    </ul>
+
+    ]]>
+    </description>
+    <link>http://wecodesignpodcast.com/2019/04/04/autoexplotacion/</link>
+    <guid>http://wecodesignpodcast.com/2019/04/04/autoexplotacion/</guid>
+    <enclosure url="https://archive.org/download/WeCodeSign3x2/WeCodeSign%203x2.mp3" type="audio/mpeg" length="0"/>
+    <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
+    <itunes:duration>00:19:33</itunes:duration>
+    <itunes:keywords>Frontend, UX, Web, Accesibilidad, Performance, Tipografía</itunes:keywords>
+    <itunes:author>WeCodeSign Podcast</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+</item>
 <item>
       <title>3x1 - ¡Volvemos!</title>
       <pubDate>Wed, 20 Mar 2019 18:30:00 GMT</pubDate>
@@ -94,7 +130,7 @@
         </description>
         <link>http://wecodesignpodcast.com/2019/03/20/volvemos/</link>
         <guid>http://wecodesignpodcast.com/2019/03/20/volvemos/</guid>
-        <enclosure url="https://archive.org/download/WCD3x1/WCD%203x1.mp3" type="audio/mpeg" length="0"/>
+        <enclosure url="https://archive.org/download/WeCodeSign3x2/WeCodeSign%203x2.mp3" type="audio/mpeg" length="0"/>
         <itunes:image href="http://wecodesignpodcast.com/img/caratula.jpg"/>
         <itunes:duration>00:06:01</itunes:duration>
         <itunes:keywords>Frontend, UX, Web, Accesibilidad, Performance, Tipografía</itunes:keywords>

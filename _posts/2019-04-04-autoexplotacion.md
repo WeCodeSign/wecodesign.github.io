@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "¡Volvemos!"
+title: "Autoexplotación"
 excerpt: "¿Queréis saber de que hablamos en este episodio? Dadle al play ;)"
-podcast_number: "3x1 - ¡Volvemos!"
-podcast_date: "Marzo 20, 2019"
+podcast_number: "3x2 - Autoexplotación"
+podcast_date: "Abril 04, 2019"
 podcast_duration: "00:06:01"
 ---
 
-<audio src="https://archive.org/download/WCD3x1/WCD%203x1.mp3" preload="auto" controls style="width: 100%;">
+<audio src="https://archive.org/download/WeCodeSign3x2/WeCodeSign%203x2.mp3" preload="auto" controls style="width: 100%;">
   <p>Tu navegador no implementa el elemento audio</p>
 </audio>
 
-<p>Descargar Audio: <a href="https://archive.org/download/WCD3x1/WCD%203x1.mp3" title="Botón derecho del ratón, luego guardar enlace como...">3x1 - ¡Volvemos!</a></p>
+<p>Descargar Audio: <a href="https://archive.org/download/WeCodeSign3x2/WeCodeSign%203x2.mp3" title="Botón derecho del ratón, luego guardar enlace como...">3x2 - Autoexplotación</a></p>
 
 <h3 class="post-title  post-heading">Descripcion del programa</h3>
 
